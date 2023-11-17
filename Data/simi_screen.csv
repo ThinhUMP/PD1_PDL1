@@ -1,0 +1,835 @@
+,Name,StandardSmiles,Molecules,tanimoto_avalon
+83,Ramipril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)C[C@@H]2CCC[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f85c040>,0.370253164556962
+111,Reserpine,COC(=O)C1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f85ca50>,0.3397312859884837
+114,Trospium,O=C(O[C@H]1C[C@H]2CC[C@@H](C1)[N+]21CCCC1)C(O)(c1ccccc1)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85cb30>,0.33986928104575165
+123,Moxifloxacin,COc1c(N2C[C@@H]3CCCN[C@@H]3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f85cf20>,0.34615384615384615
+125,Nelfinavir,Cc1c(O)cccc1C(=O)N[C@@H](CSc1ccccc1)[C@H](O)CN1C[C@H]2CCCC[C@H]2CC1C(=O)NC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f85d040>,0.38439306358381503
+129,Indinavir,CC(C)(C)NC(=O)C1CN(Cc2cccnc2)CCN1C[C@@H](O)CC(Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f85d190>,0.3869047619047619
+136,Temazepam,CN1C(=O)C(O)N=C(c2ccccc2)c2cc(Cl)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f85d430>,0.3507692307692308
+148,Ranolazine,COc1ccccc1OCC(O)CN1CCN(CC(=O)Nc2c(C)cccc2C)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85d970>,0.34108527131782945
+150,Benzatropine,CN1[C@@H]2CC[C@@H]1CC(OC(c1ccccc1)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f85da50>,0.3254901960784314
+159,Doxycycline,CC1c2cccc(O)c2C(=O)C2C(=O)[C@]3(O)C(=O)C(C(N)=O)C(=O)C(N(C)C)[C@@H]3[C@@H](O)[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f85dd60>,0.35872235872235875
+161,Lymecycline,CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f85de40>,0.3686635944700461
+166,Anagrelide,Oc1cn2c(n1)Nc1ccc(Cl)c(Cl)c1C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f85e0b0>,0.32054176072234764
+183,Argatroban,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CC[C@@H](C)CC2C(=O)O)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85e740>,0.35732647814910024
+198,Raltitrexed,Cc1nc(=O)c2cc(CN(C)c3ccc(C(=O)NC(CCC(=O)O)C(=O)O)s3)ccc2[nH]1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85ecf0>,0.32235294117647056
+200,Morphine,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f85edd0>,0.351409978308026
+208,Ertapenem,C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)[C@H](C)[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f85f120>,0.32532751091703055
+222,Gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85f6d0>,0.35587188612099646
+223,Codeine,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f85f740>,0.3568281938325991
+232,Hydromorphone,CN1CC[C@]23c4c5ccc(O)c4OC2C(=O)CC[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f85f9e0>,0.3663594470046083
+233,Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f85fa50>,0.3316062176165803
+236,Ipratropium,CC(C)[N+]1(C)[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(CO)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f85fba0>,0.35294117647058826
+247,Diltiazem,COc1ccc([C@@H]2Sc3ccccc3N(CCN(C)C)C(=O)C2OC(C)=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f860040>,0.33641975308641975
+250,Alfuzosin,COc1cc2nc(N(C)CCCNC(=O)C3CCCO3)nc(N)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f860190>,0.3235294117647059
+262,Mefloquine,OC(c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12)C1CCCCN1,<rdkit.Chem.rdchem.Mol object at 0x7f615f8606d0>,0.3230240549828179
+269,Grepafloxacin,Cc1c(F)c(N2CCNC(C)C2)cc2c1c(=O)c(C(=O)O)cn2C1CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f860890>,0.32186732186732187
+278,Treprostinil,CCCCC[C@@H](O)CC[C@H]1[C@@H]2Cc3cccc(OCC(=O)O)c3C[C@@H]2C[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f860c10>,0.35034013605442177
+281,Palonosetron,O=C1c2cccc3c2[C@@H](CCC3)CN1[C@@H]1CN2CCC1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f860d60>,0.35443037974683544
+303,Griseofulvin,COc1cc(OC)c2c(c1Cl)O[C@]1(C2=O)C(OC)CC(=O)C[C@H]1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f861660>,0.3477157360406091
+311,Loxapine,CN1CCN(C2=Nc3ccccc3Oc3ccc(Cl)cc32)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f861890>,0.3215434083601286
+312,Remoxipride,CCN1CCC[C@H]1CNC(=O)c1c(OC)ccc(Br)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f861900>,0.3448275862068966
+327,Hyoscyamine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f861f20>,0.3418181818181818
+350,Loracarbef,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f81f7b0>,0.3342541436464088
+356,Clomocycline,CN(C)C1C(=O)C(C(=O)NCO)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f81f9e0>,0.3684210526315789
+360,Prazosin,COc1cc2nc(N3CCN(C(=O)c4ccco4)CC3)nc(N)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f81fba0>,0.32386363636363635
+367,Ketorolac,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81feb0>,0.35324675324675325
+370,Quinine,C=C[C@H]1CN2CC[C@@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f821040>,0.38311688311688313
+382,Lenalidomide,Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f8214a0>,0.3471337579617834
+398,Darifenacin,NC(=O)C(c1ccccc1)(c1ccccc1)C1CCN(CCc2ccc3c(c2)CCO3)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f8219e0>,0.35737704918032787
+399,Oxycodone,COc1ccc2c3c1OC1C(=O)CC[C@@]4(O)[C@@H](C2)N(C)CC[C@]314,<rdkit.Chem.rdchem.Mol object at 0x7f615f821a50>,0.3681917211328976
+419,Trandolapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(C(=O)O)C[C@H]2CCCC[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f820190>,0.40594059405940597
+421,Carteolol,CC(C)(C)NCC(O)COc1cccc2c1CCC(=O)N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f820200>,0.3527272727272727
+424,Metolazone,Cc1ccccc1N1C(=O)c2cc(S(N)(=O)=O)c(Cl)cc2NC1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f820350>,0.3387096774193548
+442,Benazepril,CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f8209e0>,0.4035714285714286
+443,Amoxapine,Clc1ccc2c(c1)C(N1CCNCC1)=Nc1ccccc1O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f820a50>,0.3238095238095238
+454,Piroxicam,CN1C(C(=O)Nc2ccccn2)C(=O)c2ccccc2S1(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f820eb0>,0.32571428571428573
+461,Doxapram,CCN1CC(CCN2CCOCC2)C(c2ccccc2)(c2ccccc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81e190>,0.3422818791946309
+463,Methotrexate,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f81e270>,0.322884012539185
+472,Atropine,CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f81e510>,0.3418181818181818
+484,Enalapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81e9e0>,0.3765182186234818
+490,Doxazosin,COc1cc2nc(N3CCN(C(=O)C4COc5ccccc5O4)CC3)nc(N)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f81ec80>,0.4185303514376997
+495,Oxytetracycline,CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3[C@H](O)[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f81eeb0>,0.36018957345971564
+501,Linezolid,CC(=O)NC[C@H]1CN(c2ccc(N3CCOCC3)c(F)c2)C(=O)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f816190>,0.3424657534246575
+504,Cisapride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(CCCOc2ccc(F)cc2)CC1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f816270>,0.3797909407665505
+507,Nafcillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f8163c0>,0.3456221198156682
+511,Butorphanol,Oc1ccc2c(c1)[C@@]13CCCC[C@@]1(O)[C@@H](C2)N(CC1CCC1)CC3,<rdkit.Chem.rdchem.Mol object at 0x7f615f816580>,0.34005037783375314
+516,Candoxatril,COCCOCC(CC1(C(=O)NC2CCC(C(=O)O)CC2)CCCC1)C(=O)Oc1ccc2c(c1)CCC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f8166d0>,0.33793103448275863
+518,Demeclocycline,CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@H](O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f8167b0>,0.3744075829383886
+528,Clorazepic acid,O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f816ba0>,0.32802547770700635
+573,Galantamine,COc1ccc2c3c1O[C@H]1C[C@@H](O)C=C[C@@]31CCN(C)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f81dd60>,0.342042755344418
+587,Mycophenolate mofetil,COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)OCCN1CCOCC1)C(=O)OC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f81c270>,0.35294117647058826
+590,Moexipril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2cc(OC)c(OC)cc2CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81c3c0>,0.48175182481751827
+603,Naltrexone,O=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)C1O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f81c820>,0.3624733475479744
+614,Paroxetine,Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f81cc10>,0.3345323741007194
+615,Nedocromil,CCCc1c2oc(C(=O)O)cc(=O)c2cc2c(=O)cc(C(=O)O)n(CC)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f81cc80>,0.32791327913279134
+621,Lisinopril,NCCCCC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81ceb0>,0.3510204081632653
+624,Homatropine methylbromide,C[N+]1(C)C2CCC1CC(OC(=O)C(O)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f81b040>,0.3709090909090909
+627,Rocuronium,C=CC[N+]1([C@H]2C[C@H]3[C@@H]4CC[C@H]5C[C@H](O)[C@@H](N6CCOCC6)C[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2OC(C)=O)CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f81b190>,0.33589743589743587
+645,Scopolamine,CN1[C@@H]2CC(OC(=O)C(CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f81b820>,0.3445121951219512
+656,Clopidogrel,COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f81bcf0>,0.32225063938618925
+657,Tetracycline,CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f81bd60>,0.3597122302158273
+660,Irinotecan,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f81beb0>,0.3220338983050847
+665,Benzquinamide,CCN(CC)C(=O)C1CN2CCc3cc(OC)c(OC)cc3C2CC1OC(C)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81a120>,0.4358974358974359
+680,Estradiol,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f81a6d0>,0.32786885245901637
+686,Perindopril,CCCC(NC(C)C(=O)N1C(C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)OCC,<rdkit.Chem.rdchem.Mol object at 0x7f615f81a970>,0.3717105263157895
+713,Rosoxacin,CCn1cc(C(=O)O)c(=O)c2ccc(-c3ccncc3)cc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f819350>,0.3303303303303303
+716,Tadalafil,CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)[C@H]2c2ccc3c(c2)OCO3)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f8194a0>,0.3259109311740891
+738,Donepezil,COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f819d60>,0.37333333333333335
+739,Nalbuphine,Oc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@@]4(O)[C@@H](C2)N(CC2CCC2)CC[C@]314,<rdkit.Chem.rdchem.Mol object at 0x7f615f819dd0>,0.3557483731019523
+776,Quinapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1Cc2ccccc2CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f818ba0>,0.4349442379182156
+781,Omapatrilat,O=C(NC1CCS[C@H]2CCCC(C(=O)O)N2C1=O)C(S)Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f818dd0>,0.3670886075949367
+798,Ondansetron,Cc1nccn1CC1CCc2c(c3ccccc3n2C)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f817580>,0.32421052631578945
+801,Cocaine,COC(=O)C1C2CCC(C[C@@H]1OC(=O)c1ccccc1)N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f8176d0>,0.3745819397993311
+802,Quinidine,C=C[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f817740>,0.38311688311688313
+806,Repaglinide,CCOc1cc(CC(=O)N[C@@H](CC(C)C)c2ccccc2N2CCCCC2)ccc1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f817900>,0.3357664233576642
+815,Buprenorphine,CO[C@]12CC[C@@]3(C[C@@H]1[C@](C)(O)C(C)(C)C)[C@H]1Cc4ccc(O)c5c4[C@@]3(CCN1CC1CC1)[C@H]2O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f817c80>,0.346723044397463
+824,Metacycline,C=C1c2cccc(O)c2C(=O)C2C(=O)[C@]3(O)C(=O)C(C(N)=O)C(=O)C(N(C)C)[C@@H]3[C@@H](O)[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f817f90>,0.35784313725490197
+849,Hydrocodone,COc1ccc2c3c1OC1C(=O)CC[C@H]4[C@@H](C2)N(C)CC[C@]314,<rdkit.Chem.rdchem.Mol object at 0x7f615f8157b0>,0.3732394366197183
+865,Ezetimibe,O=C1C(CC[C@H](O)c2ccc(F)cc2)[C@@H](c2ccc(O)cc2)N1c1ccc(F)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f815c80>,0.40069686411149824
+869,Ethinylestradiol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C,<rdkit.Chem.rdchem.Mol object at 0x7f615f815d60>,0.3291139240506329
+870,Lomefloxacin,CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNC(C)C3)c(F)c21,<rdkit.Chem.rdchem.Mol object at 0x7f615f815dd0>,0.3209549071618037
+878,Glycopyrronium,C[N+]1(C)CCC(OC(=O)C(O)(c2ccccc2)C2CCCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f814190>,0.34448160535117056
+909,Minocycline,CN(C)c1ccc(O)c2c1C[C@H]1C[C@H]3C(N(C)C)C(=O)C(C(N)=O)C(=O)[C@@]3(O)C(=O)C1C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f814d60>,0.357487922705314
+916,Mycophenolic acid,COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)O)C(=O)OC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f8130b0>,0.3298245614035088
+931,Thalidomide,O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f813660>,0.35106382978723405
+934,Gatifloxacin,COc1c(N2CCNC(C)C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f8137b0>,0.34
+947,Praziquantel,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3C2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f813c80>,0.3771626297577855
+974,Pilocarpine,CCC1C(=O)OC[C@@H]1Cc1cncn1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f812660>,0.3227665706051873
+978,Deserpidine,COC(=O)C1[C@H]2C[C@@H]3c4[nH]c5ccccc5c4CCN3C[C@H]2C[C@@H](OC(=O)c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f812820>,0.3430232558139535
+983,Hesperetin,COc1ccc([C@@H]2CC(=O)c3c(O)cc(O)cc3O2)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f8129e0>,0.35877862595419846
+1025,Carvedilol,COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f811820>,0.35313531353135313
+1026,Levofloxacin,C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f811890>,0.3443396226415094
+1037,Flavoxate,Cc1c(-c2ccccc2)oc2c(C(=O)OCCN3CCCCC3)cccc2c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f811cf0>,0.35294117647058826
+1051,Terazosin,COc1cc2nc(N3CCN(C(=O)C4CCCO4)CC3)nc(N)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f8102e0>,0.38562091503267976
+1054,Ofloxacin,CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f810430>,0.3443396226415094
+1068,Podofilox,COc1cc([C@@H]2c3cc4c(cc3[C@H](O)[C@H]3COC(=O)C23)OCO4)cc(OC)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f810900>,0.3872832369942196
+1069,Rescinnamine,COC(=O)C1[C@H]2C[C@@H]3c4[nH]c5cc(OC)ccc5c4CCN3C[C@H]2C[C@@H](OC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f810970>,0.33524904214559387
+1072,Naloxone,C=CCN1CC[C@]23c4c5ccc(O)c4OC2C(=O)CC[C@@]3(O)[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f810ac0>,0.3655913978494624
+1079,Clindamycin,CCC[C@@H]1CC(C(=O)NC(C(C)Cl)[C@H]2O[C@H](SC)[C@H](O)[C@@H](O)[C@H]2O)N(C)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f810dd0>,0.3890675241157556
+1081,Oxymorphone,CN1CC[C@]23c4c5ccc(O)c4OC2C(=O)CC[C@@]3(O)[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f810eb0>,0.3655913978494624
+1085,Estramustine,C[C@]12CC[C@@H]3c4ccc(OC(=O)N(CCCl)CCCl)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f80f0b0>,0.3495440729483283
+1121,Saquinavir,CC(C)(C)NC(=O)C1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f80fc80>,0.36363636363636365
+1127,Aripiprazole,O=C1CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc2N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f80feb0>,0.3832752613240418
+1140,Gliquidone,COc1ccc2c(c1)C(=O)N(CCc1ccc(S(=O)(=O)NC(=O)NC3CCCCC3)cc1)C(=O)C2(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f698d60>,0.34300791556728233
+1141,Mitiglinide,O=C(O)C(CC(=O)N1CC2CCCCC2C1)Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f698cf0>,0.32452830188679244
+1172,Rolitetracycline,CN(C)C1C(=O)C(C(=O)NCN2CCCC2)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f698200>,0.39667458432304037
+1193,Cilazapril,CCOC(=O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6973c0>,0.3597122302158273
+1196,Quinidine barbiturate,C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f697510>,0.38311688311688313
+1198,Spirapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CC2(CC1C(=O)O)SCCS2,<rdkit.Chem.rdchem.Mol object at 0x7f615f697580>,0.3470031545741325
+1206,Mestranol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(OC)ccc4[C@H]3CC[C@@]21C,<rdkit.Chem.rdchem.Mol object at 0x7f615f697900>,0.3248407643312102
+1211,Procaterol,CCC(NC(C)C)C(O)c1ccc(O)c2[nH]c(=O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f697ac0>,0.3304093567251462
+1224,Yohimbine,COC(=O)C1[C@H]2C[C@H]3c4[nH]c5ccccc5c4CCN3C[C@@H]2CC[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f692040>,0.3320079522862823
+1234,Temafloxacin,CC1CN(c2cc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2F)CCN1,<rdkit.Chem.rdchem.Mol object at 0x7f615f692430>,0.34417344173441733
+1254,Ajmaline,CCC1C2CC3C4N(C)c5ccccc5C45CC(C2C5O)N3C1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f692c10>,0.32751091703056767
+1275,Dihydroetorphine,CCC[C@@](C)(O)[C@H]1C[C@@]23CC[C@]1(OC)[C@@H]1Oc4c(O)ccc5c4[C@@]12CCN(C)[C@@H]3C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f695ac0>,0.35560344827586204
+1277,Diamorphine,CC(=O)Oc1ccc2c3c1O[C@H]1[C@@H](OC(C)=O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f6959e0>,0.3485838779956427
+1290,Ethylmorphine,CCOc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f695430>,0.35604395604395606
+1293,Acetorphine,CCC[C@@](C)(O)[C@H]1CC23C=CC1(OC)[C@H]1Oc4c(OC(C)=O)ccc5c4C12CCN(C)C3C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f6952e0>,0.3393574297188755
+1301,Codeine methylbromide,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)[N+](C)(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f6940b0>,0.3511777301927195
+1304,Cyprenorphine,COC12C=CC3(CC1C(C)(C)O)[C@@H]1Cc4ccc(O)c5c4[C@]3(CCN1CC1CC1)[C@@H]2O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f694200>,0.3300395256916996
+1313,Camazepam,CN(C)C(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f694580>,0.3294460641399417
+1320,Etorphine,CCCC(C)(O)C1CC23C=CC1(OC)C1Oc4c(O)ccc5c4C12CCN(C)C3C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f694890>,0.3366733466933868
+1331,Hydromorphinol,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)CC[C@@]3(O)[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f694cf0>,0.3557483731019523
+1334,Benzoylecgonine,CN1C2CCC1C(C(=O)O)[C@@H](OC(=O)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f694e40>,0.3939393939393939
+1342,Ecgonine,CN1C2CCC1C(C(=O)O)[C@@H](O)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f681200>,0.3711340206185567
+1348,Desomorphine,CN1CCC23c4c5ccc(O)c4OC2CCCC3C1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f6814a0>,0.35697399527186763
+1355,Acetyldihydrocodeine,COc1ccc2c3c1O[C@H]1[C@@H](OC(C)=O)CC[C@H]4[C@@H](C2)N(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f6817b0>,0.37089201877934275
+1364,Drotebanol,COc1ccc2c(c1OC)[C@]13CCN(C)[C@H](C2)[C@]1(O)CC[C@@H](O)C3,<rdkit.Chem.rdchem.Mol object at 0x7f615f681b30>,0.35251798561151076
+1365,Diprenorphine,CO[C@]12CC[C@@]3(C[C@@H]1C(C)(C)O)[C@H]1Cc4ccc(O)c5c4[C@@]3(CCN1CC1CC1)[C@H]2O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f681ba0>,0.3481953290870488
+1368,Dihydrocodeine,COc1ccc2c3c1O[C@H]1[C@@H](O)CC[C@H]4[C@@H](C2)N(C)CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f681cf0>,0.3744075829383886
+1370,Cloxazolam,O=C1CN2CCOC2(c2ccccc2Cl)c2cc(Cl)ccc2N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f681dd0>,0.34959349593495936
+1385,Codeine-N-oxide,COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)[N@@+](C)([O-])CC[C@@]341,<rdkit.Chem.rdchem.Mol object at 0x7f615f6764a0>,0.3473684210526316
+1387,Ohmefentanyl,CCC(=O)N(c1ccccc1)C1CCN(CC(O)c2ccccc2)CC1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f676580>,0.3333333333333333
+1390,Benzylmorphine,CN1CC[C@]23c4c5ccc(OCc6ccccc6)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f6766d0>,0.3620309050772627
+1402,Ketazolam,CC1=CC(=O)N2CC(=O)N(C)c3ccc(Cl)cc3C2(c2ccccc2)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f676ba0>,0.3253012048192771
+1406,Solifenacin,O=C(O[C@H]1CN2CCC1CC2)N1CCc2ccccc2[C@@H]1c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f676cf0>,0.4146341463414634
+1409,Cinolazepam,N#CCCN1C(=O)C(O)N=C(c2ccccc2F)c2cc(Cl)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f676e40>,0.3460410557184751
+1415,Lopinavir,Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)C(C(C)C)N1CCCNC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6910b0>,0.4
+1417,Meticillin,COc1cccc(OC)c1C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f691190>,0.3325581395348837
+1422,Periciazine,N#Cc1ccc2c(c1)N(CCCN1CCC(O)CC1)c1ccccc1S2,<rdkit.Chem.rdchem.Mol object at 0x7f615f6913c0>,0.35185185185185186
+1431,Molindone,CCc1c(C)[nH]c2c1C(=O)C(CN1CCOCC1)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f6917b0>,0.3333333333333333
+1440,Lincomycin,CCCC1CC(C(=O)NC(C(C)O)C2OC(SC)C(O)C(O)C2O)N(C)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f691b30>,0.3885135135135135
+1487,RU84687,CC(=O)NC(Cc1ccc(OP(=O)(O)O)c(C=O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68f510>,0.35294117647058826
+1527,"N-[2-hydroxy-1-indanyl]-5-[(2-tertiarybutylaminocarbonyl)-4(benzo[1,3]dioxol-5-ylmethyl)-piperazino]-4-hydroxy-2-(1-phenylethyl)-pentanamide",C[C@H](c1ccccc1)C(C[C@H](O)CN1CCN(Cc2ccc3c(c2)OCO3)CC1C(=O)NC(C)(C)C)C(=O)N[C@H]1c2ccccc2C[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6837b0>,0.42045454545454547
+1536,"(4R,5S,6S,7R)-1,3-dibenzyl-4,7-bis(phenoxymethyl)-5,6-dihydroxy-1,3 diazepan-2-one",O=C1N(Cc2ccccc2)[C@H](COc2ccccc2)[C@H](O)[C@@H](O)[C@@H](COc2ccccc2)N1Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f683ac0>,0.41312741312741313
+1570,Methylumbelliferyl sialic acid,CC(=O)N[C@H]1[C@H]([C@H](O)[C@H](O)CO)O[C@@](Oc2ccc3c(C)cc(=O)oc3c2)(C(=O)O)C[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6906d0>,0.35714285714285715
+1589,Piclamilast,COc1ccc(C(=O)Nc2c(Cl)cncc2Cl)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f690d60>,0.3384615384615385
+1591,SB-409513,O=C1NC(=O)C(c2cccc(Cl)c2)C1=Nc1ccc(Cl)c(C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f690dd0>,0.334384858044164
+1613,Castanospermine,OC1CN2CC[C@H](O)[C@@H]2C(O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f67d5f0>,0.35361216730038025
+1617,2-{[4-(2-Acetylamino-2-pentylcarbamoyl-ethyl)-naphthalen-1-YL]-oxalyl-amino}-benzoic acid,CCCCCNC(=O)C(Cc1ccc(N(C(=O)C(=O)O)c2ccccc2C(=O)O)c2ccccc12)NC(C)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f67d7b0>,0.3202846975088968
+1621,"(3S)-Tetrahydro-3-furanyl {(2S,3S)-4-[(2S,4R)-4-{(1S,2R)-2-[(S)-amino(hydroxy)methoxy]-2,3-dihydro-1H-inden-1-yl}-2-benzyl-3-oxo-2-pyrrolidinyl]-3-hydroxy-1-phenyl-2-butanyl}carbamate",N[C@@H](O)O[C@@H]1Cc2ccccc2[C@@H]1C1CN[C@@](Cc2ccccc2)(C[C@H](O)[C@H](Cc2ccccc2)NC(=O)O[C@H]2CCOC2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f67d970>,0.3601036269430052
+1672,(S)-2-{Methyl-[2-(Naphthalene-2-Sulfonylamino)-5-(Naphthalene-2-Sulfonyloxy)-Benzoyl]-Amino}-Succinicacid,CN(C(=O)c1cc(OS(=O)(=O)c2ccc3ccccc3c2)ccc1NS(=O)(=O)c1ccc2ccccc2c1)C(CC(=O)O)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f687ba0>,0.3663663663663664
+1696,RU85493,CC(=O)NC(Cc1ccc(OCC(=O)O)c(P(=O)(O)O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68b350>,0.3577981651376147
+1718,7-Hydroxystaurosporine,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)N[C@@H]4O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68b9e0>,0.3313008130081301
+1725,Balanol Analog 2,O=C(NC1CNCCCC1OC(=O)c1ccc(C(=O)c2ccccc2O)cc1)c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f68bc80>,0.32945736434108525
+1728,(S)-blebbistatin,Cc1ccc2c(c1)C(=O)[C@]1(O)CCN(c3ccccc3)C1=N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f68bdd0>,0.3333333333333333
+1729,4-Carbamoyl-1-Beta-D-Ribofuranosyl-Imidazolium-5-Olate-5'-Phosphate,NC(=O)C1NCN([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68be40>,0.32098765432098764
+1732,"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",O=C1CCc2c(-c3ccc(F)cc3F)cc(C3CCNCC3)cc2N1c1c(Cl)cccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f68bf90>,0.41830065359477125
+1738,Rolipram,COc1ccc(C2CNC(=O)C2)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f682270>,0.36162361623616235
+1791,L-756423,CC(C)(C)NC(=O)C1CN(Cc2cc3ccccc3o2)CCN1C[C@@H](O)CC(Cc1ccccc1)C(=O)N[C@H]1c2ccccc2C[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6625f0>,0.38944723618090454
+1792,Staurosporine,CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,<rdkit.Chem.rdchem.Mol object at 0x7f615f662660>,0.32432432432432434
+1801,Alrestatin,O=C(O)CN1C(=O)c2cccc3cccc(c23)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f662970>,0.32936507936507936
+1802,Fidarestat,NC(=O)C1C[C@]2(NC(=O)NC2=O)c2cc(F)ccc2O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f6629e0>,0.3979591836734694
+1815,Tridolgosir,OC1CN2CCC[C@@H](O)[C@@H]2C1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f662f20>,0.35361216730038025
+1819,"D-[3-hydroxy-2-methyl-5-phosphonooxymethyl-pyridin-4-ylmethyl]-N,O-cycloserylamide",Cc1ncc(COP(=O)(O)O)c(CNC2CONC2=O)c1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f689120>,0.3404255319148936
+1879,"(S,R)-fidarestat",NC(=O)C1C[C@@]2(NC(=O)NC2=O)c2cc(F)ccc2O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b900>,0.3979591836734694
+1880,Mozenavir,Nc1cccc(CN2C(=O)N(Cc3cccc(N)c3)C(Cc3ccccc3)C(O)C(O)C2Cc2ccccc2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b890>,0.37906137184115524
+1890,Zk-806450,CC(=N)N1CCC(Oc2ccc3c4ccccc4n(Cc4ccc5ccc(C(=N)N)cc5c4)c3c2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b5f0>,0.3362573099415205
+1893,Daidzin,O=c1c(-c2ccc(O)cc2)coc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b4a0>,0.3366013071895425
+1895,CP-271485,CN1c2ccc([C@H]3CN(Cc4ccccc4)C(=O)CO3)cc2CS1(=O)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b3c0>,0.3418079096045198
+1900,Glycochenodeoxycholic Acid,C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,<rdkit.Chem.rdchem.Mol object at 0x7f615f66b190>,0.32051282051282054
+1909,Zenarestat,O=C(O)Cn1c(=O)n(Cc2ccc(Br)cc2F)c(=O)c2ccc(Cl)cc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f68d270>,0.37283236994219654
+1929,"2,3-Bis-Benzo[1,3]Dioxol-5-Ylmethyl-Succinic Acid",O=C(O)C(Cc1ccc2c(c1)OCO2)C(Cc1ccc2c(c1)OCO2)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68d900>,0.3205574912891986
+1930,3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate,CCC(C)c1cc(C(=O)NC2CNCCCC2OC(=O)c2ccc(C(=O)c3cc(OC)ccc3O)cc2)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f68d970>,0.33676975945017185
+1935,Hydroxy-Phenyl-Acetic Acid 8-Methyl-8-Aza-Bicyclo[3.2.1]Oct-3-Yl Ester,CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f68dba0>,0.3688212927756654
+1964,"(7as,12ar,12bs)-1,2,3,4,7a,12,12a,12b-Octahydroindolo[2,3-a]Quinolizin-7(6h)-One",O=C1CN2CCCC[C@H]2[C@@H]2Nc3ccccc3C12,<rdkit.Chem.rdchem.Mol object at 0x7f615f68cac0>,0.33903133903133903
+2078,"1-(5-Carboxypentyl)-5-[(2,6-Dichlorobenzyl)Oxy]-1 H-Indole-2-Carboxylic Acid",O=C(O)CCCCCn1c(C(=O)O)cc2cc(OCc3c(Cl)cccc3Cl)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f67c120>,0.3728813559322034
+2102,"Mdl 101,146",CC(C)C(NC(=O)c1ccc(C(=O)N2CCOCC2)cc1)C(=O)N1CCCC1C(=O)NC(C(=O)C(F)(F)C(F)(F)F)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f67c7b0>,0.3495440729483283
+2103,2-Methoxyestradiol,COc1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f67c820>,0.335423197492163
+2133,Xylose-Derived Imidazole,O[C@H]1[C@H](O)Cn2ccnc2[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f688dd0>,0.3297587131367292
+2141,Namn,O=C(O)c1ccc[n+]([C@@H]2O[C@H](COP(=O)([O-])O)[C@@H](O)[C@H]2O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f688b30>,0.3538961038961039
+2188,RU90395,COC(=O)c1cc(CC(NC(C)=O)C(=O)NC2CCCCN(Cc3ccc(-c4ccccc4)cc3)C2=O)ccc1C(F)(C(=O)O)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f667660>,0.37425149700598803
+2197,Methicillin Acyl-Serine,COc1cccc(OC)c1C(=O)NC(C(=O)OCC(N)C(=O)O)[C@@H]1NC(C(=O)O)C(C)(C)S1,<rdkit.Chem.rdchem.Mol object at 0x7f615f6679e0>,0.3489010989010989
+2200,"3,8,9,10-tetrahydroxy-7-hydroxymethyl-6-oxa-1,3-diaza-spiro[4.5]decane-2,4-dione",O=C1NC2(OC(CO)C(O)C(O)C2O)C(=O)N1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f667b30>,0.3238095238095238
+2203,"2-Benzo[1,3]Dioxol-5-Ylmethyl-3-Benzyl-Succinic Acid",O=C(O)C(Cc1ccccc1)C(Cc1ccc2c(c1)OCO2)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f667c80>,0.3204225352112676
+2302,SP4160,CC(=O)Nc1ccc(COc2ccc(-c3cc(C4CCN(C(=O)CNC(=O)C(CC(C)C)N=C(N)N)CC4)n(C)n3)c(Cl)c2Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f6860b0>,0.3401360544217687
+2326,"N(2)-carbamimidoyl-N-{2-[4-(3-{4-[(5-carboxyfuran-2-yl)methoxy]-2,3-dichlorophenyl}-1-methyl-1H-pyrazol-5-yl)piperidin-1-yl]-2-oxoethyl}-D-leucinamide",CC(C)CC(N=C(N)N)C(=O)NCC(=O)N1CCC(c2cc(-c3ccc(OCc4ccc(C(=O)O)o4)c(Cl)c3Cl)nn2C)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f686900>,0.35294117647058826
+2357,Compound 19,C[C@H](COc1ccc([C@@H]2Oc3ccc(O)cc3S[C@@H]2c2ccc(O)cc2)cc1)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f67a510>,0.4223826714801444
+2370,"1-[3,3-Dimethyl-2-(2-Methylamino-Propionylamino)-Butyryl]-Pyrrolidine-2-Carboxylic Acid(1,2,3,4-Tetrahydro-Naphthalen-1-Yl)-Amide",CNC(C)C(=O)NC(C(=O)N1CCCC1C(=O)N[C@@H]1CCCc2ccccc21)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f67a9e0>,0.3945578231292517
+2379,7-(alpha-D-Glucopyranosyloxy)-4-methyl-2H-1-benzopyran-2-one,Cc1cc(=O)oc2cc(O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f67ac80>,0.3259493670886076
+2395,LY-294002,O=c1cc(N2CCOCC2)oc2c(-c3ccccc3)cccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f685cf0>,0.34276729559748426
+2407,JE-2147,Cc1ccccc1CNC(=O)C1N(C(=O)C(O)C(Cc2ccccc2)NC(=O)c2cccc(O)c2C)CSC1(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f685900>,0.37815126050420167
+2408,RB106,O=C(NCC(=O)N1C(C(=O)O)CC[C@@H]1c1ccccc1)C(S)Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f685890>,0.41825095057034223
+2411,"(4aS,6R,8aS)-11-[8-(1,3-Dioxo-1,3-dihydro-2H-isoindol-2-yl)octyl]-6-hydroxy-3-methoxy-5,6,9,10-tetrahydro-4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-11-ium",COc1ccc2c3c1O[C@H]1C[C@@H](O)C=C[C@@]31CC[N+](CCCCCCCCN1C(=O)c3ccccc3C1=O)=C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f685740>,0.33783783783783783
+2445,Sorbinil,O=C1NC(=O)[C@@]2(CCOc3ccc(F)cc32)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f67f2e0>,0.3877005347593583
+2448,Compound 18,C[C@@H](COc1ccc([C@@H]2Oc3ccc(O)cc3S[C@@H]2c2ccc(O)cc2)cc1)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f67f430>,0.4223826714801444
+2465,Purvalanol,CC(C)[C@H](CO)Nc1nc(Nc2ccc(C(=O)O)c(Cl)c2)c2ncn(C(C)C)c2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f67f970>,0.3246445497630332
+2472,Kifunensine,O=C1N[C@@H]2[C@@H](O)[C@@H](O)[C@H](O)[C@@H](CO)N2C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f67fc10>,0.3443708609271523
+2481,Tosyl-D-Proline,Cc1ccc(S(=O)(=O)N2CCCC2C(=O)O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f67ff20>,0.32978723404255317
+2485,Pyroquilon,O=C1CCc2cccc3c2N1CC3,<rdkit.Chem.rdchem.Mol object at 0x7f615f6640b0>,0.3217993079584775
+2509,"(2S)-1-[(2S,4R)-4-Benzyl-2-hydroxy-5-{[(1S,2R,5S)-2-hydroxy-5-methylcyclopentyl]amino}-5-oxopentyl]-4-{[6-chloro-5-(4-methyl-1-piperazinyl)-2-pyrazinyl]carbonyl}-N-(2-methyl-2-propanyl)-2-piperazineca rboxamide",C[C@H]1CC[C@@H](O)[C@H]1NC(=O)C(Cc1ccccc1)C[C@H](O)CN1CCN(C(=O)c2cnc(N3CCN(C)CC3)c(Cl)n2)CC1C(=O)NC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f6649e0>,0.3489583333333333
+2527,A-98881,COc1cc(CN2C(=O)N(Cc3ccc(O)c(OC)c3)N(Cc3ccccc3)C[C@@H](O)[C@H]2Cc2ccccc2)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f680eb0>,0.37919463087248323
+2541,"Mono-[3,4-Dihydroxy-5-(5-Methyl-Benzoimidazol-1-Yl)-Tetrahydor-Furan-2-Ylmethyl] Ester",Cc1ccc2c(c1)ncn2[C@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f680890>,0.3389423076923077
+2576,N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,CCCNC(=O)C1OC1C(=O)NC(C(=O)N1CCCC1C(=O)O)[C@@H](C)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f6784a0>,0.356401384083045
+2583,Gluco-Phenylimidazole,OC[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)c2nc(-c3ccccc3)cn21,<rdkit.Chem.rdchem.Mol object at 0x7f615f678740>,0.34236453201970446
+2645,K201 free base,COc1ccc2c(c1)CN(C(=O)CCN1CCC(Cc3ccccc3)CC1)CCS2,<rdkit.Chem.rdchem.Mol object at 0x7f615f67ecf0>,0.3368055555555556
+2650,9-(6-deoxy-alpha-L-talofuranosyl)-6-methylpurine,Cc1ncnc2c1ncn2[C@@H]1O[C@H]([C@H](C)O)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f67ee40>,0.3220338983050847
+2744,D-Levofloxacin,C[C@@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f675200>,0.3443396226415094
+2775,Zebularine,O=c1ncccn1C1OC(CO)C(O)C1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f675c10>,0.32142857142857145
+2783,"3-[[(3R,4S,5S,6R)-7-Benzyl-4,5-dihydroxy-1,1-dioxo-3,6-bis(phenoxymethyl)-1,2,7-thiadiazepan-2-yl]methyl]-N-methylbenzamide",CNC(=O)c1cccc(CN2[C@H](COc3ccccc3)[C@H](O)[C@@H](O)[C@@H](COc3ccccc3)N(Cc3ccccc3)S2(=O)=O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f675eb0>,0.334375
+2809,2-[4-[(Z)-2-Acetamido-3-oxo-3-[[(3S)-2-oxo-1-[(4-phenylphenyl)methyl]azepan-3-yl]amino]prop-1-enyl]-2-formylphenyl]acetic acid,CC(=O)N=C(Cc1ccc(CC(=O)O)c(C=O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6735f0>,0.3531468531468531
+2842,"3-{[(5R,6R)-5-Benzyl-6-hydroxy-2,4-bis(4-hydroxybenzyl)-3-oxo-1,2,4-triazepan-1-yl]sulfonyl}benzonitril",N#Cc1cccc(S(=O)(=O)N2C[C@@H](O)[C@@H](Cc3ccccc3)N(Cc3ccc(O)cc3)C(=O)N2Cc2ccc(O)cc2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f677740>,0.3434065934065934
+2899,7-Alpha-D-Ribofuranosyl-Purine-5'-Phosphate,O=P(O)(O)OC[C@H]1O[C@H](n2cnc3ncncc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66c900>,0.32009345794392524
+2906,"2-(Biphenyl-4-Sulfonyl)-1,2,3,4-Tetrahydro-Isoquinoline-3-Carboxylic Acid",O=C(O)C1Cc2ccccc2CN1S(=O)(=O)c1ccc(-c2ccccc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66cc10>,0.3741721854304636
+2926,Nicotinamide Mononucleotide,NC(=O)c1ccc[n+]([C@@H]2O[C@H](COP(=O)([O-])O)[C@@H](O)[C@H]2O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f6742e0>,0.3512658227848101
+2965,RU82197,CC(=O)NC(Cc1ccc(C(=O)O)c(C=O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f671120>,0.3860294117647059
+3073,CP-320626,O=C(NC(Cc1ccc(F)cc1)C(=O)N1CCC(O)CC1)c1cc2cc(Cl)ccc2[nH]1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66e740>,0.33689839572192515
+3094,N2-[(Benzyloxy)carbonyl]-N-[(3R)-1-{N-[(benzyloxy)carbonyl]-L-leucyl}-4-oxo-3-pyrrolidinyl]-L-leucinamide,CC(C)CC(NC(=O)OCc1ccccc1)C(=O)NC1CN(C(=O)C(CC(C)C)NC(=O)OCc2ccccc2)CC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66eeb0>,0.325
+3112,S-Adenosyl-L-Homoselenocysteine,Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[Se]CCC(N)C(=O)O)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66a580>,0.32505643340857787
+3145,"N(4)-Adenosyl-N(4)-methyl-2,4-diaminobutanoic acid",CN(CCC(N)C(=O)O)C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66de40>,0.32054176072234764
+3152,Naringenin,O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21,<rdkit.Chem.rdchem.Mol object at 0x7f615f66dc10>,0.34375
+3160,"1-[4-Carboxy-2-(3-Pentylamino)Phenyl]-5,5'-Di(Hydroxymethyl)Pyrrolidin-2-One",CCC(CC)Nc1cc(C(=O)O)ccc1N1C(=O)CCC1(CO)CO,<rdkit.Chem.rdchem.Mol object at 0x7f615f66da50>,0.3588957055214724
+3163,2'-O-Acetyl Adenosine-5-Diphosphoribose,CC(=O)O[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cnc2c(N)ncnc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f66d900>,0.3221957040572792
+3164,"8,9,10-trihydroxy-7-hydroxymethyl-3-methyl-6-oxa-1,3-diaza-spiro[4.5]decane-2,4-dione",CN1C(=O)NC2(OC(CO)C(O)C(O)C2O)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f66d890>,0.3413897280966767
+3180,Alvocidib,CN1CC[C@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@H](O)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f66d4a0>,0.35638297872340424
+3217,[4-(4-Hydroxy-Benzyl)-2-(2-Hydroxy-1-Methyl-Ethyl)-5-Oxo-Imidazolidin-1-Yl]-Acetic Acid,CC(CO)C1NC(Cc2ccc(O)cc2)C(=O)N1CC(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f6689e0>,0.41637010676156583
+3235,SP-876,O=C(O)CCNC(=O)C1CCCN1S(=O)(=O)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f666f20>,0.32131147540983607
+3273,5-deoxyflavanone,O=C1C[C@@H](c2ccc(O)cc2)Oc2cc(O)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f665f20>,0.352
+3277,"(2s)-2-[(2,4-Dichloro-Benzoyl)-(3-Trifluoromethyl-Benzyl)-Amino]-3-Phenyl-Propionic Acid",O=C(O)C(Cc1ccccc1)N(Cc1cccc(C(F)(F)F)c1)C(=O)c1ccc(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f665d60>,0.32954545454545453
+3278,(S)-Rolipram,COc1ccc([C@@H]2CNC(=O)C2)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f665cf0>,0.36162361623616235
+3293,"5-[4-(2-Hydroxyethyl)-1-piperidinyl]-5-phenyl-2,4,6(1H,3H,5H)-pyrimidinetrione",O=C1NC(=O)C(c2ccccc2)(N2CCC(CCO)CC2)C(=O)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f665a50>,0.33217993079584773
+3327,"(2R,4S)-2-[(1R)-1-{[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino}-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid",CC1(C)S[C@H](C(C=O)NC(=O)C(N)c2ccc(O)cc2)NC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f749120>,0.3295774647887324
+3366,"N-{4-[(Carboxymethyl)carbamoyl]benzoyl}-L-valyl-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxo-3-pentanyl]-L-prolinamide",CC(C)C(NC(=O)c1ccc(C(=O)NCC(=O)O)cc1)C(=O)N1CCCC1C(=O)NC(C(=O)C(F)(F)F)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f749f90>,0.34868421052631576
+3376,RU85053,CC(=O)NC(Cc1ccc(CC(=O)O)c(C(=O)O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75e3c0>,0.3978102189781022
+3404,Compound 4-D,Oc1ccc([C@H]2Sc3cc(O)ccc3O[C@H]2c2ccc(OCCN3CCCCC3)cc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75ee40>,0.381294964028777
+3405,"Cp403700, (S)-1-{2-[(5-Chloro-1h-Indole-2-Carbonyl)-Amino]-3-Phenyl-Propionyl}-Azetidine-3-Carboxylate",O=C(NC(Cc1ccccc1)C(=O)N1CC(C(=O)O)C1)c1cc2cc(Cl)ccc2[nH]1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75eeb0>,0.32989690721649484
+3409,Methyl-[4-(4-Piperidine-1-Ylmethyl-Phenyl)-Cyclohexyl]-Carbaminic Acid-(4-Chlorophenyl)-Ester,CN(C(=O)Oc1ccc(Cl)cc1)C1CCC(c2ccc(CN3CCCCC3)cc2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f74c0b0>,0.3359683794466403
+3419,Radicicol,C[C@@H]1C[C@H]2O[C@@H]2/C=C\C=C\C(=O)Cc2c(Cl)c(O)cc(O)c2C(=O)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f74c430>,0.3536977491961415
+3428,"N-[2-Hydroxy-2-(8-Isopropyl-6,9-Dioxo-2-Oxa-7,10-Diaza-Bicyclo[11.2.2]Heptadeca-1(16),13(17),14-Trien-11-Yl)-Ethyl]-N-(3-Methyl-Butyl)-Benzenesulfonamide,Inhibitor 3",CC(C)CCN(C[C@@H](O)[C@@H]1Cc2ccc(cc2)OCCCC(=O)NC(C(C)C)C(=O)N1)S(=O)(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f74c820>,0.3303303303303303
+3596,"5-[1-(3,4-Dimethoxy-Benzoyl)-1,2,3,4-Tetrahydro-Quinolin-6-Yl]-6-Methyl-3,6-Dihydro-[1,3,4]Thiadiazin-2-One",COc1ccc(C(=O)N2CCCc3cc(C4=NNC(=O)SC4C)ccc32)cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f75f510>,0.36056338028169016
+3604,9-(6-deoxy-beta-D-allofuranosyl)-6-methylpurine,Cc1ncnc2c1ncn2[C@@H]1O[C@H]([C@@H](C)O)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75f820>,0.3220338983050847
+3621,"2-Amino-4h-1,3-Benzoxathiin-4-Ol",NC1Oc2ccccc2C(O)S1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75fdd0>,0.3333333333333333
+3679,Z-Ala Prolinal,CC(NC(=O)OCc1ccccc1)C(=O)N1CCCC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f753270>,0.3888888888888889
+3688,"2-[4-(Hydroxy-Methoxy-Methyl)-Benzyl]-7-(4-Hydroxymethyl-Benzyl)-1,1-Dioxo-3,6-Bis-Phenoxymethyl-1lambda6-[1,2,7]Thiadiazepane-4,5-Diol",COC(O)c1ccc(CN2C(COc3ccccc3)C(O)C(O)C(COc3ccccc3)N(Cc3ccc(CO)cc3)S2(=O)=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f753510>,0.329153605015674
+3734,Apstatin,CC(NC(=O)C1CCCN1C(=O)C1CCCN1C(=O)C(O)C(N)Cc1ccccc1)C(N)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f756ac0>,0.3357142857142857
+3789,(R)-Rolipram,COc1ccc([C@@H]2CNC(=O)C2)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f74d820>,0.36162361623616235
+3816,"Phosporic Acid Mono-[3,4-Dihydroxy-5-(5-Methoxy-Benzoimidazol-1-Yl)-Tetrahydro-Furan-2-Ylmethyl] Ester",COc1ccc2c(c1)ncn2[C@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75a350>,0.33413461538461536
+3824,"N'-(Pyrrolidino[2,1-B]Isoindolin-4-On-8-Yl)-N-(Pyridin-2-Yl)Urea",O=C(Nc1ccccn1)Nc1cccc2c1[C@H]1CCCN1C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75a660>,0.32590529247910865
+3828,"2,5-dibenzyloxy-3-hydroxy-hexanedioic acid bis-[(2-hydroxy-indan-1-yl)-amide]",O=C(NC1c2ccccc2CC1O)C(CC(O)C(OCc1ccccc1)C(=O)NC1c2ccccc2CC1O)OCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75a7b0>,0.34782608695652173
+3837,Matairesinol,COc1cc(CC2C(=O)OC[C@@H]2Cc2ccc(O)c(OC)c2)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75aac0>,0.33707865168539325
+3855,1-Deaza-Adenosine,Nc1ccnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f757120>,0.3245192307692308
+3875,N-Alpha-(2-Naphthylsulfonyl)-N-(3-Amidino-L-Phenylalaninyl)-D-Pipecolinic Acid,N=C(N)c1cccc(CC(NS(=O)(=O)c2ccc3ccccc3c2)C(=O)N2CCCCC2C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7577b0>,0.3293051359516616
+3904,(S)-3-(4-(2-Carbazol-9-Yl-Ethoxy)-Phenyl)-2-Ethoxy-Propionic Acid,CCOC(Cc1ccc(OCCn2c3ccccc3c3ccccc32)cc1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f751eb0>,0.35494880546075086
+3908,(2S)-7-hydroxyflavanone,O=C1C[C@@H](c2ccccc2)Oc2cc(O)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f751cf0>,0.3493975903614458
+3926,7-(2-Amino-2-Phenyl-Acetylamino)-3-Chloro-8-Oxo-1-Aza-Bicyclo[4.2.0]Oct-2-Ene-2-Carboxylic Acid,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7515f0>,0.3342541436464088
+3941,2-[(Formyl-Hydroxy-Amino)-Methyl]-Heptanoic Acid [1-(2-Hydroxymethyl-Pyrrolidine-1-Carbonyl)-2-Methyl-Propyl]-Amide,CCCCCC(CN(O)C=O)C(=O)NC(C(=O)N1CCCC1CO)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f74e6d0>,0.3238434163701068
+3999,"4-Amino-N-{4-[2-(2,6-Dimethyl-Phenoxy)-Acetylamino]-3-Hydroxy-1-Isobutyl-5-Phenyl-Pentyl}-Benzamide",Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(CC(C)C)NC(=O)c1ccc(N)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75b5f0>,0.34317343173431736
+4003,"3-Amino-N-{4-[2-(2,6-Dimethyl-Phenoxy)-Acetylamino]-3-Hydroxy-1-Isobutyl-5-Phenyl-Pentyl}-Benzamide",Cc1cccc(C)c1OCC(=O)NC(Cc1ccccc1)C(O)CC(CC(C)C)NC(=O)c1cccc(N)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75b7b0>,0.33098591549295775
+4026,"2-[2-(1,3-Dioxo-1,3-Dihydro-2h-Isoindol-2-Yl)Ethyl]-4-(4'-Ethoxy-1,1'-Biphenyl-4-Yl)-4-Oxobutanoic Acid",CCOc1ccc(-c2ccc(C(=O)CC(CCN3C(=O)c4ccccc4C3=O)C(=O)O)cc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f755040>,0.3908450704225352
+4046,4'-Hydroxyflavanone,O=C1CC(c2ccc(O)cc2)Oc2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7556d0>,0.34146341463414637
+4056,Nebularine,OC[C@H]1O[C@@H](n2cnc3cncnc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f755a50>,0.32061068702290074
+4086,"2-Phenyl-1-[4-(2-Piperidin-1-Yl-Ethoxy)-Phenyl]-1,2,3,4-Tetrahydro-Isoquinolin-6-Ol",Oc1ccc2c(c1)CCN(c1ccccc1)C2c1ccc(OCCN2CCCCC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f754430>,0.4122137404580153
+4109,Paratoulene phosphate,CC(=O)NC(Cc1ccc(OP(=O)(O)O)cc1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f754c10>,0.3458904109589041
+4117,Sp-722,O=C(O)CCC(NC(=O)c1ccc(S(=O)(=O)N2CCCC2C(=O)O)cc1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f754f20>,0.32432432432432434
+4122,N-Methylnaloxonium,C=CC[N@+]1(C)CC[C@]23c4c5ccc(O)c4OC2C(=O)CC[C@@]3(O)[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f7520b0>,0.35390946502057613
+4133,"(3s,8ar)-3-(4-Hydroxybenzyl)Hexahydropyrrolo[1,2-a]Pyrazine-1,4-Dione",O=C1NC(Cc2ccc(O)cc2)C(=O)N2CCCC12,<rdkit.Chem.rdchem.Mol object at 0x7f615f752510>,0.36585365853658536
+4157,3-Deazaadenosine,Nc1nccc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f752dd0>,0.3276283618581907
+4176,Chromophore (Gly-Tyr-Gly),C[C@@H](O)[C@H](N)C1=NC(=Cc2ccc(O)cc2)C(=O)N1CC(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7584a0>,0.33534743202416917
+4182,Estriol,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7586d0>,0.33433734939759036
+4184,Quinestrol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(OC5CCCC5)ccc4[C@H]3CC[C@@]21C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7587b0>,0.32608695652173914
+4187,"(S)-2-[(R)-3-amino-4-(2-fluorophenyl)butyryl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide",NC(=O)C1Cc2ccccc2CN1C(=O)C[C@H](N)Cc1ccccc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f758900>,0.3626760563380282
+4196,2'-O-butyl-5-methyluridine,CCCCO[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cc(C)c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f758cf0>,0.32972972972972975
+4198,(2R)-({4-[AMINO(IMINO)METHYL]PHENYL}AMINO){5-ETHOXY-2-FLUORO-3-[(3R)-TETRAHYDROFURAN-3-YLOXY]PHENYL}ACETICACID,CCOc1cc(O[C@@H]2CCOC2)c(F)c(C(Nc2ccc(C(=N)N)cc2)C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f758dd0>,0.34275618374558303
+4207,Aniracetam,COc1ccc(C(=O)N2CCCC2=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f761120>,0.36444444444444446
+4217,INHIBITOR Q8467 OF DUPONT MERCK,O=C(Nc1nccs1)c1cccc(CN2C(=O)N(CC3CC3)[C@H](Cc3ccccc3)[C@H](O)[C@@H](O)[C@H]2Cc2ccccc2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f761510>,0.34146341463414637
+4219,"N-METHYLALANYL-3-METHYLVALYL-4-PHENOXY-N-(1,2,3,4-TETRAHYDRONAPHTHALEN-1-YL)PROLINAMIDE",CNC(C)C(=O)NC(C(=O)N1CC(Oc2ccccc2)CC1C(=O)NC1CCCc2ccccc21)C(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7615f0>,0.44884488448844884
+4229,"2-ETHOXYETHYL (2S,3S)-4-((S)-2-BENZYL-3-OXO-4-((3AR,8R,8AS)-2-OXO-3,3A,8,8A-TETRAHYDRO-2H-INDENO[1,2-D]OXAZOL-8-YL)-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE",CCOCCOC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@]1(Cc2ccccc2)N=CC([C@H]2c3ccccc3[C@H]3NC(=O)O[C@H]32)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f761890>,0.34151785714285715
+4248,"4-{4-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-2,3-DIMETHYL-PHENOXY}-BUTYRIC ACID",Cc1c(NC(=O)NC(=O)c2ccc(Cl)cc2Cl)ccc(OCCCC(=O)O)c1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f761eb0>,0.3272058823529412
+4290,Methylecgonine,COC(=O)C1[C@H]2CC[C@@H](C[C@@H]1O)N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7602e0>,0.3581081081081081
+4310,"(S)-TETRAHYDROFURAN-3-YL (2S,3S)-4-((S)-4-((1R,3R)-3-(2-AMINO-2-OXOETHYL)-2,3-DIHYDRO-1H-INDEN-1-YL)-2-BENZYL-3-OXO-2,3-DIHYDRO-1H-PYRROL-2-YL)-3-HYDROXY-1-PHENYLBUTAN-2-YLCARBAMATE",NC(=O)C[C@H]1C[C@@H](C2C=N[C@@](Cc3ccccc3)(C[C@H](O)[C@H](Cc3ccccc3)NC(=O)O[C@H]3CCOC3)C2=O)c2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f75cba0>,0.3594936708860759
+4314,ANILINOMETHYL GLUCO-PHENYLIMIDAZOLE,OC[C@@H]1[C@@H](O)[C@H](O)[C@@H](O)c2nc(CNc3ccccc3)cn21,<rdkit.Chem.rdchem.Mol object at 0x7f615f75ca50>,0.332541567695962
+4326,"(S)-2-((S)-3-isobutyl-2,5-dioxo-4-quinolin-3-ylmethyl-[1,4]diazepan-1yl)-N-methyl-3-naphtalen-2-yl-propionamide",CNC(=O)C(Cc1ccc2ccccc2c1)N1CCC(=O)N(Cc2cnc3ccccc3c2)C(CC(C)C)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75c5f0>,0.4025974025974026
+4327,Licofelone,CC1(C)Cc2c(-c3ccccc3)c(-c3ccc(Cl)cc3)c(CC(=O)O)n2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f75c580>,0.3317422434367542
+4333,N-(4-MORPHOLINE)CARBONYL-B-(1-NAPHTHYL)-L-ALANINE-L-LEUCINE BORONIC ACID,CC(C)C[C@H](NC(=O)C(Cc1cccc2ccccc12)NC(=O)N1CCOCC1)B(O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f75c430>,0.33916083916083917
+4387,Tanaproget,Cn1c(C#N)ccc1-c1ccc2c(c1)C(C)(C)OC(=S)N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f74aeb0>,0.3269230769230769
+4428,Zomepirac,Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f748cf0>,0.33534743202416917
+4444,Tetrabenazine,COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f744350>,0.39869281045751637
+4448,Cediranib,COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f744510>,0.3314917127071823
+4449,Posizolid,O=C(C(O)CO)N1CC=C(c2c(F)cc(N3C[C@H](COc4ccon4)OC3=O)cc2F)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f744580>,0.3220779220779221
+4456,Brasofensine,CO/N=C/[C@H]1C2CCC(C[C@@H]1c1ccc(Cl)c(Cl)c1)N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f744740>,0.34017595307917886
+4460,Nebivolol,OC(CNCC(O)C1CCc2cc(F)ccc2O1)C1CCc2cc(F)ccc2O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f744900>,0.3975409836065574
+4464,Omacetaxine mepesuccinate,COC(=O)C[C@](O)(CCCC(C)(C)O)C(=O)O[C@@H]1C(OC)=C[C@]23CCCN2CCc2cc4c(cc2[C@H]13)OCO4,<rdkit.Chem.rdchem.Mol object at 0x7f615f744ac0>,0.3382663847780127
+4465,Halofuginone,O=C(C[C@@H]1NCCC[C@H]1O)Cn1cnc2cc(Br)c(Cl)cc2c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f744b30>,0.35359116022099446
+4468,Olcegepant,NCCCCC(NC(=O)C(Cc1cc(Br)c(O)c(Br)c1)NC(=O)N1CCC(N2Cc3ccccc3NC2=O)CC1)C(=O)N1CCN(c2ccncc2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f744c10>,0.382089552238806
+4472,Piboserod,CCCCN1CCC(CNC(=O)c2c3n(c4ccccc24)CCCO3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f744cf0>,0.323943661971831
+4474,Pralnacasan,CCO[C@@H]1OC(=O)C[C@@H]1NC(=O)C1CCCN2C(=O)CCC(NC(=O)c3nccc4ccccc34)C(=O)N12,<rdkit.Chem.rdchem.Mol object at 0x7f615f744dd0>,0.35185185185185186
+4484,Cilansetron,Cc1nccn1CC1CCc2c(c3cccc4c3n2CCC4)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f747120>,0.322
+4485,Calanolide A,CCCc1cc(=O)oc2c3c(c4c(c12)OC(C)(C)C=C4)O[C@H](C)[C@@H](C)[C@@H]3O,<rdkit.Chem.rdchem.Mol object at 0x7f615f747190>,0.324468085106383
+4491,Phenserine,CN1CC[C@@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7473c0>,0.32387706855791965
+4496,Pagoclone,CC(C)CCC(=O)CC1c2ccccc2C(=O)N1c1ccc2ccc(Cl)nc2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f747510>,0.32608695652173914
+4504,Renzapride,COc1c(C(=O)NC2CCN3CCCC2C3)ccc(N)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f7477b0>,0.3575949367088608
+4518,Altropane,COC(=O)C1[C@@H](c2ccc(F)cc2)C[C@@H]2CC[C@H]1N2C/C=C/I,<rdkit.Chem.rdchem.Mol object at 0x7f615f747c10>,0.3628048780487805
+4525,Tipifarnib,Cn1cncc1[C@@](N)(c1ccc(Cl)cc1)c1ccc2c(c1)c(-c1cccc(Cl)c1)cc(=O)n2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f747eb0>,0.32075471698113206
+4568,Asimadoline,CN(C(=O)C(c1ccccc1)c1ccccc1)[C@H](CN1CC[C@H](O)C1)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f745b30>,0.39094650205761317
+4572,Thymectacin,COC(=O)C(C)NP(=O)(OC[C@H]1O[C@@H](n2cc(/C=C/Br)c(=O)[nH]c2=O)C[C@@H]1O)Oc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f745c80>,0.3325526932084309
+4585,E-2012,COc1cc(/C=C2\CCCN([C@@H](C)c3ccc(F)cc3)C2=O)ccc1-n1cnc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f745f90>,0.33045977011494254
+4595,Beraprost,CC#CCC(C)C(O)/C=C/C1C(O)CC2Oc3c(CCCC(=O)O)cccc3C21,<rdkit.Chem.rdchem.Mol object at 0x7f615f743350>,0.34560906515580736
+4597,LGD2941,C[C@@H]1CC[C@H]([C@@H](O)C(F)(F)F)N1c1ccc2[nH]c(=O)cc(C(F)(F)F)c2c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f743430>,0.3375959079283887
+4598,Cobimetinib,O=C(c1ccc(F)c(F)c1Nc1ccc(I)cc1F)N1CC(O)([C@@H]2CCCCN2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7434a0>,0.3293768545994065
+4622,Ranirestat,O=C1C[C@@]2(C(=O)N1)C(=O)N(Cc1ccc(Br)cc1F)C(=O)c1cccn12,<rdkit.Chem.rdchem.Mol object at 0x7f615f743d60>,0.32558139534883723
+4623,MN-305,c1ccc2c(c1)OC[C@H](CNCCCOc1ccc3c(c1)OCO3)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f743dd0>,0.39920948616600793
+4627,ROX-888,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f743f90>,0.35324675324675325
+4636,Amibegron,CCOC(=O)COc1ccc2c(c1)C[C@@H](NC[C@H](O)c1cccc(Cl)c1)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7242e0>,0.3805668016194332
+4646,Pipendoxifene,Cc1c(-c2ccc(O)cc2)n(Cc2ccc(OCCN3CCCCC3)cc2)c2ccc(O)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7245f0>,0.3333333333333333
+4648,ADX-10061,CN1CCc2cc([N+](=O)[O-])c(O)cc2C(c2cccc3c2OCC3)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7246d0>,0.33043478260869563
+4651,OPC-14523,COc1cccc2c1CCC(=O)N2CCCN1CCN(c2cccc(Cl)c2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f724820>,0.3900709219858156
+4653,Canertinib,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f724900>,0.3511705685618729
+4685,Piclidenoson,CNC(=O)C1O[C@@H](n2cnc3c(NCc4cccc(I)c4)ncnc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7413c0>,0.3318077803203661
+4691,Telaprevir,CCCC(NC(=O)C1C2CCC[C@H]2CN1C(=O)C(NC(=O)C(NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7415f0>,0.32707774798927614
+4692,Pelitinib,CCOc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f741660>,0.32894736842105265
+4697,Naronapride,COc1cc(N)c(Cl)cc1C(=O)N[C@@H]1CCN(CCCCCC(=O)O[C@H]2CN3CCC2CC3)C[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f741890>,0.3811074918566775
+4708,Bedoradrine,CN(C)C(=O)COc1ccc2c(c1)C[C@@H](NC[C@H](O)c1ccc(O)c(CCO)c1)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f741c80>,0.3726235741444867
+4725,IRX-5183,CC1(C)CCC(C)(C)c2c1cc(C(=O)Nc1cc(F)c(C(=O)O)c(F)c1)c(O)c2Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f742200>,0.32432432432432434
+4730,Apremilast,CCOc1cc([C@@H](CS(C)(=O)=O)N2C(=O)c3cccc(NC(C)=O)c3C2=O)ccc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f742350>,0.32748538011695905
+4735,NPS-2143,CC(C)(Cc1ccc2ccccc2c1)NC[C@@H](O)COc1cccc(Cl)c1C#N,<rdkit.Chem.rdchem.Mol object at 0x7f615f7424a0>,0.3283018867924528
+4740,Flovagatran,COCCC[C@H](NC(=O)C1CCCN1C(=O)C(Cc1ccccc1)NC(=O)OCc1ccccc1)B(O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7425f0>,0.36363636363636365
+4747,Varespladib methyl,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)OC)cccc2n1Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f742820>,0.32273838630806845
+4759,Daglutril,CCOC(=O)C(CCc1ccccc1)CC1(C(=O)NC2CCc3ccccc3N(CC(=O)O)C2=O)CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f742cf0>,0.38699690402476783
+4762,NS-2359,COC[C@@H]1[C@@H](c2ccc(Cl)c(Cl)c2)C[C@@H]2CC[C@H]1N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f742e40>,0.3710691823899371
+4773,OPC-51803,CC(C)NC(=O)C[C@H]1CCCN(C(=O)c2ccc(N3CCCC3)cc2Cl)c2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f740270>,0.3525835866261398
+4793,Varlitinib,C[C@@H]1COC(=Nc2ccc3ncnc(Nc4ccc(OCc5nccs5)c(Cl)c4)c3c2)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7409e0>,0.3216216216216216
+4818,Lumateperone,CN1CCN2c3c(cccc31)[C@@H]1CN(CCCC(=O)c3ccc(F)cc3)CC[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f73e270>,0.3643835616438356
+4848,Tesofensine,CCOC[C@@H]1[C@@H](c2ccc(Cl)c(Cl)c2)C[C@@H]2CC[C@H]1N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f73edd0>,0.36792452830188677
+4851,Garenoxacin,C[C@H]1NCc2cc(-c3ccc4c(=O)c(C(=O)O)cn(C5CC5)c4c3OC(F)F)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f73ef20>,0.341645885286783
+4855,Noscapine,COc1ccc2c(c1OC)C(=O)O[C@@H]2[C@H]1c2c(cc3c(c2OC)OCO3)CCN1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f120>,0.46006389776357826
+4872,Atrasentan,CCCCN(CCCC)C(=O)CN1C[C@H](c2ccc3c(c2)OCO3)C(C(=O)O)[C@@H]1c1ccc(OC)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f5f0>,0.4376899696048632
+4875,Lasofoxifene,Oc1ccc2c(c1)CC[C@H](c1ccccc1)[C@@H]2c1ccc(OCCN2CCCC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f740>,0.37890625
+4879,Silodosin,C[C@H](Cc1cc2c(c(C(N)=O)c1)N(CCCO)CC2)NCCOc1ccccc1OCC(F)(F)F,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f890>,0.35962145110410093
+4880,Prasugrel,CC(=O)Oc1cc2c(s1)CCN(C(C(=O)C1CC1)c1ccccc1F)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f900>,0.3270588235294118
+4883,Tolvaptan,Cc1ccccc1C(=O)Nc1ccc(C(=O)N2CCC[C@@H](O)c3cc(Cl)ccc32)c(C)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73f9e0>,0.40264026402640263
+4886,Asenapine,CN1CC2c3ccccc3Oc3ccc(Cl)cc3C2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73fb30>,0.3722397476340694
+4887,Vernakalant,COc1ccc(CCO[C@@H]2CCCC[C@H]2N2CC[C@@H](O)C2)cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f73fba0>,0.40869565217391307
+4890,Rivaroxaban,O=C(NCC1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73fc80>,0.3314917127071823
+4892,Nalmefene,C=C1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f73fd60>,0.3452631578947368
+4895,Maribavir,CC(C)Nc1nc2cc(Cl)c(Cl)cc2n1[C@H]1O[C@@H](CO)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73fe40>,0.34441805225653205
+4898,Avanafil,COc1ccc(CNc2nc(N3CCC[C@H]3CO)ncc2C(=O)NCc2ncccn2)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f73ff90>,0.41830065359477125
+4920,Alvimopan,C[C@H]1CN(CC(Cc2ccccc2)C(=O)NCC(=O)O)CC[C@@]1(C)c1cccc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73d6d0>,0.32989690721649484
+4930,Dapagliflozin,CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73d900>,0.32231404958677684
+4936,Onalespib,CC(C)c1cc(C(=O)N2Cc3ccc(CN4CCN(C)CC4)cc3C2)c(O)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73dac0>,0.34627831715210355
+4952,Elinogrel,CNc1cc2[nH]c(=O)n(-c3ccc(NC(=O)NS(=O)(=O)c4ccc(Cl)s4)cc3)c(=O)c2cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f73c0b0>,0.32421052631578945
+4955,Becatecarin,CCN(CC)CCN1C(=O)c2c(c3c4cccc(Cl)c4n([C@@H]4O[C@H](CO)[C@@H](OC)[C@H](O)[C@H]4O)c3c3[nH]c4c(Cl)cccc4c23)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73c200>,0.3901869158878505
+4958,Relacatib,CC(C)CC(NC(=O)c1cc2ccccc2o1)C(=O)NC1CC[C@@H](C)N(S(=O)(=O)c2ccccn2)CC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73c350>,0.32018561484918795
+4965,Bazedoxifene,Cc1c(-c2ccc(O)cc2)n(Cc2ccc(OCCN3CCCCCC3)cc2)c2ccc(O)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f73c660>,0.328042328042328
+4971,Morphine glucuronide,CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O[C@@H]2OC(C(=O)O)[C@@H](O)[C@H](O)[C@H]2O)C=C[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f73c820>,0.35639412997903563
+4979,Ticalopride,COc1cc(N)c(Cl)cc1C(=O)N[C@@H]1CCNC[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f73cac0>,0.3381294964028777
+4980,Talnetant,CCC(NC(=O)c1c(O)c(-c2ccccc2)nc2ccccc12)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73cb30>,0.3382352941176471
+4994,Sarizotan,Fc1ccc(-c2cncc(CNCC3CCc4ccccc4O3)c2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73cf20>,0.3671875
+4998,Enrasentan,CCCOc1ccc2c(c1)[C@@H](c1ccc(OC)cc1OCCO)C(C(=O)O)[C@H]2c1ccc2c(c1)OCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b0b0>,0.3575757575757576
+5005,Fradafiban,N=C(N)c1ccc(-c2ccc(OC[C@@H]3CC(CC(=O)O)C(=O)N3)cc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b350>,0.34146341463414637
+5006,Sumanirole,CN[C@@H]1Cc2cccc3[nH]c(=O)n(c23)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b3c0>,0.33080808080808083
+5009,Prucalopride,COCCCN1CCC(NC(=O)c2cc(Cl)c(N)c3c2OCC3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b510>,0.3492063492063492
+5014,Aplaviroc,CCCCN1C(=O)C([C@H](O)C2CCCCC2)NC(=O)C12CCN(Cc1ccc(Oc3ccc(C(=O)O)cc3)cc1)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b6d0>,0.391304347826087
+5018,GW-559090,Cc1ccccc1OCC(=O)NC(CC(C)C)C(=O)NC(Cc1ccc(OC(=O)N2CCC(C(N)=O)CC2)cc1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73b890>,0.3806228373702422
+5035,Robalzotan,NC(=O)c1ccc(F)c2c1C[C@@H](N(C1CCC1)C1CCC1)CO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f73bdd0>,0.3767123287671233
+5045,Tonabersat,CC(=O)c1ccc2c(c1)C(NC(=O)c1ccc(F)c(Cl)c1)C(O)C(C)(C)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a0b0>,0.41348973607038125
+5047,Celgosivir,CCCC(=O)O[C@H]1CN2CC[C@H](O)[C@@H]2[C@@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a190>,0.3985239852398524
+5053,Triphendiol,COc1ccc([C@H]2c3ccc(O)cc3OC[C@H]2c2ccc(O)cc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a350>,0.3527272727272727
+5060,Nemonoxacin,COc1c(N2C[C@@H](C)C[C@H](N)C2)ccc2c(=O)c(C(=O)O)cn(C3CC3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a510>,0.3530864197530864
+5062,Ilepatril,CC(=O)SC(C(=O)NC1Cc2ccccc2[C@H]2CCCC(C(=O)O)N2C1=O)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a5f0>,0.39221556886227543
+5065,Odiparcil,Cc1cc(=O)oc2cc(O[C@@H]3SC[C@@H](O)[C@H](O)[C@H]3O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a740>,0.3213213213213213
+5071,Aplindore,Oc1cc2c3c(ccc2[nH]1)OC[C@H](CNCc1ccccc1)O3,<rdkit.Chem.rdchem.Mol object at 0x7f615f73a900>,0.3415977961432507
+5097,Lixivaptan,Cc1ccc(F)cc1C(=O)Nc1ccc(C(=O)N2Cc3cccn3Cc3ccccc32)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7390b0>,0.3434343434343434
+5105,Clevudine,Cc1cn([C@H]2O[C@@H](CO)[C@H](O)[C@H]2F)c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f739350>,0.3263157894736842
+5107,Laquinimod,CCN(C(=O)c1c(O)c2c(Cl)cccc2n(C)c1=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f739430>,0.32142857142857145
+5181,Besifloxacin,N[C@@H]1CCCCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f737dd0>,0.3333333333333333
+5205,Methylnaltrexone,C[N+]1(CC2CC2)CC[C@]23c4c5ccc(O)c4OC2C(=O)CC[C@@]3(O)[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f738660>,0.35030549898167007
+5215,Pralatrexate,C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f738970>,0.32298136645962733
+5237,"(2R)-N~4~-hydroxy-2-(3-hydroxybenzyl)-N~1~-[(1S,2R)-2-hydroxy-2,3-dihydro-1H-inden-1-yl]butanediamide",O=C(N[C@H]1c2ccccc2C[C@H]1O)C(CC(O)=NO)Cc1cccc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f735190>,0.3201320132013201
+5241,"[(2R)-1-[(2S)-2-[[(2S,3S)-1-Chloro-6-(diaminomethylideneamino)-2-hydroxyhexan-3-yl]carbamoyl]pyrrolidin-1-yl]-1-oxo-3-phenylpropan-2-yl]azanium",N=C(N)NCCC[C@H](NC(=O)C1CCCN1C(=O)C(N)Cc1ccccc1)[C@H](O)CCl,<rdkit.Chem.rdchem.Mol object at 0x7f615f735350>,0.3263888888888889
+5242,(4R)-4-(3-butoxy-4-methoxybenzyl)imidazolidin-2-one,CCCCOc1cc(C[C@@H]2CNC(=O)N2)ccc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7353c0>,0.3346774193548387
+5248,"1-[1'-(3-phenylacryloyl)spiro[1-benzofuran-3,4'-piperidin]-5-yl]methanamine",NCc1ccc2c(c1)C1(CCN(C(=O)C=Cc3ccccc3)CC1)CO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f735660>,0.3333333333333333
+5257,N-ALLYL-5-AMIDINOAMINOOXY-PROPYLOXY-3-CHLORO-N-CYCLOPENTYLBENZAMIDE,C=CCN(C(=O)c1cc(ON=C(N)N)cc(Cl)c1OCCC)C1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f735a50>,0.35793357933579334
+5265,N-(3-chlorobenzyl)-1-(4-methylpentanoyl)-L-prolinamide,CC(C)CCC(=O)N1CCCC1C(=O)NCc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f735dd0>,0.35177865612648224
+5266,1-[2-AMINO-2-CYCLOHEXYL-ACETYL]-PYRROLIDINE-3-CARBOXYLIC ACID 5-CHLORO-2-(2-ETHYLCARBAMOYL-ETHOXY)-BENZYLAMIDE,CCNC(=O)CCOc1ccc(Cl)cc1CNC(=O)C1CCN(C(=O)C(N)C2CCCCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f735e40>,0.3741496598639456
+5275,1-[(2R)-2-aminobutanoyl]-N-(3-chlorobenzyl)-L-prolinamide,CCC(N)C(=O)N1CCCC1C(=O)NCc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f736270>,0.3425196850393701
+5283,N-BENZYLOXYCARBONYL-ALA-PRO-3-AMINO-4-PHENYL-BUTAN-2-OL,CC(NC(=O)OCc1ccccc1)C(=O)N1CCCC1C(=O)N[C@@H](Cc1ccccc1)[C@@H](C)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f736580>,0.40076335877862596
+5284,"[(3S)-3-(Methylcarbamoyl)-2-{[(2-methyl-2-propanyl)oxy]carbonyl}-1,2,3,4-tetrahydro-7-isoquinolinyl]sulfamic acid",CNC(=O)C1Cc2ccc(NS(=O)(=O)O)cc2CN1C(=O)OC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7365f0>,0.3468208092485549
+5304,"(2S)-3-(1-{[2-(2-CHLOROPHENYL)-5-METHYL-1,3-OXAZOL-4-YL]METHYL}-1H-INDOL-5-YL)-2-ETHOXYPROPANOIC ACID",CCOC(Cc1ccc2c(ccn2Cc2nc(-c3ccccc3Cl)oc2C)c1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f736eb0>,0.3219954648526077
+5306,"[4-R-(4-ALPHA,6-BETA,7-BETA]-HEXAHYDRO-5,6-DI(HYDROXY)-1,3-DI(ALLYL)-4,7-BISPHENYLMETHYL)-2H-1,3-DIAZEPINONE",C=CCN1C(=O)N(CC=C)[C@H](Cc2ccccc2)[C@H](O)[C@@H](O)[C@H]1Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f736f90>,0.34074074074074073
+5307,D-leucyl-N-(3-chlorobenzyl)-L-prolinamide,CC(C)CC(N)C(=O)N1CCCC1C(=O)NCc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f734040>,0.3574144486692015
+5312,"N-[2-(1,3-BENZODIOXOL-5-YL)ETHYL]-1-[2-(1H-IMIDAZOL-1-YL)-6-METHYLPYRIMIDIN-4-YL]-D-PROLINAMIDE",Cc1cc(N2CCCC2C(=O)NCCc2ccc3c(c2)OCO3)nc(-n2ccnc2)n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f734200>,0.3466666666666667
+5315,D-phenylalanyl-N-(3-chlorobenzyl)-L-prolinamide,NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NCc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f734350>,0.34765625
+5316,Eribaxaban,CO[C@@H]1CC(C(=O)Nc2ccc(-n3ccccc3=O)cc2F)N(C(=O)Nc2ccc(Cl)cc2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7343c0>,0.40181268882175225
+5318,"2-[(1R)-1-carboxy-2-naphthalen-1-ylethyl]-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",O=C(O)c1ccc2c(c1)C(=O)N(C(Cc1cccc3ccccc13)C(=O)O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7344a0>,0.40942028985507245
+5349,2-CHLORO-5-(3-CHLORO-PHENYL)-6-[(4-CYANO-PHENYL)-(3-METHYL-3H-IMIDAZOL-4-YL)- METHOXYMETHYL]-NICOTINONITRILE,COC(c1ccc(C#N)cc1)(c1nc(Cl)c(C#N)cc1-c1cccc(Cl)c1)c1cncn1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f732120>,0.33578431372549017
+5357,"5-(5-chloro-2,4-dihydroxyphenyl)-N-ethyl-4-[4-(morpholin-4-ylmethyl)phenyl]isoxazole-3-carboxamide",CCNC(=O)c1noc(-c2cc(Cl)c(O)cc2O)c1-c1ccc(CN2CCOCC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7324a0>,0.32273838630806845
+5358,JNJ-27390467,NCc1ccc2c(c1)C1(CCN(C(=O)c3ccc(C#Cc4ccccc4)o3)CC1)CO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f732510>,0.337468982630273
+5365,"2-amino-4-[2,4-dichloro-5-(2-pyrrolidin-1-ylethoxy)phenyl]-N-ethylthieno[2,3-d]pyrimidine-6-carboxamide",CCNC(=O)c1cc2c(-c3cc(OCCN4CCCC4)c(Cl)cc3Cl)nc(N)nc2s1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7327b0>,0.3262411347517731
+5401,"9-HYDROXY-6-(3-HYDROXYPROPYL)-4-(2-METHOXYPHENYL)PYRROLO[3,4-C]CARBAZOLE-1,3(2H,6H)-DIONE",COc1ccccc1-c1cc2c(c3c1C(=O)NC3=O)c1cc(O)ccc1n2CCCO,<rdkit.Chem.rdchem.Mol object at 0x7f615f7336d0>,0.3597733711048159
+5402,"(3R)-3-[(1,2,3,4-tetrahydroisoquinolin-7-yloxy)methyl]-2,3-dihydrothieno[2,3-f][1,4]oxazepin-5-amine",N=C1N[C@H](COc2ccc3c(c2)CNCC3)COc2ccsc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f733740>,0.3237410071942446
+5406,"(3S)-1-(1,3-BENZODIOXOL-5-YLMETHYL)-3-[4-(1H-IMIDAZOL-1-YL)PHENOXY]PIPERIDINE",c1cn(-c2ccc(O[C@H]3CCCN(Cc4ccc5c(c4)OCO5)C3)cc2)cn1,<rdkit.Chem.rdchem.Mol object at 0x7f615f733900>,0.33641975308641975
+5410,"(3R,4R)-4-(pyrrolidin-1-ylcarbonyl)-1-(quinoxalin-2-ylcarbonyl)pyrrolidin-3-amine",N[C@H]1CN(C(=O)c2cnc3ccccc3n2)CC1C(=O)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f733ac0>,0.33865814696485624
+5421,"(1S,5S,7R)-N~7~-(BIPHENYL-4-YLMETHYL)-N~3~-HYDROXY-6,8-DIOXA-3-AZABICYCLO[3.2.1]OCTANE-3,7-DICARBOXAMIDE",O=C(NCc1ccc(-c2ccccc2)cc1)C1O[C@H]2CN(C(O)=NO)C[C@@H]1O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f733f20>,0.3486238532110092
+5426,"3-Fluoro-4-{[(2R)-2-hydroxy-2-(5,5,8,8-tetramethyl-5,6,7,8-tetrahydro-2-naphthalenyl)acetyl]amino}benzoic acid",CC1(C)CCC(C)(C)c2cc(C(O)C(=O)Nc3ccc(C(=O)O)cc3F)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f731190>,0.326984126984127
+5431,"(3aS,4R,9bR)-2,2-difluoro-4-(4-hydroxyphenyl)-6-(methoxymethyl)-1,2,3,3a,4,9b-hexahydrocyclopenta[c]chromen-8-ol",COCc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CC(F)(F)CC21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7313c0>,0.345821325648415
+5440,"(2R,3R,4S,5R)-2-[6-amino-8-[(3,4-dichlorophenyl)methylamino]purin-9-yl]-5-(hydroxymethyl)oxolane-3,4-diol",Nc1ncnc2c1nc(NCc1ccc(Cl)c(Cl)c1)n2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f731740>,0.33406113537117904
+5452,(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid,O=C(O)C1CC(=O)N(c2ccccc2O)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f731c80>,0.3759124087591241
+5454,"N-{2-[6-(2,4-DIAMINO-6-ETHYLPYRIMIDIN-5-YL)-2,2-DIMETHYL-3-OXO-2,3-DIHYDRO-4H-1,4-BENZOXAZIN-4-YL]ETHYL}ACETAMIDE",CCc1nc(N)nc(N)c1-c1ccc2c(c1)N(CCNC(C)=O)C(=O)C(C)(C)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f731d60>,0.34324324324324323
+5459,"(4R)-4-(3-HYDROXYPHENYL)-N,N,7,8-TETRAMETHYL-3,4-DIHYDROISOQUINOLINE-2(1H)-CARBOXAMIDE",Cc1ccc2c(c1C)CN(C(=O)N(C)C)CC2c1cccc(O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f731f20>,0.3611111111111111
+5485,(3S)-N-(3-CHLORO-2-METHYLPHENYL)-1-CYCLOHEXYL-5-OXOPYRROLIDINE-3-CARBOXAMIDE,Cc1c(Cl)cccc1NC(=O)C1CC(=O)N(C2CCCCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72cac0>,0.3611111111111111
+5508,"(2S)-6-(2,4-DIAMINO-6-ETHYLPYRIMIDIN-5-YL)-2-(3,5-DIFLUOROPHENYL)-4-(3-METHOXYPROPYL)-2H-1,4-BENZOXAZIN-3(4H)-ONE",CCc1nc(N)nc(N)c1-c1ccc2c(c1)N(CCCOC)C(=O)C(c1cc(F)cc(F)c1)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f730430>,0.3987730061349693
+5511,1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-4-METHYL-1H-INDOLE,Cc1cccc2c1ccn2[C@H]1C[C@H](O)[C@@H](COP(=O)(O)O)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f730580>,0.35459183673469385
+5528,D-phenylalanyl-N-(3-methylbenzyl)-L-prolinamide,Cc1cccc(CNC(=O)C2CCCN2C(=O)C(N)Cc2ccccc2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f730cf0>,0.3215686274509804
+5540,(2R)-N-HYDROXY-2-[(3S)-3-METHYL-3-{4-[(2-METHYLQUINOLIN-4-YL)METHOXY]PHENYL}-2-OXOPYRROLIDIN-1-YL]PROPANAMIDE,Cc1cc(COc2ccc([C@]3(C)CCN(C(C)C(O)=NO)C3=O)cc2)c2ccccc2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72f270>,0.403030303030303
+5542,"methyl (1R,2S)-2-(hydroxycarbamoyl)-1-{4-[(2-methylquinolin-4-yl)methoxy]benzyl}cyclopropanecarboxylate",COC(=O)[C@@]1(Cc2ccc(OCc3cc(C)nc4ccccc34)cc2)CC1C(O)=NO,<rdkit.Chem.rdchem.Mol object at 0x7f615f72f350>,0.3205882352941177
+5543,"(6S)-1-chloro-3-[(4-fluorobenzyl)oxy]-6-(pyrrolidin-1-ylcarbonyl)pyrrolo[1,2-a]pyrazin-4(6H)-one",O=C(c1ccc2c(Cl)nc(OCc3ccc(F)cc3)c(O)n12)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72f3c0>,0.32293986636971045
+5554,Tamatinib,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)NC(=O)C(C)(C)O4)n2)cc(OC)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f72f890>,0.35195530726256985
+5568,"6-(2,4-DIAMINO-6-ETHYLPYRIMIDIN-5-YL)-4-(3-METHOXYPROPYL)-2,2-DIMETHYL-2H-1,4-BENZOXAZIN-3(4H)-ONE",CCc1nc(N)nc(N)c1-c1ccc2c(c1)N(CCCOC)C(=O)C(C)(C)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f72fe40>,0.3651685393258427
+5582,"(3S)-1-CYCLOHEXYL-N-(3,5-DICHLOROPHENYL)-5-OXOPYRROLIDINE-3-CARBOXAMIDE",O=C(Nc1cc(Cl)cc(Cl)c1)C1CC(=O)N(C2CCCCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72e4a0>,0.3309608540925267
+5583,"(1S,3R,6S)-4-oxo-6-{4-[(2-phenylquinolin-4-yl)methoxy]phenyl}-5-azaspiro[2.4]heptane-1-carboxylic acid",O=C(O)C1C[C@@]12C[C@@H](c1ccc(OCc3cc(-c4ccccc4)nc4ccccc34)cc1)NC2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f72e510>,0.37640449438202245
+5584,3-cyclohexyl-D-alanyl-N-(3-chlorobenzyl)-L-prolinamide,NC(CC1CCCCC1)C(=O)N1CCCC1C(=O)NCc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72e580>,0.36398467432950193
+5592,"(2S,4S,5R)-1-(4-TERT-BUTYLBENZOYL)-2-ISOBUTYL-5-(1,3-THIAZOL-2-YL)PYRROLIDINE-2,4-DICARBOXYLIC ACID",CC(C)C[C@@]1(C(=O)O)CC(C(=O)O)[C@H](c2nccs2)N1C(=O)c1ccc(C(C)(C)C)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72e900>,0.3275862068965517
+5593,"(2S,4S,5R)-2-ISOBUTYL-5-(2-THIENYL)-1-[4-(TRIFLUOROMETHYL)BENZOYL]PYRROLIDINE-2,4-DICARBOXYLIC ACID",CC(C)C[C@@]1(C(=O)O)CC(C(=O)O)[C@H](c2cccs2)N1C(=O)c1ccc(C(F)(F)F)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72e970>,0.3394495412844037
+5611,"BENZYL N-({(2S,3S)-3-[(PROPYLAMINO)CARBONYL]OXIRAN-2-YL}CARBONYL)-L-ISOLEUCYL-L-PROLINATE",CCCNC(=O)C1OC1C(=O)NC(C(=O)N1CCCC1C(=O)OCc1ccccc1)[C@@H](C)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f72d190>,0.3732876712328767
+5614,(3S)-N-(5-CHLORO-2-METHYLPHENYL)-1-CYCLOHEXYL-5-OXOPYRROLIDINE-3-CARBOXAMIDE,Cc1ccc(Cl)cc1NC(=O)C1CC(=O)N(C2CCCCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72d2e0>,0.3649122807017544
+5615,"METHYL N-({(2S,3S)-3-[(PROPYLAMINO)CARBONYL]OXIRAN-2-YL}CARBONYL)-L-ISOLEUCYL-L-PROLINATE",CCCNC(=O)C1OC1C(=O)NC(C(=O)N1CCCC1C(=O)OC)[C@@H](C)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f72d350>,0.3402061855670103
+5619,L-778123,N#Cc1ccc(Cn2cncc2CN2CCN(c3cccc(Cl)c3)C(=O)C2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72d510>,0.3333333333333333
+5623,"N-({(2S,3S)-3-[(BENZYLAMINO)CARBONYL]OXIRAN-2-YL}CARBONYL)-L-ISOLEUCYL-L-PROLINE",CC[C@H](C)C(NC(=O)C1OC1C(=O)NCc1ccccc1)C(=O)N1CCCC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f72d6d0>,0.3951890034364261
+5641,"N-(5-chloro-1,3-benzodioxol-4-yl)-6-methoxy-7-(3-piperidin-1-ylpropoxy)quinazolin-4-amine",COc1cc2c(Nc3c(Cl)ccc4c3OCO4)ncnc2cc1OCCCN1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72de40>,0.3706070287539936
+5647,"N'-(5-CHLORO-1,3-BENZODIOXOL-4-YL)-N-(3-MORPHOLIN-4-YLPHENYL)PYRIMIDINE-2,4-DIAMINE",Clc1ccc2c(c1Nc1ccnc(Nc3cccc(N4CCOCC4)c3)n1)OCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f72b120>,0.34069400630914826
+5657,"3-(9-HYDROXY-1,3-DIOXO-4-PHENYL-2,3-DIHYDROPYRROLO[3,4-C]CARBAZOL-6(1H)-YL)PROPANOIC ACID",O=C(O)CCn1c2ccc(O)cc2c2c3c(c(-c4ccccc4)cc21)C(=O)NC3=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f72b580>,0.34844192634560905
+5665,1-[(2-AMINO-4-CHLORO-5-METHYLPHENYL)SULFONYL]-L-PROLINE,Cc1cc(S(=O)(=O)N2CCCC2C(=O)O)c(N)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f72b900>,0.363914373088685
+5669,2-(5-CHLORO-2-THIENYL)-N-{(3S)-1-[(1S)-1-METHYL-2-MORPHOLIN-4-YL-2-OXOETHYL]-2-OXOPYRROLIDIN-3-YL}ETHANESULFONAMIDE,CC(C(=O)N1CCOCC1)N1CCC(NS(=O)(=O)CCc2ccc(Cl)s2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f72bac0>,0.3203125
+5678,BMS-564929,Cc1c(-n2c(O)c3n(c2=O)CC[C@H]3O)ccc(C#N)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f72be40>,0.35196687370600416
+5686,"3-fluoro-4-[2-hydroxy-2-(5,5,8,8-tetramethyl-5,6,7,8,-tetrahydro-naphtalen-2-yl)-acetylamino]-benzoic acid",CC1(C)CCC(C)(C)c2cc(C(O)C(=O)Nc3ccc(C(=O)O)cc3F)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f725200>,0.326984126984127
+5720,"METHYL 4-{[({[(2R,5S)-5-{[(2S)-2-(AMINOMETHYL)PYRROLIDIN-1-YL]CARBONYL}PYRROLIDIN-2-YL]METHYL}AMINO)CARBONYL]AMINO}BENZOATE",COC(=O)c1ccc(NC(=O)NC[C@H]2CCC(C(=O)N3CCC[C@H]3CN)N2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f72a120>,0.3258426966292135
+5764,Anisomycin,COc1ccc(C[C@@H]2NC[C@@H](O)[C@@H]2OC(C)=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f729430>,0.4067796610169492
+5785,AVE-2865,O=C(NC(=O)c1cc(F)c(F)cc1Cl)Nc1cc(F)ccc1N1CCC(C(=O)O)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f729cf0>,0.34448160535117056
+5806,S-23,COc1cc2c(cc1OC)C(c1ccccc1)NCC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f728660>,0.32421875
+5835,(R)-minalrestat,O=C1C[C@@]2(C(=O)N1)C(=O)N(Cc1ccc(Br)cc1F)C(=O)c1ccc(F)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7272e0>,0.3407960199004975
+5845,2-({5-CHLORO-2-[(2-METHOXY-4-MORPHOLIN-4-YLPHENYL)AMINO]PYRIMIDIN-4-YL}AMINO)-N-METHYLBENZAMIDE,CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2OC)ncc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f727740>,0.33114754098360655
+5853,"(3aS)-3a-hydroxy-5-methyl-1-phenyl-1,2,3,3a-tetrahydro-4H-pyrrolo[2,3-b]quinolin-4-one",Cc1cccc2c1C(=O)[C@]1(O)CCN(c3ccccc3)C1=N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f727a50>,0.32779097387173395
+5854,"(3aS)-3a-hydroxy-7-methyl-1-phenyl-1,2,3,3a-tetrahydro-4H-pyrrolo[2,3-b]quinolin-4-one",Cc1ccc2c(c1)N=C1N(c3ccccc3)CC[C@@]1(O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f727ac0>,0.3293269230769231
+5855,"(3aS)-3a-hydroxy-1-phenyl-1,2,3,3a-tetrahydro-4H-pyrrolo[2,3-b]quinolin-4-one",O=C1c2ccccc2N=C2N(c3ccccc3)CC[C@@]12O,<rdkit.Chem.rdchem.Mol object at 0x7f615f727b30>,0.32273838630806845
+5858,"(R)-(+) 5(9BH)-OXO-9B-PHENYL-2,3-DIHYDROTHIAZOLO[2,3-A]ISOINDOL-3-CARBOXYLIC ACID METHYL ESTER",COC(=O)C1CS[C@]2(c3ccccc3)c3ccccc3C(=O)N12,<rdkit.Chem.rdchem.Mol object at 0x7f615f727c80>,0.3237597911227154
+5871,"(6-METHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL)METHYLPHOSPHINATE",Cc1ccc2c(c1)CCC(C[PH](=O)O)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f726190>,0.3471698113207547
+5891,"2-(4-hydroxybiphenyl-3-yl)-4-methyl-1H-isoindole-1,3(2H)-dione",Cc1cccc2c1C(=O)N(c1cc(-c3ccccc3)ccc1O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f726a50>,0.34812286689419797
+5926,(S)-carazolol,CC(C)NC[C@H](O)COc1cccc2[nH]c3ccccc3c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f723900>,0.3256578947368421
+5948,"(2R,3R,4S)-3-(4-HYDROXYPHENYL)-4-METHYL-2-[4-(2-PYRROLIDIN-1-YLETHOXY)PHENYL]CHROMAN-6-OL",CC1c2cc(O)ccc2O[C@@H](c2ccc(OCCN3CCCC3)cc2)[C@H]1c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7222e0>,0.43252595155709345
+5952,"N~2~-[(BENZYLOXY)CARBONYL]-N-[(1S,2S)-2-HYDROXY-1-(4-HYDROXYBENZYL)PROPYL]-L-LEUCINAMIDE",CC(C)CC(NC(=O)OCc1ccccc1)C(=O)N[C@@H](Cc1ccc(O)cc1)[C@H](C)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7224a0>,0.3246268656716418
+5954,"(2S)-1-(2,5-dimethylphenoxy)-3-morpholin-4-ylpropan-2-ol",Cc1ccc(C)c(OC[C@@H](O)CN2CCOCC2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f722580>,0.33043478260869563
+5963,"(4R,2S)-5'-(4-(4-CHLOROBENZYLOXY)PYRROLIDIN-2-YLMETHANESULFONYL)ISOQUINOLINE",O=S(=O)(NC[C@@H]1C[C@@H](OCc2ccc(Cl)cc2)CN1)c1cccc2cnccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f722970>,0.3538961038961039
+5974,CCT-018159,CCc1cc(-c2[nH]nc(C)c2-c2ccc3c(c2)OCCO3)c(O)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f722e40>,0.34300791556728233
+5978,"2,3,6A,7,8,9-HEXAHYDRO-11H-[1,4]DIOXINO[2,3-G]PYRROLO[2,1-B][1,3]BENZOXAZIN-11-ONE",O=C1c2cc3c(cc2O[C@@H]2CCCN12)OCCO3,<rdkit.Chem.rdchem.Mol object at 0x7f615f777040>,0.44966442953020136
+6017,"(3AS,4R,9BR)-2,2-DIFLUORO-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CC(F)(F)C[C@@H]32)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f777f90>,0.34523809523809523
+6022,"5-{[1-(2,3-dichlorobenzyl)piperidin-4-yl]methoxy}quinazoline-2,4-diamine",Nc1nc(N)c2c(OCC3CCN(Cc4cccc(Cl)c4Cl)CC3)cccc2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f799200>,0.3310810810810811
+6036,AC-(D)Phe-pro-borolys-OH,CC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)N[C@@H](CCCCN)B(O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f799820>,0.326007326007326
+6037,AC-(D)PHE-PRO-BOROHOMOLYS-OH,CC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)N[C@@H](CCCCCN)B(O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f799890>,0.326007326007326
+6038,AC-(D)PHE-PRO-BOROHOMOORNITHINE-OH,CC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)N[C@@H](CCCN)B(O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f799900>,0.3284671532846715
+6041,"2-[(1R)-1-CARBOXY-2-(4-HYDROXYPHENYL)ETHYL]-1,3-DIOXOISOINDOLINE-5-CARBOXYLIC ACID",O=C(O)c1ccc2c(c1)C(=O)N(C(Cc1ccc(O)cc1)C(=O)O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f799a50>,0.4151624548736462
+6056,"(9ALPHA,13BETA,17BETA)-2-[(1Z)-BUT-1-EN-1-YL]ESTRA-1,3,5(10)-TRIENE-3,17-DIOL",CCC=Cc1cc2c(cc1O)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@@H](O)CC[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f799f20>,0.3269230769230769
+6057,"(9S,12S)-9-(1-methylethyl)-7,10-dioxo-2-oxa-8,11-diazabicyclo[12.2.2]octadeca-1(16),14,17-triene-12-carboxylic acid",CC(C)C1NC(=O)CCCCOc2ccc(cc2)CC(C(=O)O)NC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f799f90>,0.3489208633093525
+6068,"1-[(2,6-difluorophenyl)sulfonyl]-4-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)piperazine",O=S(=O)(c1ccc2c(c1)OCCO2)N1CCN(S(=O)(=O)c2c(F)cccc2F)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78e4a0>,0.3333333333333333
+6073,"1-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)-4-[(4-methoxyphenyl)sulfonyl]piperazine",COc1ccc(S(=O)(=O)N2CCN(S(=O)(=O)c3ccc4c(c3)OCCO4)CC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78e6d0>,0.35034013605442177
+6075,"3-carboxamido-1,3,5(10)-estratrien-17(R)-spiro-2'(5',5'-dimethyl-6'oxo)tetrahydropyran",CC1(C)CC[C@@]2(CC[C@H]3[C@@H]4CCc5cc(C(N)=O)ccc5C4CC[C@@]32C)OC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78e7b0>,0.33147632311977715
+6076,"1-BENZYL-4-[(5,6-DIMETHOXY-1-INDANON-2-YL)METHYL]PIPERIDINE",COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f78e820>,0.37333333333333335
+6077,17alpha-Estriol,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H](O)[C@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78e890>,0.33433734939759036
+6082,"(9BETA,11ALPHA,13ALPHA,14BETA,17ALPHA)-11-(METHOXYMETHYL)ESTRA-1(10),2,4-TRIENE-3,17-DIOL",COC[C@@H]1C[C@@]2(C)[C@H](O)CC[C@@H]2[C@@H]2CCc3cc(O)ccc3[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f78ea50>,0.3375
+6093,"[(3R)-3-(Methylcarbamoyl)-2-{[(2-methyl-2-propanyl)oxy]carbonyl}-1,2,3,4-tetrahydro-7-isoquinolinyl]sulfamic acid",CNC(=O)C1Cc2ccc(NS(=O)(=O)O)cc2CN1C(=O)OC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f78eeb0>,0.3468208092485549
+6110,"N-[1-(5-bromo-2,3-dimethoxybenzyl)piperidin-4-yl]-4-sulfanylbutanamide",COc1cc(Br)cc(CN2CCC(NC(=O)CCCS)CC2)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7969e0>,0.332089552238806
+6113,"4-(1R,3AS,4R,8AS,8BR)-[1-DIFLUOROMETHYL-2-(4-FLUOROBENZYL)-3-OXODECAHYDROPYRROLO[3,4-A]PYRROLIZIN-4-YL]BENZAMIDINE",NC(N)c1ccc([C@H]2C3C(=O)N(Cc4ccc(F)cc4)[C@H](C(F)F)[C@H]3[C@@H]3CCCN23)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f796890>,0.32216494845360827
+6119,"(3R)-N-(4-CHLOROPHENYL)-3-(HYDROXYMETHYL)-1,2,3,4-TETRAHYDROISOQUINOLINE-7-SULFONAMIDE",O=S(=O)(Nc1ccc(Cl)cc1)c1ccc2c(c1)CN[C@@H](CO)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7965f0>,0.3301282051282051
+6134,"(5S)-3-ANILINO-5-(2,4-DIFLUOROPHENYL)-5-METHYL-1,3-OXAZOLIDINE-2,4-DIONE",C[C@@]1(c2ccc(F)cc2F)OC(=O)N(Nc2ccccc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f798040>,0.32044198895027626
+6147,(S)-famoxadone,C[C@@]1(c2ccc(Oc3ccccc3)cc2)OC(=O)N(Nc2ccccc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7985f0>,0.32448377581120946
+6155,"1-((1R,2S)-1-{2-[2-(4-CHLOROPHENYL)-1,3-BENZOXAZOL-7-YL]ETHYL}-2-HYDROXYPROPYL)-1H-IMIDAZOLE-4-CARBOXAMIDE",C[C@H](O)[C@@H](CCc1cccc2nc(-c3ccc(Cl)cc3)oc12)n1cnc(C(N)=O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f798970>,0.32894736842105265
+6161,"(S)-2-CHLORO-N-(1-(2-(2-HYDROXYETHYLAMINO)-2-OXOETHYL)-2-OXO-1,2,3,4-TETRAHYDROQUINOLIN-3-YL)-6H-THIENO[2,3-B]PYRROLE-5-CARBOXAMIDE",O=C(CN1C(=O)C(NC(=O)c2cc3cc(Cl)sc3[nH]2)Cc2ccccc21)NCCO,<rdkit.Chem.rdchem.Mol object at 0x7f615f798ba0>,0.3208791208791209
+6174,"(2R,4S)-2-[(R)-BENZYLCARBAMOYL-PHENYLACETYL-METHYL]-5,5-DIMETHYL-THIAZOLIDINE-4-CARBOXYLIC ACID",CC1(C)S[C@H](C(C(=O)Cc2ccccc2)C(=O)NCc2ccccc2)NC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f795120>,0.3333333333333333
+6181,GLYCYLALANYL-N-2-NAPHTHYL-L-PROLINEAMIDE,CC(NC(=O)CN)C(=O)N1CCCC1C(=O)Nc1ccc2ccccc2c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f795430>,0.34210526315789475
+6190,"(2S)-2-[(3aR,4R,7S,7aS)-1,3-dioxooctahydro-2H-4,7-methanoisoindol-2-yl]propanoic acid",CC(C(=O)O)n1c(O)c2c(c1O)[C@H]1CC[C@@H]2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f795820>,0.33098591549295775
+6192,(3S)-1-(4-acetylphenyl)-5-oxopyrrolidine-3-carboxylic acid,CC(=O)c1ccc(N2CC(C(=O)O)CC2=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f795900>,0.35315985130111527
+6194,"4-{[1-METHYL-2,4-DIOXO-6-(3-PHENYLPROP-1-YN-1-YL)-1,4-DIHYDROQUINAZOLIN-3(2H)-YL]METHYL}BENZOIC ACID",Cn1c(=O)n(Cc2ccc(C(=O)O)cc2)c(=O)c2cc(C#CCc3ccccc3)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7959e0>,0.375
+6196,"(4R,5R)-5-AMINO-1-[2-(1,3-BENZODIOXOL-5-YL)ETHYL]-4-(2,4,5-TRIFLUOROPHENYL)PIPERIDIN-2-ONE",N[C@H]1CN(CCc2ccc3c(c2)OCO3)C(=O)C[C@@H]1c1cc(F)c(F)cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f795ac0>,0.3482142857142857
+6209,5-CHLORO-N-{(3S)-1-[(1S)-1-METHYL-2-MORPHOLIN-4-YL-2-OXOETHYL]-2-OXOPYRROLIDIN-3-YL}-1-BENZOTHIOPHENE-2-SULFONAMIDE,CC(C(=O)N1CCOCC1)N1CCC(NS(=O)(=O)c2cc3cc(Cl)ccc3s2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f79f040>,0.32134831460674157
+6210,6-CHLORO-N-{(3S)-1-[(1S)-1-METHYL-2-MORPHOLIN-4-YL-2-OXOETHYL]-2-OXOPYRROLIDIN-3-YL}-1-BENZOTHIOPHENE-2-SULFONAMIDE,CC(C(=O)N1CCOCC1)N1CCC(NS(=O)(=O)c2cc3ccc(Cl)cc3s2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f79f0b0>,0.3257918552036199
+6212,"(3,4,8b-Trimethyl-3-oxido-2,3a-dihydro-1H-pyrrolo[2,3-b]indol-3-ium-7-yl) N-(2-ethylphenyl)carbamate",CCc1ccccc1NC(=O)Oc1ccc2c(c1)C1(C)CC[N+](C)([O-])C1N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f79f190>,0.3239130434782609
+6213,6-CHLORO-N-{(3S)-1-[(1S)-1-METHYL-2-(4-MORPHOLINYL)-2-OXO ETHYL]-2-OXO-3-PYRROLIDINYL}-2-NAPHTHALENESULFONAMIDE,CC(C(=O)N1CCOCC1)N1CCC(NS(=O)(=O)c2ccc3cc(Cl)ccc3c2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f79f200>,0.37349397590361444
+6214,5-Chloro-N-{(3S)-1-[(2S)-1-(4-morpholinyl)-1-oxo-2-propanyl]-2-oxo-3-pyrrolidinyl}-1H-indole-2-sulfonamide,CC(C(=O)N1CCOCC1)N1CCC(NS(=O)(=O)c2cc3cc(Cl)ccc3[nH]2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f79f270>,0.3252212389380531
+6238,5-chloro-N-[(3R)-1-(2-{[2-fluoro-4-(2-oxopyridin-1(2H)-yl)phenyl]amino}-2-oxoethyl)pyrrolidin-3-yl]thiophene-2-carboxamide,O=C(CN1CC[C@@H](NC(=O)c2ccc(Cl)s2)C1)Nc1ccc(-n2ccccc2=O)cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f79fc80>,0.3230769230769231
+6241,"5-Chloro-thiophene-2-carboxylic acid ((3S,4S)-1-{[2-fluoro-4-(2-oxo-2H-pyridin-1-yl)-phenylcarbamoyl]-methyl}-4-hydroxy-pyrrolidin-3-yl)-amide",O=C(CN1C[C@H](NC(=O)c2ccc(Cl)s2)[C@@H](O)C1)Nc1ccc(-n2ccccc2=O)cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f79fdd0>,0.35786802030456855
+6248,"4-{4-[2-(1A,7A-DIMETHYL-4-OXY-OCTAHYDRO-1-OXA-4-AZA-CYCLOPROPA[A]NAPHTHALEN-4-YL) -ACETYLAMINO]-PHENYLCARBAMOYL}-BUTYRIC ACID",CC12CC[C@@H]3[C@](C)(CCC[N@+]3([O-])CC(=O)Nc3ccc(NC(=O)CCCC(=O)O)cc3)[C@@H]1O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a10b0>,0.3402777777777778
+6250,Opaviraline,CCC1C(=O)Nc2ccc(F)cc2N1C(=O)OC(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a1190>,0.38047138047138046
+6251,Talviraline,COc1ccc2c(c1)N(C(=O)OC(C)C)C(CSC)C(=S)N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a1200>,0.3433734939759036
+6256,Estradiol hemisuccinate,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)CCC(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a1430>,0.34782608695652173
+6293,"N-(TERT-BUTYL)-3,5-DIMETHYL-N'-[(5-METHYL-2,3-DIHYDRO-1,4-BENZODIOXIN-6-YL)CARBONYL]BENZOHYDRAZIDE",Cc1cc(C)cc(C(=O)N(NC(=O)c2ccc3c(c2C)OCCO3)C(C)(C)C)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a04a0>,0.381294964028777
+6297,Erteberel,Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CCC[C@@H]32)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a0660>,0.35737704918032787
+6300,N-(4-{[(3S)-3-(dimethylamino)pyrrolidin-1-yl]carbonyl}phenyl)-5-fluoro-4-[2-methyl-1-(1-methylethyl)-1H-imidazol-5-yl]pyrimidin-2-amine,Cc1ncc(-c2nc(Nc3ccc(C(=O)N4CC[C@H](N(C)C)C4)cc3)ncc2F)n1C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7a07b0>,0.3289817232375979
+6336,N-(1-ISOPROPYLPIPERIDIN-4-YL)-1-(3-METHOXYBENZYL)-1H-INDOLE-2-CARBOXAMIDE,COc1cccc(Cn2c(C(=O)NC3CCN(C(C)C)CC3)cc3ccccc32)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f792740>,0.32625994694960214
+6343,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1R)-1-(hydroxymethyl)propyl]acetamide,CC[C@H](CO)NC(=O)Cc1c(C)n(C(=O)c2ccc(Cl)cc2)c2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7929e0>,0.35714285714285715
+6346,2-[1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indol-3-yl]-n-[(1S)-1-(hydroxymethyl)propyl]acetamide,CC[C@@H](CO)NC(=O)Cc1c(C)n(C(=O)c2ccc(Cl)cc2)c2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f792b30>,0.35714285714285715
+6370,"(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-[(E)-2-phenylethenyl]-1H-indole-2,3-dione 3-oxime",O=Nc1c(O)n(Cc2cc(F)cc3c2OCOC3)c2cccc(C=Cc3ccccc3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f79e5f0>,0.34441805225653205
+6371,"(3E)-5-fluoro-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-1H-indole-2,3-dione 3-oxime",O=Nc1c(O)n(Cc2cc(F)cc3c2OCOC3)c2ccc(F)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f79e660>,0.3389423076923077
+6375,"(3Z)-1-[(6-fluoro-4H-1,3-benzodioxin-8-yl)methyl]-4-phenyl-1H-indole-2,3-dione 3-oxime",O=Nc1c(O)n(Cc2cc(F)cc3c2OCOC3)c2cccc(-c3ccccc3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f79e820>,0.3546099290780142
+6380,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-6-(METHOXYMETHYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",COCc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CCCC21,<rdkit.Chem.rdchem.Mol object at 0x7f615f79ea50>,0.3573667711598746
+6391,"N-[(13-CYCLOHEXYL-6,7-DIHYDROINDOLO[1,2-D][1,4]BENZOXAZEPIN-10-YL)CARBONYL]-2-METHYL-L-ALANINE",CC(C)(NC(=O)c1ccc2c(C3CCCCC3)c3n(c2c1)CCOc1ccccc1-3)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f79ef20>,0.32548179871520344
+6397,MK-0731,CN1CC[C@H](N(C)C(=O)N2CC(c3cc(F)ccc3F)=C[C@@]2(CO)c2ccccc2)[C@H](F)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f797190>,0.32663316582914576
+6423,"1-BENZYL-3-(4-METHOXYPHENYLAMINO)-4-PHENYLPYRROLE-2,5-DIONE",COc1ccc(N=C2C(=O)N(Cc3ccccc3)C(=O)C2c2ccccc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f797c80>,0.3541666666666667
+6428,N-[4-CHLORO-3-(PYRIDIN-3-YLOXYMETHYL)-PHENYL]-3-FLUORO-,O=C(Nc1ccc(Cl)c(COc2cccnc2)c1)C1=C[C@H](F)C[C@@H](N2CCOCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f797eb0>,0.32679738562091504
+6447,"4-[(7R,7AS)-7-HYDROXY-1,3-DIOXOTETRAHYDRO-1H-PYRROLO[1,2-C]IMIDAZOL-2(3H)-YL]-1-NAPHTHONITRILE",N#Cc1ccc(-n2c(O)c3n(c2=O)CC[C@H]3O)c2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f79d740>,0.33763440860215055
+6448,"2-chloro-4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)tetrahydro-1H-pyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-3-methylbenzonitrile",Cc1c(N=C2O[C@@H](C(F)(F)F)[C@@H]3[C@@H](O)CCN23)ccc(C#N)c1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f79d7b0>,0.3713527851458886
+6459,"6-ethyl-5-[(2S)-1-(3-methoxypropyl)-2-phenyl-1,2,3,4-tetrahydroquinolin-7-yl]pyrimidine-2,4-diamine",CCc1nc(N)nc(N)c1-c1ccc2c(c1)N(CCCOC)[C@H](c1ccccc1)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f79dc10>,0.3841059602649007
+6472,N-({6-[(4-CYANO-2-FLUOROBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,N#Cc1ccc(COc2ccc3cc(S(=O)(=O)NC(CCC(=O)O)C(=O)O)ccc3c2)c(F)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f79c200>,0.3234323432343234
+6502,"5-CHLORO-THIOPHENE-2-CARBOXYLIC ACID ((3S,4S)-4-FLUORO- 1-{[2-FLUORO-4-(2-OXO-2H-PYRIDIN-1-YL)-PHENYLCARBAMOYL]-METHYL}-PYRROLIDIN-3-YL)-AMIDE",O=C(CN1C[C@H](NC(=O)c2ccc(Cl)s2)[C@@H](F)C1)Nc1ccc(-n2ccccc2=O)cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f79ce40>,0.3225806451612903
+6511,{(2S)-1-[N-(tert-butoxycarbonyl)glycyl]pyrrolidin-2-yl}methyl (3-chlorophenyl)acetate,CC(C)(C)OC(=O)NCC(=O)N1CCC[C@H]1COC(=O)Cc1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f79b270>,0.3248175182481752
+6529,"(1R)-N,6-DIHYDROXY-7-METHOXY-2-[(4-METHOXYPHENYL)SULFONYL]-1,2,3,4-TETRAHYDROISOQUINOLINE-1-CARBOXAMIDE",COc1ccc(S(=O)(=O)N2CCc3cc(O)c(OC)cc3C2C(O)=NO)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f79b970>,0.3438395415472779
+6545,N-Methylphenylalanyl-N-[(trans-4-aminocyclohexyl)methyl]-L-prolinamide,CNC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC[C@H]1CC[C@H](N)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f79bf20>,0.33073929961089493
+6570,"1-METHYL-5-(2-PHENOXYMETHYL-PYRROLIDINE-1-SULFONYL)-1H-INDOLE-2,3-DIONE",CN1C(=O)C(=O)c2cc(S(=O)(=O)N3CCCC3COc3ccccc3)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f79a970>,0.35127478753541075
+6592,"(2S)-2-(3-bromophenyl)-3-(5-chloro-2-hydroxyphenyl)-1,3-thiazolidin-4-one",O=C1CS[C@@H](c2cccc(Br)c2)N1c1cc(Cl)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f787270>,0.3443708609271523
+6600,1-(2-DEOXY-5-O-PHOSPHONO-BETA-D-ERYTHRO-PENTOFURANOSYL)-5-NITRO-1H-INDOLE,O=[N+]([O-])c1ccc2c(ccn2[C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7875f0>,0.32917705735660846
+6615,"(1S,2R,3S,4R,5R)-2,3,4-trihydroxy-N-octyl-6-oxa-8-azabicyclo[3.2.1]octane-8-carbothioamide",CCCCCCCCNC(=S)N1[C@@H]2OC[C@H]1[C@@H](O)[C@H](O)[C@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f787c10>,0.35331230283911674
+6616,"2-hydroxy-7-methoxy-5-methyl-naphthalene-1-carboxylic acid meso-2,5-dihydroxy-cyclopent-3-enyl ester",COc1cc(C)c2ccc(O)c(C(=O)OC3[C@H](O)C=C[C@@H]3O)c2c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f787c80>,0.3236363636363636
+6655,"(3S)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2,4-benzothiadiazine 1,1-dioxide",Cc1cc2c(cc1S(=O)(=O)N1CCN(C)CC1)S(=O)(=O)N[C@@H](C1CCCC1)N2,<rdkit.Chem.rdchem.Mol object at 0x7f615f793d60>,0.3235294117647059
+6656,"(3R)-3-cyclopentyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",CN1CCN(S(=O)(=O)c2ccc3c(c2)S(=O)(=O)N[C@@H](C2CCCC2)C3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f793dd0>,0.33509234828496043
+6657,"(3R)-3-cyclopentyl-6-methyl-7-[(4-methylpiperazin-1-yl)sulfonyl]-3,4-dihydro-2H-1,2-benzothiazine 1,1-dioxide",Cc1cc2c(cc1S(=O)(=O)N1CCN(C)CC1)S(=O)(=O)N[C@@H](C1CCCC1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f793e40>,0.3333333333333333
+6662,"N-[(2R)-2-{[(2S)-2-(1,3-benzoxazol-2-yl)pyrrolidin-1-yl]carbonyl}hexyl]-N-hydroxyformamide",CCCCC(CN(O)C=O)C(=O)N1CCC[C@H]1c1nc2ccccc2o1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7940b0>,0.32558139534883723
+6694,4-chloro-N-(3-methoxypropyl)-N-[(3S)-1-(2-phenylethyl)piperidin-3-yl]benzamide,COCCCN(C(=O)c1ccc(Cl)cc1)[C@H]1CCCN(CCc2ccccc2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f794eb0>,0.32231404958677684
+6701,N-cyclopropyl-4-methyl-3-{2-[(2-morpholin-4-ylethyl)amino]quinazolin-6-yl}benzamide,Cc1ccc(C(=O)NC2CC2)cc1-c1ccc2nc(NCCN3CCOCC3)ncc2c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77d200>,0.3286219081272085
+6716,"3-({3-[(1S,4aS,6S,7S,9S,9aR)-1,6-dimethyl-2-oxodecahydro-6,9-epoxy-4a,7-methanobenzo[7]annulen-1-yl]propanoyl}amino)-2,4-dihydroxybenzoic acid",C[C@]12C[C@@]34CCC(=O)[C@@](C)(CCC(=O)Nc5c(O)ccc(C(=O)O)c5O)[C@@H]3[C@H](C[C@@H]1C4)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f77d890>,0.3247058823529412
+6737,"6,7-DIMETHOXY-4-[(3R)-3-(2-NAPHTHYLOXY)PYRROLIDIN-1-YL]QUINAZOLINE",COc1cc2ncnc(N3CC[C@@H](Oc4ccc5ccccc5c4)C3)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f78fe40>,0.35135135135135137
+6739,PQ-10,COc1cc2ncnc(N3CC[C@@H](Oc4cnc5ccccc5n4)C3)c2cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f78fd60>,0.34838709677419355
+6764,"(4aS,4bR,10bS,12aS)-12a-methyl-1,3-dioxo-2-(pyridin-3-ylmethyl)-1,2,3,4,4a,4b,5,6,10b,11,12,12a-dodecahydronaphtho[2,1-f]isoquinolin-8-yl sulfamate",C[C@]12CC[C@@H]3c4ccc(OS(N)(=O)=O)cc4CC[C@H]3[C@@H]1CC(=O)N(Cc1cccnc1)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78f2e0>,0.3256997455470738
+6766,1-{[1-(2-AMINO-3-PHENYL-PROPIONYL)-PYRROLIDINE-2-CARBONYL]-AMINO}-2-(3-CYANO-PHENYL)-ETHANEBORONIC ACID,N#Cc1cccc(CC(NC(=O)C2CCCN2C(=O)C(N)Cc2ccccc2)B(O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78f200>,0.3592592592592593
+6782,Puromycin,COc1ccc(CC(N)C(=O)NC2[C@@H](O)[C@H](n3cnc4c(N(C)C)ncnc43)O[C@@H]2CO)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78d510>,0.3356009070294785
+6787,"4-{[(2R)-2-(2-methylphenyl)pyrrolidin-1-yl]carbonyl}benzene-1,3-diol",Cc1ccccc1[C@H]1CCCN1C(=O)c1ccc(O)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78d740>,0.4385245901639344
+6790,"(3R,4S)-1-[6-(6-METHOXYPYRIDIN-3-YL)PYRIMIDIN-4-YL]-4-(2,4,5-TRIFLUOROPHENYL)PYRROLIDIN-3-AMINE",COc1ccc(-c2cc(N3C[C@H](c4cc(F)c(F)cc4F)[C@@H](N)C3)ncn2)cn1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78d890>,0.323943661971831
+6808,"METHYL 3-CHLORO-2-{3-[(2,5-DIHYDROXY-4-METHOXYPHENYL)AMINO]-3-OXOPROPYL}-4,6-DIHYDROXYBENZOATE",COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc1cc(O)c(OC)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7900b0>,0.3212996389891697
+6835,"S-{2-[(2-chloro-4-sulfamoylphenyl)amino]-2-oxoethyl} 6-methyl-3,4-dihydroquinoline-1(2H)-carbothioate",Cc1ccc2c(c1)CCCN2C(=O)SCC(=O)Nc1ccc(S(N)(=O)=O)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f790c80>,0.3382352941176471
+6839,"(1S)-1-(3-chlorophenyl)-2-oxo-2-[(1,3,4-trioxo-1,2,3,4-tetrahydroisoquinolin-5-yl)amino]ethyl acetate",CC(=O)OC(C(=O)Nc1cccc2c1C(=O)C(=O)NC2=O)c1cccc(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f790e40>,0.3411371237458194
+6841,"(3S,5R,7R,8S,9S,10R)-7-(hydroxymethyl)-3-(2-naphthyl)-1,6-dioxa-2-azaspiro[4.5]decane-8,9,10-triol",OC[C@H]1O[C@@]2(C[C@@H](c3ccc4ccccc4c3)NO2)[C@H](O)[C@@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f790f20>,0.3225806451612903
+6858,Sakuranetin,COc1cc(O)c2c(c1)O[C@H](c1ccc(O)cc1)CC2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7916d0>,0.34765625
+6886,"4-[(3AS,4R,7R,8AS,8BR)-2-(1,3-BENZODIOXOL-5-YLMETHYL)-7-HYDROXY-1,3-DIOXODECAHYDROPYRROLO[3,4-A]PYRROLIZIN-4-YL]BENZENECARBOXIMIDAMIDE",N=C(N)c1ccc([C@H]2c3c(c(O)n(Cc4ccc5c(c4)OCO5)c3O)[C@@H]3C[C@@H](O)CN23)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7892e0>,0.32515337423312884
+6889,"(3R)-METHYLCARBAMOYL-7-SULFOAMINO-3,4-DIHYDRO-1H-ISOQUINOLINE-2-CARBOXYLIC ACID BENZYL ESTER",CNC(=O)C1Cc2ccc(NS(=O)(=O)O)cc2CN1C(=O)OCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f789430>,0.3734567901234568
+6918,4-bromo-2-{[(2R)-2-(2-chlorobenzyl)pyrrolidin-1-yl]carbonyl}aniline,Nc1ccc(Br)cc1C(=O)N1CCC[C@@H]1Cc1ccccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f78c120>,0.39622641509433965
+6919,"4-[(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)amino]-4-oxobutanoic acid",C[C@@H]1C[C@H](C)CN(C(=O)c2cc(Br)ccc2NC(=O)CCC(=O)O)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78c190>,0.32727272727272727
+6920,"N-(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)-4-morpholin-4-yl-4-oxobutanamide",C[C@@H]1C[C@H](C)CN(C(=O)c2cc(Br)ccc2NC(=O)CCC(=O)N2CCOCC2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f78c200>,0.33214285714285713
+6932,5'-deoxy-5'-piperidin-1-ylthymidine,Cc1cn([C@H]2C[C@H](O)[C@@H](CN3CCCCC3)O2)c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78c740>,0.3333333333333333
+6953,3-(HYDROXY-PHENYL-PHOSPHINOYLOXY)-8-METHYL-8-AZA-BICYCLO[3.2.1]OCTANE-2-CARBOXYLIC ACID METHYL ESTER,COC(=O)C1C(OP(=O)(O)c2ccccc2)CC2CCC1N2C,<rdkit.Chem.rdchem.Mol object at 0x7f615f78a040>,0.3342618384401114
+6993,"1-(2,5-dideoxy-5-pyrrolidin-1-yl-beta-L-erythro-pentofuranosyl)-5-methylpyrimidine-2,4(1H,3H)-dione",Cc1cn([C@@H]2C[C@@H](O)[C@H](CN3CCCC3)O2)c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78bf20>,0.32266666666666666
+7006,"(20S)-19,20,21,22-TETRAHYDRO-19-OXO-5H-18,20-ETHANO-12,14-ETHENO-6,10-METHENO-18H-BENZ[D]IMIDAZO[4,3-K][1,6,9,12]OXATRIAZA-CYCLOOCTADECOSINE-9-CARBONITRILE",N#Cc1ccc2cc1Oc1ccc3cccc(c3c1)N1CCC(NCc3c[nH]c[n+]3C2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78b970>,0.34278959810874704
+7008,"(20S)-19,20,22,23-TETRAHYDRO-19-OXO-5H,21H-18,20-ETHANO-12,14-ETHENO-6,10-METHENOBENZ[D]IMIDAZO[4,3-L][1,6,9,13]OXATRIAZACYCLONOADECOSINE-9-CARBONITRILE",N#Cc1ccc2cc1Oc1ccc3cccc(c3c1)N1CCC(NCCc3c[nH]c[n+]3C2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78b890>,0.34987593052109184
+7018,FG-2216,O=C(O)CNC(=O)c1nc(Cl)c2ccccc2c1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f78b4a0>,0.3215547703180212
+7027,"4-(2-aminoethoxy)-N-(3-chloro-5-piperidin-1-ylphenyl)-3,5-dimethylbenzamide",Cc1cc(C(=O)Nc2cc(Cl)cc(N3CCCCC3)c2)cc(C)c1OCCN,<rdkit.Chem.rdchem.Mol object at 0x7f615f78b0b0>,0.33840304182509506
+7045,"[(2S)-4-methyl-3-oxo-2,3,4,5-tetrahydro-1H-1,4-benzodiazepin-2-yl]acetic acid",CN1Cc2ccccc2NC(CC(=O)O)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7786d0>,0.3824561403508772
+7059,"2-[(1R)-2-carboxy-1-(naphthalen-1-ylmethyl)ethyl]-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",O=C(O)C[C@@H](Cc1cccc2ccccc12)N1C(=O)c2ccc(C(=O)O)cc2C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f778c80>,0.3898916967509025
+7065,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-9-OL",Oc1ccc([C@@H]2Oc3cccc(O)c3[C@@H]3CCC[C@@H]32)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f778f20>,0.3602693602693603
+7066,1-{3-oxo-3-[(2S)-2-(pyrrolidin-1-ylcarbonyl)pyrrolidin-1-yl]propyl}-3-phenylquinoxalin-2(1H)-one,O=C(C1CCCN1C(=O)CCn1c(=O)c(-c2ccccc2)nc2ccccc21)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f778f90>,0.3495702005730659
+7067,"2-{3-[(2S)-4,4-difluoro-2-(pyrrolidin-1-ylcarbonyl)pyrrolidin-1-yl]-3-oxopropyl}-isoindole-1,3(2H)-dione",O=C(C1CC(F)(F)CN1C(=O)CCN1C(=O)c2ccccc2C1=O)N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f784040>,0.3238993710691824
+7075,"(11R)-10-acetyl-11-(2,4-dichlorophenyl)-6-hydroxy-3,3-dimethyl-2,3,4,5,10,11-hexahydro-1H-dibenzo[b,e][1,4]diazepin-1-one",CC(=O)N1c2cccc(O)c2N=C2CC(C)(C)CC(=O)C2[C@@H]1c1ccc(Cl)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f7843c0>,0.3415841584158416
+7093,Zofenoprilat,CC(CS)C(=O)N1C[C@@H](Sc2ccccc2)CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f784b30>,0.39568345323741005
+7145,Ioflupane I-123,COC(=O)C1[C@@H](c2ccc([123I])cc2)C[C@@H]2CC[C@H]1N2CCCF,<rdkit.Chem.rdchem.Mol object at 0x7f615f783f90>,0.3622291021671827
+7165,Hydroxyproline,O=C(O)C1C[C@@H](O)CN1,<rdkit.Chem.rdchem.Mol object at 0x7f615f786820>,0.3303964757709251
+7202,Pomalidomide,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7853c0>,0.3438485804416404
+7207,Afatinib,CN(C)C/C=C/C(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1O[C@H]1CCOC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f785580>,0.33548387096774196
+7216,Dolutegravir,C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12,<rdkit.Chem.rdchem.Mol object at 0x7f615f785970>,0.32409381663113007
+7238,Ifenprodil,CC(C(O)c1ccc(O)cc1)N1CCC(Cc2ccccc2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f780200>,0.33195020746887965
+7246,Glafenine,O=C(OCC(O)CO)c1ccccc1Nc1ccnc2cc(Cl)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f780510>,0.32222222222222224
+7251,Fominoben,CN(CC(=O)N1CCOCC1)Cc1c(Cl)cccc1NC(=O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f780740>,0.32209737827715357
+7255,Flumequine,CC1CCc2cc(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f780900>,0.324468085106383
+7260,Fentonium,C[N+]1(CC(=O)c2ccc(-c3ccccc3)cc2)[C@@H]2CC[C@H]1C[C@@H](OC(=O)C(CO)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f780b30>,0.39464882943143814
+7268,Etifoxine,CCN=C1Nc2ccc(Cl)cc2C(C)(c2ccccc2)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f780eb0>,0.3333333333333333
+7285,Clocapramine,NC(=O)C1(N2CCCCC2)CCN(CCCN2c3ccccc3CCc3ccc(Cl)cc32)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f771580>,0.3375796178343949
+7307,Vorapaxar,CCOC(=O)N[C@@H]1CC[C@@H]2[C@H](CC3C(=O)O[C@H](C)[C@H]3[C@H]2/C=C/c2ccc(-c3cccc(F)c3)cn2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f771eb0>,0.32670454545454547
+7309,Empagliflozin,OC[C@H]1O[C@@H](c2ccc(Cl)c(Cc3ccc(O[C@H]4CCOC4)cc3)c2)[C@H](O)[C@@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f771f90>,0.371900826446281
+7310,Eliglustat,CCCCCCCC(=O)N[C@H](CN1CCCC1)[C@H](O)c1ccc2c(c1)OCCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f781f90>,0.532258064516129
+7314,Finafloxacin,N#Cc1c(N2C[C@@H]3NCCO[C@H]3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f781dd0>,0.3503480278422274
+7327,Tasimelteon,CCC(=O)NC[C@@H]1C[C@H]1c1cccc2c1CCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f781970>,0.33222591362126247
+7333,Lenvatinib,COc1cc2nccc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7816d0>,0.3333333333333333
+7335,Olodaterol,COc1ccc(CC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7815f0>,0.380327868852459
+7338,Ivabradine,COc1cc2c(cc1OC)CC(=O)N(CCCN(C)C[C@H]1Cc3cc(OC)c(OC)cc31)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7814a0>,0.33440514469453375
+7348,Chlortetracycline,CN(C)C1C(=O)C(C(N)=O)C(=O)[C@@]2(O)C(=O)C3C(=O)c4c(O)ccc(Cl)c4[C@@](C)(O)[C@H]3C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7810b0>,0.3686635944700461
+7349,Podophyllin,COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f781040>,0.3860182370820669
+7352,Quinagolide,CCCN1CC(NS(=O)(=O)N(CC)CC)CC2Cc3c(O)cccc3CC21,<rdkit.Chem.rdchem.Mol object at 0x7f615f782120>,0.335149863760218
+7354,Elvitegravir,COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2[C@H](CO)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f782190>,0.3784530386740331
+7381,Sonidegib,Cc1c(C(=O)Nc2ccc(N3C[C@@H](C)O[C@@H](C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f782ba0>,0.3221476510067114
+7408,Edivoxetine,COc1ccc(F)cc1C[C@@](O)(C1CCOCC1)[C@@H]1CNCCO1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77f740>,0.32601880877742945
+7411,Lortalamine,CN1CC[C@]23NC(=O)CC(c4cc(Cl)ccc4O2)C3C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77f890>,0.36609336609336607
+7431,Pholcodine,CN1CCC23c4c5ccc(OCCN6CCOCC6)c4OC2C(O)C=CC3C1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f77e190>,0.35964912280701755
+7441,Bisoxatin,O=C1Nc2ccccc2OC1(c1ccc(O)cc1)c1ccc(O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77e580>,0.35668789808917195
+7447,Barnidipine,COC(=O)C1=C(C)N=C(C)C(C(=O)O[C@H]2CCN(Cc3ccccc3)C2)C1c1cccc([N+](=O)[O-])c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77e820>,0.34844192634560905
+7452,Cronidipine,COC(=O)C1=C(C)N=C(C)C(C(=O)OCC2COC3(CCN(c4ccc(Cl)cc4)CC3)O2)C1c1cccc([N+](=O)[O-])c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77e9e0>,0.32051282051282054
+7464,Toloxatone,Cc1cccc(N2CC(CO)OC2=O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77ed60>,0.36153846153846153
+7473,Caroxazone,NC(=O)CN1Cc2ccccc2OC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f77b190>,0.37593984962406013
+7488,Lumacaftor,Cc1ccc(NC(=O)C2(c3ccc4c(c3)OC(F)(F)O4)CC2)nc1-c1cccc(C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f77b740>,0.3467741935483871
+7503,Silibinin,COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f77bd60>,0.4296028880866426
+7505,Butylscopolamine,CCCC[N+]1(C)[C@@H]2CC(OC(=O)C(CO)c3ccccc3)C[C@H]1[C@@H]1O[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f77be40>,0.3498542274052478
+7515,Carindacillin,CC1(C)S[C@@H]2C(NC(=O)C(C(=O)Oc3ccc4c(c3)CCC4)c3ccccc3)C(=O)N2C1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f776190>,0.33183856502242154
+7525,Alatrofloxacin,CC(N)C(=O)NC(C)C(=O)NC1[C@H]2CN(c3nc4c(cc3F)c(=O)c(C(=O)O)cn4-c3ccc(F)cc3F)C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7765f0>,0.3311827956989247
+7543,Polyestradiol phosphate,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f776cf0>,0.32786885245901637
+7583,Enalaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f77a2e0>,0.36885245901639346
+7634,Vosaroxin,CN[C@H]1CN(c2ccc3c(=O)c(C(=O)O)cn(-c4nccs4)c3n2)C[C@@H]1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f77cdd0>,0.3215077605321508
+7654,Mapracorat,Cc1ccc2c(NC[C@](O)(CC(C)(C)c3cc(F)cc4c3OCC4)C(F)(F)F)cccc2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f773430>,0.3238341968911917
+7666,Volasertib,CCC1C(=O)N(C)c2cnc(Nc3ccc(C(=O)N[C@H]4CC[C@H](N5CCN(CC6CC6)CC5)CC4)cc3OC)nc2N1C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f773740>,0.3504043126684636
+7670,Orteronel,CNC(=O)c1ccc2cc([C@@]3(O)CCn4cncc43)ccc2c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f773820>,0.33181818181818185
+7671,BMS-394136,CC1=Nc2ccnn2[C@H](c2ccc(Cl)c(Cl)c2)C1C(=O)N1CCC[C@H]1c1ccc(F)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f773890>,0.3203285420944558
+7675,Vabicaserin,c1cc2c3c(c1)[C@H]1CCC[C@H]1CN3CCNC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f773970>,0.36283185840707965
+7687,Oxitropium,CC[N+]1(C)[C@H]2CC(OC(=O)C(CO)c3ccccc3)C[C@H]1[C@H]1O[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f773e40>,0.3508771929824561
+7691,Naftopidil,COc1ccccc1N1CCN(CC(O)COc2cccc3ccccc23)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f773f90>,0.3346456692913386
+7692,Tetrahydropalmatine,COc1cc2c(cc1OC)[C@@H]1Cc3ccc(OC)c(OC)c3CN1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f763040>,0.39194139194139194
+7712,Dianicline,c1cnc2c(c1)O[C@H]1CCN3CC[C@@]1(C2)C3,<rdkit.Chem.rdchem.Mol object at 0x7f615f763660>,0.35967302452316074
+7715,Ulimorelin,CC1C(=O)NC(Cc2ccc(F)cc2)C(=O)NCCCc2ccccc2O[C@H](C)CNC(C2CC2)C(=O)N1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f763740>,0.3742138364779874
+7745,Telinavir,CC(C)CN(CC(O)[C@H](Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1)C(=O)NC(C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f779120>,0.3419354838709677
+7748,Sapitinib,CNC(=O)CN1CCC(Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f779270>,0.37209302325581395
+7751,Zicronapine,CN1CCN([C@@H]2C[C@@H](c3ccccc3)c3ccc(Cl)cc32)CC1(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7793c0>,0.3504823151125402
+7755,Ajulemic acid,CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(C(=O)O)C[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f779580>,0.3241758241758242
+7758,CP-866087,CC[C@]1(c2cccc(NS(C)(=O)=O)c2)[C@@H]2CN(CC3(O)Cc4ccccc4C3)C[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f779660>,0.3342036553524804
+7763,PF-03654746,CCNC(=O)C1CC(F)(c2ccc(CN3CCCC3)c(F)c2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7797b0>,0.328125
+7769,PSI-697,O=C(O)c1c(O)c(Cc2ccc(Cl)cc2)nc2c3c(ccc12)CCCC3,<rdkit.Chem.rdchem.Mol object at 0x7f615f779970>,0.32974910394265233
+7773,ORG-25935,COc1ccc2c(c1)CC[C@H](CN(C)CC(=O)O)[C@@H]2c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f779b30>,0.392
+7787,Estetrol,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1[C@@H](O)[C@@H](O)[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f774040>,0.3391304347826087
+7799,Vadadustat,O=C(O)CNC(=O)c1ncc(-c2cccc(Cl)c2)cc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f774580>,0.32209737827715357
+7810,Carmegliptin,COc1cc2c(cc1OC)[C@@H]1C[C@H](N)[C@@H](N3C[C@@H](CF)CC3=O)CN1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f774890>,0.41543026706231456
+7813,ORE-1001,CC(C)CC(NC(Cc1cncn1Cc1cc(Cl)cc(Cl)c1)C(=O)O)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f774970>,0.36627906976744184
+7815,Ecopipam,CN1CCc2cc(Cl)c(O)cc2C2c3ccccc3CC[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7749e0>,0.38153846153846155
+7828,Puerarin,O=c1c(-c2ccc(O)cc2)coc2c([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f774c10>,0.3395638629283489
+7871,PF-03654764,CC(C)CNC(=O)C1CC(F)(c2ccc(CN3CCCC3)c(F)c2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7724a0>,0.32398753894080995
+7872,Piclozotan,O=C1c2ccccc2OC=C(Cl)N1CCCCN1CC=C(c2ccccn2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f772430>,0.33827893175074186
+7883,Cytochlor,Nc1nc(=O)n(C2CC(O)C(CO)O2)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f772190>,0.3231552162849873
+7889,Fanapanel,O=c1[nH]c2cc(C(F)(F)F)c(N3CCOCC3)cc2n(CP(=O)(O)O)c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7750b0>,0.330188679245283
+7908,VTP-27999,CN[C@H](CNC(=O)N1CCC[C@@H]([C@@H](OCCNC(=O)OC)c2cccc(Cl)c2)C1)C[C@H]1CCCOC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f775660>,0.35494880546075086
+7925,Sonedenoson,Nc1nc(OCCc2ccc(Cl)cc2)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f775ba0>,0.3387096774193548
+7929,Nadifloxacin,CC1CCc2c(N3CCC(O)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f775d60>,0.32682926829268294
+7940,Semagacestat,CC(NC(=O)C(O)C(C)C)C(=O)NC1C(=O)N(C)CCc2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f768040>,0.3511705685618729
+7942,Ketanserin,O=C(c1ccc(F)cc1)C1CCN(CCn2c(=O)[nH]c3ccccc3c2=O)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f768120>,0.3457142857142857
+7956,Tetrahydrouridine,O=C1NC(O)CCN1[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f768740>,0.3357664233576642
+7971,Atecegatran metoxil,CON=C(N)c1ccc(CNC(=O)C2CCN2C(=O)C(O)c2cc(Cl)cc(OC(F)F)c2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f768ba0>,0.3580645161290323
+7980,PF-00446687,C[C@@H]1CN(C(=O)C2CN(C(C)(C)C)C[C@H]2c2ccc(F)cc2F)C[C@H](C)[C@@]1(O)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f768d60>,0.3631123919308357
+7981,Raclopride,CCN1CCC[C@H]1CNC(=O)c1c(O)c(Cl)cc(Cl)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f768dd0>,0.3895131086142322
+8003,Lecozotan,C[C@H](CN(C(=O)c1ccc(C#N)cc1)c1ccccn1)N1CCN(c2cccc3c2OCCO3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76b430>,0.4405594405594406
+8006,Samidorphan,NC(=O)c1ccc2c(c1O)[C@]13CCN(CC4CC4)[C@H](C2)[C@]1(O)CCC(=O)C3,<rdkit.Chem.rdchem.Mol object at 0x7f615f76b510>,0.3568181818181818
+8007,Indobufen,CCC(C(=O)O)c1ccc(N2Cc3ccccc3C2=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76b580>,0.3240418118466899
+8012,Idazoxan,c1ccc2c(c1)OCC(C1=NCCN1)O2,<rdkit.Chem.rdchem.Mol object at 0x7f615f76b660>,0.36200716845878134
+8035,Ronopterin,C[C@H](O)[C@H](O)[C@H]1CNc2nc(N)nc(N)c2N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76bc80>,0.3409090909090909
+8062,Netivudine,CC#Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f770270>,0.3386243386243386
+8099,Nelivaptan,COc1ccc(S(=O)(=O)N2C(=O)[C@@](c3ccccc3OC)(N3C[C@H](O)CC3C(=O)N(C)C)c3cc(Cl)ccc32)c(OC)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f770900>,0.36907216494845363
+8108,AFN-1252,Cc1c(CN(C)C(=O)C=Cc2cnc3c(c2)CCC(=O)N3)oc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f770ba0>,0.34375
+8127,Soblidotin,CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)C(C)C(=O)NCCc1ccccc1)OC)N(C)C(=O)C(NC(=O)C(C(C)C)N(C)C)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f76f0b0>,0.35333333333333333
+8135,K-134,O=C(NCCCOc1ccc2[nH]c(=O)ccc2c1)N(C1CC1)[C@@H]1CCCC[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f76f2e0>,0.33432835820895523
+8154,Spiradoline,CN(C(=O)Cc1ccc(Cl)c(Cl)c1)[C@H]1CC[C@@]2(CCCO2)C[C@@H]1N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76f580>,0.34591194968553457
+8211,Cicletanine,Cc1ncc2c(c1O)COC2c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76c510>,0.3333333333333333
+8224,Quinfamide,O=C(Oc1ccc2c(c1)CCCN2C(=O)C(Cl)Cl)c1ccco1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76c6d0>,0.36451612903225805
+8234,Picropodophyllin,COc1cc([C@@H]2c3cc4c(cc3[C@H](O)[C@H]3COC(=O)C23)OCO4)cc(OC)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f76c9e0>,0.3872832369942196
+8240,Trifarotene,CC(C)(C)c1cc(-c2cc(-c3ccc(C(=O)O)cc3)ccc2OCCO)ccc1N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76cba0>,0.3617021276595745
+8272,LY-377604,CC(C)(Cc1ccc(Oc2ccc(C(N)=O)cn2)cc1)NC[C@H](O)COc1cccc2[nH]c3ccccc3c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f76d890>,0.34560906515580736
+8289,Eltoprazine,c1cc2c(c(N3CCNCC3)c1)OCCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f76d120>,0.359375
+8291,Namodenoson,CNC(=O)C1O[C@@H](n2cnc3c(NCc4cccc(I)c4)nc(Cl)nc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f76d040>,0.33480176211453744
+8296,Raluridine,O=c1[nH]c(=O)n(C2CC(F)C(CO)O2)cc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f762190>,0.3229166666666667
+8312,Ozenoxacin,CNc1ncc(-c2ccc3c(=O)c(C(=O)O)cn(C4CC4)c3c2C)cc1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7627b0>,0.33875338753387535
+8346,Pactimibe,CCCCCCCCN1CCc2c(C)c(CC(=O)O)c(C)c(NC(=O)C(C)(C)C)c21,<rdkit.Chem.rdchem.Mol object at 0x7f615f76e430>,0.32507739938080493
+8364,PF-00217830,O=C1CCc2ccc(OCCCCN3CCN(c4cccc5ccccc45)CC3)nc2N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76e900>,0.35855263157894735
+8369,Mavoglurant,COC(=O)N1CC[C@@H]2[C@H]1CCC[C@@]2(O)C#Cc1cccc(C)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76e9e0>,0.358600583090379
+8393,Fenoverine,O=C(CN1CCN(Cc2ccc3c(c2)OCO3)CC1)N1c2ccccc2Sc2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f76a2e0>,0.3268608414239482
+8401,CP-195543,O=C(O)c1ccc(C(F)(F)F)cc1-c1ccc2c(c1)OC[C@H](Cc1ccccc1)[C@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f76a510>,0.40425531914893614
+8416,Roluperidone,O=C(CN1CCC(CN2Cc3ccccc3C2=O)CC1)c1ccc(F)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76a9e0>,0.3381294964028777
+8421,AZD-0424,CC(=O)N1CCN(CCOc2cc(OC(C)C)c3c(Nc4c(Cl)cnc5c4OCO5)ncnc3c2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f76ac10>,0.3314285714285714
+8424,Meclocycline,C=C1c2c(Cl)ccc(O)c2C(=O)C2C(=O)C3(O)C(=O)C(C(N)=O)C(=O)C(N(C)C)C3C(O)C12,<rdkit.Chem.rdchem.Mol object at 0x7f615f76ad60>,0.3681710213776722
+8470,Zofenopril,CC(CSC(=O)c1ccccc1)C(=O)N1C[C@@H](Sc2ccccc2)CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f767200>,0.4028268551236749
+8477,4-methylumbelliferyl beta-D-glucoside,Cc1cc(=O)oc2cc(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f769040>,0.3259493670886076
+8495,Guanoxan,N=C(N)NCC1COc2ccccc2O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7696d0>,0.3735408560311284
+8543,Sitafloxacin,N[C@@H]1CN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4C[C@@H]4F)c3c2Cl)CC12CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f765a50>,0.32679738562091504
+8578,Febarbamate,CCCCOCC(CN1C(=O)NC(=O)C(CC)(c2ccccc2)C1=O)OC(N)=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f766580>,0.329073482428115
+8585,Ormeloxifene,COc1ccc2c(c1)OC(C)(C)[C@H](c1ccccc1)[C@H]2c1ccc(OCCN2CCCC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f766820>,0.42105263157894735
+8587,Delapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N(CC(=O)O)C1Cc2ccccc2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f766900>,0.35094339622641507
+8628,Viminol,CCC(C)N(CC(O)c1cccn1Cc1ccccc1Cl)C(C)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f764900>,0.36774193548387096
+8638,Oxaceprol,O=C(O)C1C[C@@H](O)CN1,<rdkit.Chem.rdchem.Mol object at 0x7f615f764d60>,0.3303964757709251
+8642,Cloricromen,CCOC(=O)COc1ccc2c(C)c(CCN(CC)CC)c(=O)oc2c1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f764f20>,0.35240963855421686
+8644,Benzilone,CC[N+]1(CC)CCC(OC(=O)C(O)(c2ccccc2)c2ccccc2)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d6040>,0.323943661971831
+8659,Epimestrol,COc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@]2(C)[C@H](O)[C@H](O)C[C@@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d6660>,0.3363914373088685
+8664,Emetine,CC[C@H]1CN2CCc3cc(OC)c(OC)cc3[C@@H]2C[C@@H]1C[C@H]1NCCc2cc(OC)c(OC)cc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d6820>,0.3630769230769231
+8667,Neocitrullamon,NC(CCCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d6900>,0.3220858895705521
+8682,Lofepramine,CN(CCCN1c2ccccc2CCc2ccccc21)CC(=O)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d6eb0>,0.32234432234432236
+8689,Moxestrol,C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3[C@@H](OC)C[C@@]21C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d7190>,0.3483483483483483
+8721,Nicomorphine,CN1CC[C@]23c4c5ccc(OC(=O)c6cccnc6)c4O[C@H]2[C@@H](OC(=O)c2cccnc2)C=C[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d7eb0>,0.3542116630669546
+8725,Thebacon,COc1ccc2c3c1OC1C(OC(C)=O)=CCC4C(C2)N(C)CCC314,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c0040>,0.36363636363636365
+8733,Deptropine,CN1C2CCC1CC(OC1c3ccccc3CCc3ccccc31)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c0350>,0.36496350364963503
+8738,Nalfurafine,CN(C(=O)/C=C/c1ccoc1)[C@@H]1CC[C@@]2(O)[C@H]3Cc4ccc(O)c5c4[C@@]2(CCN3CC2CC2)[C@H]1O5,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c0430>,0.33463796477495106
+8749,Dimefline,COc1ccc2c(=O)c(C)c(-c3ccccc3)oc2c1CN(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c0890>,0.3225806451612903
+8775,Clebopride,COc1cc(N)c(Cl)cc1C(=O)NC1CCN(Cc2ccccc2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d5dd0>,0.34532374100719426
+8795,Gedocarnil,COCc1c(C(=O)OC(C)C)ncc2[nH]c3cccc(Oc4ccc(Cl)cc4)c3c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d5660>,0.34110787172011664
+8824,Sequifenadine,Cc1ccccc1C(O)(c1ccccc1C)C1CN2CCC1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d8350>,0.32653061224489793
+8836,Mepixanox,COc1ccc2c(=O)c3ccccc3oc2c1CN1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d87b0>,0.33916083916083917
+8870,Clorexolone,NS(=O)(=O)c1cc2c(cc1Cl)CN(C1CCCCC1)C2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cb580>,0.3255131964809384
+8879,Oxolinic acid,CCn1cc(C(=O)O)c(=O)c2cc3c(cc21)OCO3,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cb970>,0.3232876712328767
+8883,Methoserpidine,COC(=O)C1C2CC3c4[nH]c5ccc(OC)cc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cbb30>,0.34615384615384615
+8900,Lorajmine,CC[C@H]1C2C[C@H]3[C@@H]4N(C)c5ccccc5[C@]45C[C@@H](C2C5C(=O)OCCl)N3[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cd0b0>,0.33766233766233766
+8925,Mosapramine,O=C1NC2CCCCN2C12CCN(CCCN1c3ccccc3CCc3ccc(Cl)cc31)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cdac0>,0.33076923076923076
+8935,Clometocillin,COC(C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12)c1ccc(Cl)c(Cl)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cddd0>,0.3310657596371882
+8960,Tritoqualine,CCOc1c(N)c2c(c(OCC)c1OCC)C(C1c3c(cc4c(c3OC)OCO4)CCN1C)OC2=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7db660>,0.42406876790830944
+8967,Hydroquinine,CC[C@H]1CN2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7db900>,0.39072847682119205
+9031,Acemetacin,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7e0200>,0.3481675392670157
+9037,Fipexide,O=C(COc1ccc(Cl)cc1)N1CCN(Cc2ccc3c(c2)OCO3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7e04a0>,0.36329588014981273
+9077,Methylatropine,C[N+]1(C)C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7df430>,0.34494773519163763
+9081,Doxefazepam,O=C1C(O)N=C(c2ccccc2F)c2cc(Cl)ccc2N1CCO,<rdkit.Chem.rdchem.Mol object at 0x7f615f7df5f0>,0.3492537313432836
+9106,Dehydroemetine,CCC1=C(C[C@H]2NCCc3cc(OC)c(OC)cc32)C[C@H]2c3cc(OC)c(OC)cc3CCN2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7dff90>,0.34355828220858897
+9112,Lormetazepam,CN1C(=O)C(O)N=C(c2ccccc2Cl)c2cc(Cl)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7de270>,0.3392857142857143
+9129,Relcovaptan,COc1ccc(S(=O)(=O)N2c3ccc(Cl)cc3[C@](O)(c3ccccc3Cl)C2C(=O)N2CCCC2C(N)=O)cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7de7b0>,0.3752620545073375
+9142,Estradiol acetate,CC(=O)Oc1ccc2c(c1)CCC1C2CC[C@@]2(C)C1CC[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7dec10>,0.32142857142857145
+9143,Estradiol benzoate,C[C@]12CC[C@@H]3c4ccc(OC(=O)c5ccccc5)cc4CC[C@H]3[C@@H]1CC[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7dec80>,0.33876221498371334
+9185,Clinafloxacin,NC1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn(C4CC4)c3c2Cl)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ddeb0>,0.3439024390243902
+9215,Dofequidar,O=C(C(c1ccccc1)c1ccccc1)N1CCN(CC(O)COc2cccc3ncccc23)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7dc970>,0.35471698113207545
+9254,Benazeprilat,O=C(O)CN1C(=O)C(NC(CCc2ccccc2)C(=O)O)CCc2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7da7b0>,0.39855072463768115
+9308,Fosinoprilat,O=C(O)C1C[C@@H](C2CCCCC2)CN1C(=O)CP(=O)(O)CCCCc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4b30>,0.3536977491961415
+9309,Ramiprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1C(C(=O)O)C[C@@H]2CCC[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4ba0>,0.36421725239616615
+9310,Trandolaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1C(C(=O)O)C[C@H]2CCCC[C@@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4c10>,0.39666666666666667
+9311,Moexiprilat,COc1cc2c(cc1OC)CN(C(=O)C(C)NC(CCc1ccccc1)C(=O)O)C(C(=O)O)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4c80>,0.4797047970479705
+9313,Perindoprilat,CCCC(NC(C)C(=O)N1C(C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4d60>,0.36212624584717606
+9315,Quinaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1Cc2ccccc2CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d4dd0>,0.42857142857142855
+9443,Estriol tripropionate,CCC(=O)Oc1ccc2c(c1)CC[C@@H]1[C@@H]2CC[C@@]2(C)[C@H]1C[C@@H](OC(=O)CC)[C@@H]2OC(=O)CC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d15f0>,0.3293768545994065
+9456,Bisoxatin acetate,CC(=O)Oc1ccc(C2(c3ccc(OC(C)=O)cc3)Oc3ccccc3NC2=O)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d1a50>,0.3512658227848101
+9473,Temazepam acetate,CC(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cce40>,0.33532934131736525
+9492,Cinazepam,O=C(O)CCC(=O)OC1N=C(c2ccccc2Cl)c2cc(Br)ccc2NC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cc740>,0.3244047619047619
+9502,Rebeccamycin,CO[C@H]1[C@H](O)[C@@H](O)[C@H](n2c3c(Cl)cccc3c3c4c(c5c6cccc(Cl)c6[nH]c5c32)C(=O)NC4=O)O[C@@H]1CO,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cc3c0>,0.3909952606635071
+9538,ISO-1 F-18,COc1cc2c(cc1OC)CN(CCCCNC(=O)c1cc(C)ccc1OCC[18F])CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d27b0>,0.3874538745387454
+9541,5-methyl-2'-fluoroarauracil F-18,Cc1cn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2[18F])c(=O)[nH]c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d2890>,0.3263157894736842
+9542,Satavaptan,CCOc1ccc2c(c1)C1(CCC(OCCN3CCOCC3)CC1)C(=O)N2S(=O)(=O)c1ccc(C(=O)NC(C)(C)C)cc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d2900>,0.32293986636971045
+9549,Nicotinamide riboside,NC(=O)c1ccc[n+](C2OC(CO)C(O)C2O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d29e0>,0.35507246376811596
+9553,Florbenazine F-18,COc1cc2c(cc1OCCC[18F])CCN1C[C@@H](CC(C)C)[C@H](O)C[C@H]21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d2b30>,0.4161290322580645
+9562,Apararenone,CC1(C)Oc2cc(NS(C)(=O)=O)ccc2N(c2ccc(F)cc2)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d2eb0>,0.3261455525606469
+9581,LY-2624803,CC(C)(CN1CCN(C2=Nc3ccccc3Oc3ccccc32)CC1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d0510>,0.3413897280966767
+9585,GW-468816,O=C1C(c2cc(C(O)O)nc3cc(Cl)ccc23)CCN1c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d06d0>,0.39937106918238996
+9591,GSK-239512,O=C1CCCN1c1ccc(Oc2ccc3c(c2)CCN(C2CCC2)CC3)nc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d0900>,0.32666666666666666
+9594,Fluoroazomycin arabinoside F-18,O=[N+]([O-])c1nccn1[C@H]1O[C@H](C[18F])[C@@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d0a50>,0.3315068493150685
+9599,Fallypride,C=CCN1CCC[C@H]1CNC(=O)c1cc(CCCF)cc(OC)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d0b30>,0.3371212121212121
+9606,JNJ-26489112,NS(=O)(=O)NC[C@H]1COc2cc(Cl)ccc2O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7d0e40>,0.4035714285714286
+9610,Pemafibrate,CCC(Oc1cccc(CN(CCCOc2ccc(OC)cc2)c2nc3ccccc3o2)c1)C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ce040>,0.3531073446327684
+9628,Etamicastat,NCCc1c[nH]c(=S)n1[C@H]1COc2c(F)cc(F)cc2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ce3c0>,0.3256997455470738
+9631,SB-1578,C1=C/COCc2cc(ccc2OCCN2CCCC2)Nc2nccc(n2)-c2ccc(o2)COC/1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ce4a0>,0.3323615160349854
+9633,Hydroquinidine,CC[C@H]1CN2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ce580>,0.39072847682119205
+9638,Posiphen,CN1CC[C@]2(C)c3cc(OC(=O)Nc4ccccc4)ccc3N(C)[C@H]12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ce740>,0.32387706855791965
+9654,SLV-334,O=C(O)CN1C(=O)C(NC(=O)C2(CC(CCc3cccc4ccccc34)C(=O)O)CCCC2)CCc2ccccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7cec80>,0.39009287925696595
+9699,Mexazolam,CC1COC2(c3ccccc3Cl)c3cc(Cl)ccc3NC(=O)CN12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c8a50>,0.3586387434554974
+9700,Oxazolam,C[C@@H]1CN2CC(=O)Nc3ccc(Cl)cc3[C@]2(c2ccccc2)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c8ac0>,0.37567567567567567
+9701,Eticlopride,CCc1cc(Cl)c(OC)c(C(=O)NC[C@@H]2CCCN2CC)c1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c8b30>,0.39776951672862454
+9703,Rocaglamide,COc1ccc([C@@]23Oc4cc(OC)cc(OC)c4[C@]2(O)[C@H](O)C(C(=O)N(C)C)[C@H]3c2ccccc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c8c10>,0.36342042755344417
+9704,Didesmethylrocaglamide,COc1ccc([C@@]23Oc4cc(OC)cc(OC)c4[C@]2(O)[C@H](O)C(C(N)=O)[C@H]3c2ccccc2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c8c80>,0.3552941176470588
+9714,Cilazaprilat,O=C(O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b60b0>,0.34545454545454546
+9743,CDC-801,COc1ccc(C(CC(N)=O)N2C(=O)c3ccccc3C2=O)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b69e0>,0.3993055555555556
+9748,Fasitibant,Cc1cc(C)c2cccc(OCc3c(Cl)ccc(S(=O)(=O)NC4(C(=O)N5CCN(C(=O)C(N)CCC[N+](C)(C)C)CC5)CCOCC4)c3Cl)c2n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b6ba0>,0.3308641975308642
+9765,Fluoroestradiol F-18,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1C[C@@H]([18F])[C@@H]2O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c9200>,0.3333333333333333
+9782,MK-0668,N#Cc1cccc(S(=O)(=O)N2C[C@H](NC3CCC3)CC2C(=O)NC(Cc2ccc(NC(=O)c3c(Cl)cncc3Cl)cc2)C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c9900>,0.37175792507204614
+9848,Raubasine,COC(=O)C1=COC(C)C2CN3CCc4c([nH]c5ccccc45)C3CC12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ca200>,0.33665338645418325
+9867,Clorotepine,CN1CCN(C2Cc3ccccc3Sc3ccc(Cl)cc32)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ca900>,0.3240418118466899
+9901,Bicyclol,COC(=O)c1cc(OC)c2c(c1-c1c(CO)cc(OC)c3c1OCO3)OCO2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bd6d0>,0.33088235294117646
+9914,BI 44370 TA,Cc1cc(CC(OC(=O)N2CCC(N3CCc4ccccc4NC3=O)CC2)C(=O)N2CCC(N3CCOCC3)CC2)cc(C)c1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bdba0>,0.37003058103975534
+9915,DU125530,O=C1c2ccccc2S(=O)(=O)N1CCCCN1CCN(c2cc(Cl)cc3c2OCCO3)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bdc10>,0.358974358974359
+9924,Acolbifene,CC1=C(c2ccc(O)cc2)[C@H](c2ccc(OCCN3CCCCC3)cc2)Oc2cc(O)ccc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bdf90>,0.35789473684210527
+9933,BI 2536,CCC1C(=O)N(C)c2cnc(Nc3ccc(C(=O)NC4CCN(C)CC4)cc3OC)nc2N1C1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c3c80>,0.37329700272479566
+9945,Carotegrast methyl,COC(=O)C(Cc1ccc(-n2c(=O)c3cc(N(C)C)ccc3n(C)c2=O)cc1)NC(=O)c1c(Cl)cccc1Cl,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c3ac0>,0.3930635838150289
+9948,Ceralifimod,CCCc1ccc(COc2ccc3c(c2)CCC(CN2CC(C(=O)O)C2)=C3C)c(OC)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c39e0>,0.348993288590604
+9978,Lapaquistat,COc1cccc([C@H]2OC(CC(=O)N3CCC(CC(=O)O)CC3)C(=O)N(CC(C)(C)CO)c3ccc(Cl)cc32)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c3200>,0.44574780058651026
+9979,Levonadifloxacin,C[C@H]1CCc2c(N3CCC(O)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c3190>,0.32682926829268294
+9981,Lunasine,COc1c2c([n+](C)c3c(OC)cccc13)OC(C(C)C)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c3120>,0.3242424242424242
+9987,CC-11050,CCOc1cc([C@@H](CS(C)(=O)=O)N2Cc3cccc(NC(=O)C4CC4)c3C2=O)ccc1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c7040>,0.3457142857142857
+10010,"Penequinine, Penehyclidine",OC(COC1CN2CCC1CC2)(c1ccccc1)C1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c72e0>,0.3273381294964029
+10020,Revaprazan,Cc1nc(Nc2ccc(F)cc2)nc(N2CCc3ccccc3C2C)c1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c7580>,0.329153605015674
+10028,Selodenoson,CCNC(=O)C1O[C@@H](n2cnc3c(NC4CCCC4)ncnc32)[C@H](O)[C@@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c7660>,0.32413793103448274
+10035,Volinanserin,COc1cccc([C@H](O)C2CCN(CCc3ccc(F)cc3)CC2)c1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c7900>,0.34191176470588236
+10079,Tegoprazan,Cc1nc2c(O[C@H]3CCOc4cc(F)cc(F)c43)cc(C(=O)N(C)C)cc2[nH]1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7ae970>,0.3248081841432225
+10084,RP-67580,COc1ccccc1CC(=N)N1CC2C(=O)CCC(c3ccccc3)(c3ccccc3)[C@@H]2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7aeba0>,0.32670454545454547
+10085,CP-96345,COc1ccccc1CN[C@H]1C2CCN(CC2)[C@H]1C(c1ccccc1)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7aec10>,0.3298611111111111
+10093,Cytochalasin B,C=C1C(C)C2C(Cc3ccccc3)NC(=O)C23OC(=O)/C=C/C(O)CCCC(C)C/C=C/C3C1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7aee40>,0.3293269230769231
+10109,Cinchonidine,C=CC1CN2CCC1CC2C(O)c1ccnc2ccccc12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c52e0>,0.3609271523178808
+10110,Fadrozole,N#Cc1ccc(C2CCCc3cncn32)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c5350>,0.35798816568047337
+10113,Azasetron,CN1C(=O)COc2c(C(=O)NC3CN4CCC3CC4)cc(Cl)cc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c5430>,0.42153846153846153
+10119,Tosufloxacin,NC1CCN(c2nc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2F)C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c5660>,0.3283582089552239
+10142,Arctigenin,COc1cc(CC2C(=O)OC[C@@H]2Cc2ccc(OC)c(OC)c2)ccc1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c5e40>,0.33707865168539325
+10151,Sinomenine,COC1=CC2[C@@H]3Cc4ccc(OC)c(O)c4[C@]2(CCN3C)CC1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c4190>,0.3411214953271028
+10153,Raceanisodamine,CN1[C@H]2C[C@H](OC(=O)C(CO)c3ccccc3)C[C@@H]1[C@@H](O)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c4270>,0.39361702127659576
+10157,Ioflupane F-18,COC(=O)C1[C@@H](c2ccc(I)cc2)C[C@@H]2CC[C@H]1N2CCC[18F],<rdkit.Chem.rdchem.Mol object at 0x7f615f7c4430>,0.3622291021671827
+10172,NT 13,CC(O)C(N)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(C(=O)O)[C@@H](C)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c49e0>,0.3345724907063197
+10179,Enadoline,CN(C(=O)Cc1cccc2occc12)[C@H]1CC[C@@]2(CCCO2)C[C@@H]1N1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c4c80>,0.3333333333333333
+10203,PD-173952,Cn1c(=O)c(-c2c(Cl)cccc2Cl)cc2cnc(Nc3ccc(N4CCOCC4)cc3)nc21,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c6430>,0.32051282051282054
+10212,RS-39604,COc1cc(COc2cc(N)c(Cl)cc2C(=O)CCC2CCN(CCNS(C)(=O)=O)CC2)cc(OC)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c66d0>,0.32407407407407407
+10234,SC 41930,CCCc1c(OCCCOc2ccc(C(C)=O)c(OC)c2CCC)ccc2c1OC(C(=O)O)CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7c6eb0>,0.388
+10328,Homatropine,CN1C2CCC1CC(OC(=O)C(O)c1ccccc1)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bc3c0>,0.3688212927756654
+10420,Pidotimod,O=C1CCC(C(=O)N2CSCC2C(=O)O)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7be510>,0.32608695652173914
+10443,Danofloxacin,CN1C[C@@H]2C[C@H]1CN2c1cc2c(cc1F)c(=O)c(C(=O)O)cn2C1CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bed60>,0.328537170263789
+10469,Marbofloxacin,CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn4c3c2OCN4C)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b0510>,0.32207207207207206
+10470,Maropitant,COc1ccc(C(C)(C)C)cc1CN[C@H]1C2CCN(CC2)[C@H]1C(c1ccccc1)c1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b0580>,0.3365695792880259
+10491,Pradofloxacin,N#Cc1c(N2C[C@@H]3CCCN[C@@H]3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b0d60>,0.3431818181818182
+10495,Rotenone,C=C(C)[C@H]1Cc2c(ccc3c2O[C@@H]2COc4cc(OC)c(OC)cc4C2C3=O)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b0f20>,0.35714285714285715
+10514,Zilpaterol,CC(C)N[C@@H]1CCn2c(=O)[nH]c3cccc(c32)[C@H]1O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b9510>,0.34306569343065696
+10519,Nalorphine,C=CCN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b96d0>,0.3492407809110629
+10520,Sarafloxacin,O=C(O)c1cn(-c2ccc(F)cc2)c2cc(N3CCNCC3)c(F)cc2c1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b9740>,0.33240997229916897
+10533,Difloxacin,CN1CCN(c2cc3c(cc2F)c(=O)c(C(=O)O)cn3-c2ccc(F)cc2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b9c10>,0.3286908077994429
+10547,Metoserpate,COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC)C1OC,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bb120>,0.33073929961089493
+10566,Bicuculline,CN1CCc2cc3c(cc2[C@H]1[C@@H]1OC(=O)c2c1ccc1c2OCO1)OCO3,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bb740>,0.4448051948051948
+10575,Asunaprevir,C=C[C@@H]1C[C@]1(NC(=O)C1C[C@@H](Oc2ncc(OC)c3ccc(Cl)cc23)CN1C(=O)C(NC(=O)OC(C)(C)C)C(C)(C)C)C(=O)NS(=O)(=O)C1CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bba50>,0.3530751708428246
+10588,Lifitegrast,CS(=O)(=O)c1cccc(CC(NC(=O)c2c(Cl)cc3c(c2Cl)CCN(C(=O)c2ccc4ccoc4c2)C3)C(=O)O)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7bbf90>,0.4026315789473684
+10611,Incyclinide,NC(=O)C1C(=O)C[C@@H]2C[C@@H]3Cc4cccc(O)c4C(=O)C3C(=O)[C@]2(O)C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7af5f0>,0.32707774798927614
+10612,Lersivirine,CCc1nn(CCO)c(CC)c1Oc1cc(C#N)cc(C#N)c1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7af660>,0.32471264367816094
+10613,HT-0712,COc1ccc([C@H]2CNC(=O)C(Cc3cccc(C)c3)C2)cc1OC1CCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7af6d0>,0.35144927536231885
+10630,Equol,Oc1ccc([C@H]2COc3cc(O)ccc3C2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7afdd0>,0.35856573705179284
+10631,Mosapride,CCOc1cc(N)c(Cl)cc1C(=O)NCC1CN(Cc2ccc(F)cc2)CCO1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7afe40>,0.34843205574912894
+10651,Raxatrigine,NC(=O)C1CC[C@H](c2ccc(OCc3ccccc3F)cc2)N1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b8580>,0.3203125
+10661,Fedovapagon,Cc1cc(C(=O)N2CCCCc3ccccc32)ccc1CNC(=O)N1CCCC1C(=O)N(C)C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b8890>,0.38311688311688313
+10669,Ipatasertib,CC(C)NCC(C(=O)N1CCN(c2ncnc3c2[C@H](C)C[C@H]3O)CC1)c1ccc(Cl)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b8c10>,0.32564102564102565
+10673,(R)-Praziquantel,O=C(C1CCCCC1)N1CC(=O)N2CCc3ccccc3[C@@H]2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b8dd0>,0.3771626297577855
+10675,Cabotegravir,C[C@H]1CO[C@@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c(O)c3C(=O)N12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b8eb0>,0.33544303797468356
+10687,Pazufloxacin,C[C@H]1COc2c(C3(N)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7200>,0.3333333333333333
+10689,Danoprevir,CC(C)(C)OC(=O)NC1CCCCC/C=C\[C@@H]2C[C@@]2(C(=O)NS(=O)(=O)C2CC2)NC(=O)C2C[C@@H](OC(=O)N3Cc4cccc(F)c4C3)CN2C1=O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b72e0>,0.3205944798301486
+10692,Imidapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(=O)N(C)CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7430>,0.3563636363636364
+10693,Anisodamine,CN1C2C[C@H](OC(=O)C(CO)c3ccccc3)CC1[C@@H](O)C2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b74a0>,0.39361702127659576
+10708,Saracatinib,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7890>,0.35714285714285715
+10714,Retosiban,CC[C@H](C)C1C(=O)NC(C2Cc3ccccc3C2)C(=O)N1C(C(=O)N1CCOCC1)c1coc(C)n1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7ac0>,0.33251833740831294
+10716,Danegaptide,NCC(=O)N1C[C@H](NC(=O)c2ccccc2)CC1C(=O)O,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7ba0>,0.38671875
+10724,Revamilast,O=C(Nc1c(Cl)c[n+]([O-])cc1Cl)c1ccc(OC(F)F)c2oc3ccncc3c12,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b7eb0>,0.33527696793002915
+10766,Sutezolid,CC(=O)NC[C@H]1CN(c2ccc(N3CCSCC3)c(F)c2)C(=O)O1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b3660>,0.33554817275747506
+10768,Varespladib,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccc2n1Cc1ccccc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b35f0>,0.3260340632603406
+10769,MK-0249,Cc1nc2cccc(C(F)(F)F)c2c(=O)n1-c1ccc(OCCCN2CCCC2)cc1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b3580>,0.32439678284182305
+10774,Valbenazine,COc1cc2c(cc1OC)[C@H]1C[C@@H](OC(=O)C(N)C(C)C)[C@H](CC(C)C)CN1CC2,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b3430>,0.41896024464831805
+10782,Vaniprevir,CC[C@@H]1C[C@]1(NC(=O)C1C[C@@H]2CN1C(=O)C(C(C)(C)C)NC(=O)OCC(C)(C)CCCCc1cccc3c1CN(C3)C(=O)O2)C(=O)NS(=O)(=O)C1CC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b3120>,0.32548179871520344
+10785,Epelsiban,CC[C@H](C)C1C(=O)NC(C2Cc3ccccc3C2)C(=O)N1C(C(=O)N1CCOCC1)c1ccc(C)nc1C,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b4040>,0.37116564417177916
+10792,Delafloxacin,Nc1nc(-n2cc(C(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b4270>,0.34134615384615385
+10812,Dacomitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CN1CCCCC1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b4820>,0.33881578947368424
+10814,SJG-136,C=C1CC2C=Nc3cc(OCCCOc4cc5c(cc4OC)C(=O)N4CC(=C)CC4C=N5)c(OC)cc3C(=O)N2C1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b4900>,0.3467048710601719
+10819,DRF-1042,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)C(OCCO)c2cc3ccccc3nc2-1,<rdkit.Chem.rdchem.Mol object at 0x7f615f7b4a50>,0.3269230769230769
