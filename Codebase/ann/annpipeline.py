@@ -335,7 +335,7 @@ class model_pipeline():
 
             self.optimizer = torch.optim.Adam(self.model.parameters(), lr= 0.0001, weight_decay = 0.05)
             self.criterion = torch.nn.BCELoss()
-            # self.lr_scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(self.optimizer, mode='min', factor=0.1, patience=5, verbose=True)
+            self.lr_scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(self.optimizer, mode='min', factor=0.1, patience=5, verbose=True)
             for epoch in range(epochs):
                 train1_loss,train1_f1, train1_ap = self.train()
                 self.lr_scheduler.step(train1_f1)

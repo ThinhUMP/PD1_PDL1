@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+jupyter lab
+jupyter notebook
+tqdm
+rdkit
+rdkit-pypi
+tmap
+# pip install git+https://github.com/reymond-group/map4@v1.0
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+scikit-learn
+statannotations
+statannot
