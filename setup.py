@@ -18,8 +18,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Your-Package-Name',
-    version='0.1',
+    name='ann_simi_vanthinh',
+    version='2023.12.21',
     packages=find_packages(),
     install_requires=[
         'numpy==1.26.2',
