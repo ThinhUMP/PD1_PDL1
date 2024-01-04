@@ -1,0 +1,129 @@
+,Name,StandardSmiles,Pred,Proba,ID
+0,"(2S,4S,5R)-2-ISOBUTYL-5-(2-THIENYL)-1-[4-(TRIFLUOROMETHYL)BENZOYL]PYRROLIDINE-2,4-DICARBOXYLIC ACID",CC(C)C[C@@]1(C(=O)O)CC(C(=O)O)[C@H](c2cccs2)N1C(=O)c1ccc(C(F)(F)F)cc1,1,75.5,screen_0
+1,"(2s)-2-[(2,4-Dichloro-Benzoyl)-(3-Trifluoromethyl-Benzyl)-Amino]-3-Phenyl-Propionic Acid",O=C(O)C(Cc1ccccc1)N(Cc1cccc(C(F)(F)F)c1)C(=O)c1ccc(Cl)cc1Cl,1,73.299995,screen_1
+2,Meticillin,COc1cccc(OC)c1C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12,1,72.299995,screen_2
+3,"(2S,4S,5R)-1-(4-TERT-BUTYLBENZOYL)-2-ISOBUTYL-5-(1,3-THIAZOL-2-YL)PYRROLIDINE-2,4-DICARBOXYLIC ACID",CC(C)C[C@@]1(C(=O)O)CC(C(=O)O)[C@H](c2nccs2)N1C(=O)c1ccc(C(C)(C)C)cc1,1,71.7,screen_3
+4,Podophyllin,COc1cc(C2c3cc4c(cc3C(O)C(CO)C2C(=O)O)OCO4)cc(OC)c1OC,1,71.5,screen_4
+5,NT 13,CC(O)C(N)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(C(=O)O)[C@@H](C)O,1,71.100006,screen_5
+6,LY-2624803,CC(C)(CN1CCN(C2=Nc3ccccc3Oc3ccccc32)CC1)C(=O)O,1,70.9,screen_6
+7,Atrasentan,CCCCN(CCCC)C(=O)CN1C[C@H](c2ccc3c(c2)OCO3)C(C(=O)O)[C@@H]1c1ccc(OC)cc1,1,70.9,screen_7
+8,Pidotimod,O=C1CCC(C(=O)N2CSCC2C(=O)O)N1,1,70.700005,screen_8
+9,N-(3-Propylcarbamoyloxirane-2-Carbonyl)-Isoleucyl-Proline,CCCNC(=O)C1OC1C(=O)NC(C(=O)N1CCCC1C(=O)O)[C@@H](C)CC,1,70.6,screen_9
+10,"4-[(4-bromo-2-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}phenyl)amino]-4-oxobutanoic acid",C[C@@H]1C[C@H](C)CN(C(=O)c2cc(Br)ccc2NC(=O)CCC(=O)O)C1,1,70.5,screen_10
+11,(3S)-1-(4-acetylphenyl)-5-oxopyrrolidine-3-carboxylic acid,CC(=O)c1ccc(N2CC(C(=O)O)CC2=O)cc1,1,70.5,screen_11
+12,Zenarestat,O=C(O)Cn1c(=O)n(Cc2ccc(Br)cc2F)c(=O)c2ccc(Cl)cc21,1,70.4,screen_12
+13,Nafcillin,CCOc1ccc2ccccc2c1C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12,1,70.3,screen_13
+14,Argatroban,CC1CNc2c(cccc2S(=O)(=O)NC(CCCN=C(N)N)C(=O)N2CC[C@@H](C)CC2C(=O)O)C1,1,70.3,screen_14
+15,Glycochenodeoxycholic Acid,C[C@H](CCC(=O)NCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3CC[C@]12C,1,70.200005,screen_15
+16,"N(4)-Adenosyl-N(4)-methyl-2,4-diaminobutanoic acid",CN(CCC(N)C(=O)O)C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1O,1,70.1,screen_16
+17,Carindacillin,CC1(C)S[C@@H]2C(NC(=O)C(C(=O)Oc3ccc4c(c3)CCC4)c3ccccc3)C(=O)N2C1C(=O)O,1,70.1,screen_17
+18,"N-[(13-CYCLOHEXYL-6,7-DIHYDROINDOLO[1,2-D][1,4]BENZOXAZEPIN-10-YL)CARBONYL]-2-METHYL-L-ALANINE",CC(C)(NC(=O)c1ccc2c(C3CCCCC3)c3n(c2c1)CCOc1ccccc1-3)C(=O)O,1,69.9,screen_18
+19,2-{[4-(2-Acetylamino-2-pentylcarbamoyl-ethyl)-naphthalen-1-YL]-oxalyl-amino}-benzoic acid,CCCCCNC(=O)C(Cc1ccc(N(C(=O)C(=O)O)c2ccccc2C(=O)O)c2ccccc12)NC(C)=O,1,69.9,screen_19
+20,(3S)-1-(2-hydroxyphenyl)-5-oxopyrrolidine-3-carboxylic acid,O=C(O)C1CC(=O)N(c2ccccc2O)C1,1,69.8,screen_20
+21,Enrasentan,CCCOc1ccc2c(c1)[C@@H](c1ccc(OC)cc1OCCO)C(C(=O)O)[C@H]2c1ccc2c(c1)OCO2,1,69.700005,screen_21
+22,Fradafiban,N=C(N)c1ccc(-c2ccc(OC[C@@H]3CC(CC(=O)O)C(=O)N3)cc2)cc1,1,69.700005,screen_22
+23,Fosinoprilat,O=C(O)C1C[C@@H](C2CCCCC2)CN1C(=O)CP(=O)(O)CCCCc1ccccc1,1,69.4,screen_23
+24,Varespladib,CCc1c(C(=O)C(N)=O)c2c(OCC(=O)O)cccc2n1Cc1ccccc1,1,69.0,screen_24
+25,"4-{4-[2-(1A,7A-DIMETHYL-4-OXY-OCTAHYDRO-1-OXA-4-AZA-CYCLOPROPA[A]NAPHTHALEN-4-YL) -ACETYLAMINO]-PHENYLCARBAMOYL}-BUTYRIC ACID",CC12CC[C@@H]3[C@](C)(CCC[N@+]3([O-])CC(=O)Nc3ccc(NC(=O)CCCC(=O)O)cc3)[C@@H]1O2,1,69.0,screen_25
+26,S-Adenosyl-L-Homoselenocysteine,Nc1ncnc2c1ncn2[C@@H]1O[C@H](C[Se]CCC(N)C(=O)O)[C@@H](O)[C@H]1O,1,68.5,screen_26
+27,"N-{4-[(Carboxymethyl)carbamoyl]benzoyl}-L-valyl-N-[(3S)-1,1,1-trifluoro-4-methyl-2-oxo-3-pentanyl]-L-prolinamide",CC(C)C(NC(=O)c1ccc(C(=O)NCC(=O)O)cc1)C(=O)N1CCCC1C(=O)NC(C(=O)C(F)(F)F)C(C)C,1,68.5,screen_27
+28,Zofenoprilat,CC(CS)C(=O)N1C[C@@H](Sc2ccccc2)CC1C(=O)O,1,68.4,screen_28
+29,(S)-3-(4-(2-Carbazol-9-Yl-Ethoxy)-Phenyl)-2-Ethoxy-Propionic Acid,CCOC(Cc1ccc(OCCn2c3ccccc3c3ccccc32)cc1)C(=O)O,1,68.3,screen_29
+30,Mycophenolic acid,COc1c(C)c2c(c(O)c1C/C=C(\C)CCC(=O)O)C(=O)OC2,1,68.3,screen_30
+31,Neocitrullamon,NC(CCCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O)C(=O)O,1,67.799995,screen_31
+32,Pralatrexate,C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,1,67.7,screen_32
+33,"N-({(2S,3S)-3-[(BENZYLAMINO)CARBONYL]OXIRAN-2-YL}CARBONYL)-L-ISOLEUCYL-L-PROLINE",CC[C@H](C)C(NC(=O)C1OC1C(=O)NCc1ccccc1)C(=O)N1CCCC1C(=O)O,1,67.6,screen_33
+34,Methicillin Acyl-Serine,COc1cccc(OC)c1C(=O)NC(C(=O)OCC(N)C(=O)O)[C@@H]1NC(C(=O)O)C(C)(C)S1,1,67.5,screen_34
+35,"(2S)-2-[(3aR,4R,7S,7aS)-1,3-dioxooctahydro-2H-4,7-methanoisoindol-2-yl]propanoic acid",CC(C(=O)O)n1c(O)c2c(c1O)[C@H]1CC[C@@H]2C1,1,67.5,screen_35
+36,"2,3-Bis-Benzo[1,3]Dioxol-5-Ylmethyl-Succinic Acid",O=C(O)C(Cc1ccc2c(c1)OCO2)C(Cc1ccc2c(c1)OCO2)C(=O)O,1,67.299995,screen_36
+37,GW-559090,Cc1ccccc1OCC(=O)NC(CC(C)C)C(=O)NC(Cc1ccc(OC(=O)N2CCC(C(N)=O)CC2)cc1)C(=O)O,1,67.299995,screen_37
+38,Clometocillin,COC(C(=O)NC1C(=O)N2C(C(=O)O)C(C)(C)S[C@H]12)c1ccc(Cl)c(Cl)c1,1,67.2,screen_38
+39,"4-{4-[3-(2,4-DICHLORO-BENZOYL)-UREIDO]-2,3-DIMETHYL-PHENOXY}-BUTYRIC ACID",Cc1c(NC(=O)NC(=O)c2ccc(Cl)cc2Cl)ccc(OCCCC(=O)O)c1C,1,66.9,screen_39
+40,Mitiglinide,O=C(O)C(CC(=O)N1CC2CCCCC2C1)Cc1ccccc1,1,66.5,screen_40
+41,Licofelone,CC1(C)Cc2c(-c3ccccc3)c(-c3ccc(Cl)cc3)c(CC(=O)O)n2C1,1,66.399994,screen_41
+42,"(2R,4S)-2-[(1R)-1-{[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino}-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid",CC1(C)S[C@H](C(C=O)NC(=O)C(N)c2ccc(O)cc2)NC1C(=O)O,1,66.1,screen_42
+43,Clorazepic acid,O=C(O)C1N=C(c2ccccc2)c2cc(Cl)ccc2NC1=O,1,65.7,screen_43
+44,Indomethacin,COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,1,65.5,screen_44
+45,Tosyl-D-Proline,Cc1ccc(S(=O)(=O)N2CCCC2C(=O)O)cc1,1,65.4,screen_45
+46,Perindoprilat,CCCC(NC(C)C(=O)N1C(C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)O,1,65.3,screen_46
+47,[4-(4-Hydroxy-Benzyl)-2-(2-Hydroxy-1-Methyl-Ethyl)-5-Oxo-Imidazolidin-1-Yl]-Acetic Acid,CC(CO)C1NC(Cc2ccc(O)cc2)C(=O)N1CC(=O)O,1,65.3,screen_47
+48,Ilepatril,CC(=O)SC(C(=O)NC1Cc2ccccc2[C@H]2CCCC(C(=O)O)N2C1=O)C(C)C,1,65.3,screen_48
+49,Chromophore (Gly-Tyr-Gly),C[C@@H](O)[C@H](N)C1=NC(=Cc2ccc(O)cc2)C(=O)N1CC(=O)O,1,65.200005,screen_49
+50,Omapatrilat,O=C(NC1CCS[C@H]2CCCC(C(=O)O)N2C1=O)C(S)Cc1ccccc1,1,65.100006,screen_50
+51,Zomepirac,Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,1,65.0,screen_51
+52,1-[(2-AMINO-4-CHLORO-5-METHYLPHENYL)SULFONYL]-L-PROLINE,Cc1cc(S(=O)(=O)N2CCCC2C(=O)O)c(N)cc1Cl,1,64.9,screen_52
+53,N-Alpha-(2-Naphthylsulfonyl)-N-(3-Amidino-L-Phenylalaninyl)-D-Pipecolinic Acid,N=C(N)c1cccc(CC(NS(=O)(=O)c2ccc3ccccc3c2)C(=O)N2CCCCC2C(=O)O)c1,1,64.8,screen_53
+54,Pactimibe,CCCCCCCCN1CCc2c(C)c(CC(=O)O)c(C)c(NC(=O)C(C)(C)C)c21,1,64.700005,screen_54
+55,AVE-2865,O=C(NC(=O)c1cc(F)c(F)cc1Cl)Nc1cc(F)ccc1N1CCC(C(=O)O)CC1,1,64.700005,screen_55
+56,Ceralifimod,CCCc1ccc(COc2ccc3c(c2)CCC(CN2CC(C(=O)O)C2)=C3C)c(OC)c1,1,64.700005,screen_56
+57,FG-2216,O=C(O)CNC(=O)c1nc(Cl)c2ccccc2c1O,1,64.600006,screen_57
+58,Methotrexate,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,1,64.5,screen_58
+59,Ertapenem,C[C@@H](O)C1C(=O)N2C(C(=O)O)=C(S[C@@H]3CNC(C(=O)Nc4cccc(C(=O)O)c4)C3)[C@H](C)[C@H]12,1,64.5,screen_59
+60,Ecgonine,CN1C2CCC1C(C(=O)O)[C@@H](O)C2,1,64.5,screen_60
+61,"(9S,12S)-9-(1-methylethyl)-7,10-dioxo-2-oxa-8,11-diazabicyclo[12.2.2]octadeca-1(16),14,17-triene-12-carboxylic acid",CC(C)C1NC(=O)CCCCOc2ccc(cc2)CC(C(=O)O)NC1=O,1,64.4,screen_61
+62,SC 41930,CCCc1c(OCCCOc2ccc(C(C)=O)c(OC)c2CCC)ccc2c1OC(C(=O)O)CC2,1,64.4,screen_62
+63,"2-Benzo[1,3]Dioxol-5-Ylmethyl-3-Benzyl-Succinic Acid",O=C(O)C(Cc1ccccc1)C(Cc1ccc2c(c1)OCO2)C(=O)O,1,64.4,screen_63
+64,"(2R,4S)-2-[(R)-BENZYLCARBAMOYL-PHENYLACETYL-METHYL]-5,5-DIMETHYL-THIAZOLIDINE-4-CARBOXYLIC ACID",CC1(C)S[C@H](C(C(=O)Cc2ccccc2)C(=O)NCc2ccccc2)NC1C(=O)O,1,64.200005,screen_64
+65,Candoxatril,COCCOCC(CC1(C(=O)NC2CCC(C(=O)O)CC2)CCCC1)C(=O)Oc1ccc2c(c1)CCC2,1,63.6,screen_65
+66,"2-[(1R)-1-carboxy-2-naphthalen-1-ylethyl]-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",O=C(O)c1ccc2c(c1)C(=O)N(C(Cc1cccc3ccccc13)C(=O)O)C2=O,1,63.4,screen_66
+67,Hydroxyproline,O=C(O)C1C[C@@H](O)CN1,1,63.200005,screen_67
+68,Oxaceprol,O=C(O)C1C[C@@H](O)CN1,1,63.200005,screen_68
+69,ORE-1001,CC(C)CC(NC(Cc1cncn1Cc1cc(Cl)cc(Cl)c1)C(=O)O)C(=O)O,1,62.5,screen_69
+70,"2-[(1R)-1-CARBOXY-2-(4-HYDROXYPHENYL)ETHYL]-1,3-DIOXOISOINDOLINE-5-CARBOXYLIC ACID",O=C(O)c1ccc2c(c1)C(=O)N(C(Cc1ccc(O)cc1)C(=O)O)C2=O,1,62.4,screen_70
+71,SLV-334,O=C(O)CN1C(=O)C(NC(=O)C2(CC(CCc3cccc4ccccc34)C(=O)O)CCCC2)CCc2ccccc21,1,61.4,screen_71
+72,2'-O-Acetyl Adenosine-5-Diphosphoribose,CC(=O)O[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n1cnc2c(N)ncnc21,1,61.0,screen_72
+73,Sp-722,O=C(O)CCC(NC(=O)c1ccc(S(=O)(=O)N2CCCC2C(=O)O)cc1)C(=O)O,1,60.5,screen_73
+74,Enalaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,1,60.5,screen_74
+75,"1-(5-Carboxypentyl)-5-[(2,6-Dichlorobenzyl)Oxy]-1 H-Indole-2-Carboxylic Acid",O=C(O)CCCCCn1c(C(=O)O)cc2cc(OCc3c(Cl)cccc3Cl)ccc21,1,60.2,screen_75
+76,"Cp403700, (S)-1-{2-[(5-Chloro-1h-Indole-2-Carbonyl)-Amino]-3-Phenyl-Propionyl}-Azetidine-3-Carboxylate",O=C(NC(Cc1ccccc1)C(=O)N1CC(C(=O)O)C1)c1cc2cc(Cl)ccc2[nH]1,1,60.100002,screen_76
+77,Lisinopril,NCCCCC(NC(CCc1ccccc1)C(=O)O)C(=O)N1CCCC1C(=O)O,1,59.399998,screen_77
+78,"[(2S)-4-methyl-3-oxo-2,3,4,5-tetrahydro-1H-1,4-benzodiazepin-2-yl]acetic acid",CN1Cc2ccccc2NC(CC(=O)O)C1=O,1,58.399998,screen_78
+79,Cilazaprilat,O=C(O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,1,58.2,screen_79
+80,"2-[(1R)-2-carboxy-1-(naphthalen-1-ylmethyl)ethyl]-1,3-dioxo-2,3-dihydro-1H-isoindole-5-carboxylic acid",O=C(O)C[C@@H](Cc1cccc2ccccc12)N1C(=O)c2ccc(C(=O)O)cc2C1=O,1,58.1,screen_80
+81,SP-876,O=C(O)CCNC(=O)C1CCCN1S(=O)(=O)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1,1,58.0,screen_81
+82,Perindopril,CCCC(NC(C)C(=O)N1C(C(=O)O)C[C@@H]2CCCC[C@@H]21)C(=O)OCC,1,57.8,screen_82
+83,Irinotecan,CCc1c2c(nc3ccc(OC(=O)N4CCC(N5CCCCC5)CC4)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC,1,57.4,screen_83
+84,Pemafibrate,CCC(Oc1cccc(CN(CCCOc2ccc(OC)cc2)c2nc3ccccc3o2)c1)C(=O)O,1,57.4,screen_84
+85,Zofenopril,CC(CSC(=O)c1ccccc1)C(=O)N1C[C@@H](Sc2ccccc2)CC1C(=O)O,1,57.300003,screen_85
+86,Acemetacin,COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,1,57.200005,screen_86
+87,Danegaptide,NCC(=O)N1C[C@H](NC(=O)c2ccccc2)CC1C(=O)O,1,56.800003,screen_87
+88,(2R)-({4-[AMINO(IMINO)METHYL]PHENYL}AMINO){5-ETHOXY-2-FLUORO-3-[(3R)-TETRAHYDROFURAN-3-YLOXY]PHENYL}ACETICACID,CCOc1cc(O[C@@H]2CCOC2)c(F)c(C(Nc2ccc(C(=N)N)cc2)C(=O)O)c1,1,56.199997,screen_88
+89,ROX-888,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,1,56.1,screen_89
+90,Ketorolac,O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O,1,56.1,screen_90
+91,Trandolaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1C(C(=O)O)C[C@H]2CCCC[C@@H]21,1,55.800003,screen_91
+92,"3-carboxamido-1,3,5(10)-estratrien-17(R)-spiro-2'(5',5'-dimethyl-6'oxo)tetrahydropyran",CC1(C)CC[C@@]2(CC[C@H]3[C@@H]4CCc5cc(C(N)=O)ccc5C4CC[C@@]32C)OC1=O,1,55.4,screen_92
+93,"3-(9-HYDROXY-1,3-DIOXO-4-PHENYL-2,3-DIHYDROPYRROLO[3,4-C]CARBAZOL-6(1H)-YL)PROPANOIC ACID",O=C(O)CCn1c2ccc(O)cc2c2c3c(c(-c4ccccc4)cc21)C(=O)NC3=O,1,55.0,screen_93
+94,"2-[2-(1,3-Dioxo-1,3-Dihydro-2h-Isoindol-2-Yl)Ethyl]-4-(4'-Ethoxy-1,1'-Biphenyl-4-Yl)-4-Oxobutanoic Acid",CCOc1ccc(-c2ccc(C(=O)CC(CCN3C(=O)c4ccccc4C3=O)C(=O)O)cc2)cc1,1,54.100002,screen_94
+95,2-[4-[(Z)-2-Acetamido-3-oxo-3-[[(3S)-2-oxo-1-[(4-phenylphenyl)methyl]azepan-3-yl]amino]prop-1-enyl]-2-formylphenyl]acetic acid,CC(=O)N=C(Cc1ccc(CC(=O)O)c(C=O)c1)C(=O)NC1CCCCN(Cc2ccc(-c3ccccc3)cc2)C1=O,1,53.8,screen_95
+96,Estradiol hemisuccinate,C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2OC(=O)CCC(=O)O,1,53.8,screen_96
+97,Pilocarpine,CCC1C(=O)OC[C@@H]1Cc1cncn1C,1,53.8,screen_97
+98,Oxitropium,CC[N+]1(C)[C@H]2CC(OC(=O)C(CO)c3ccccc3)C[C@H]1[C@H]1O[C@H]12,1,53.600002,screen_98
+99,Cilazapril,CCOC(=O)C(CCc1ccccc1)NC1CCCN2CCCC(C(=O)O)N2C1=O,1,53.500004,screen_99
+100,7-Alpha-D-Ribofuranosyl-Purine-5'-Phosphate,O=P(O)(O)OC[C@H]1O[C@H](n2cnc3ncncc32)[C@H](O)[C@@H]1O,1,53.399998,screen_100
+101,Vadadustat,O=C(O)CNC(=O)c1ncc(-c2cccc(Cl)c2)cc1O,1,52.899998,screen_101
+102,Moexiprilat,COc1cc2c(cc1OC)CN(C(=O)C(C)NC(CCc1ccccc1)C(=O)O)C(C(=O)O)C2,1,52.7,screen_102
+103,Imidapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1C(=O)N(C)CC1C(=O)O,1,52.399998,screen_103
+104,Ramiprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1C(C(=O)O)C[C@@H]2CCC[C@@H]21,1,52.399998,screen_104
+105,Quinaprilat,CC(NC(CCc1ccccc1)C(=O)O)C(=O)N1Cc2ccccc2CC1C(=O)O,1,52.3,screen_105
+106,Temazepam acetate,CC(=O)OC1N=C(c2ccccc2)c2cc(Cl)ccc2N(C)C1=O,1,52.3,screen_106
+107,Loracarbef,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1,1,52.2,screen_107
+108,7-(2-Amino-2-Phenyl-Acetylamino)-3-Chloro-8-Oxo-1-Aza-Bicyclo[4.2.0]Oct-2-Ene-2-Carboxylic Acid,NC(C(=O)NC1C(=O)N2C(C(=O)O)=C(Cl)CCC12)c1ccccc1,1,52.2,screen_108
+109,Alrestatin,O=C(O)CN1C(=O)c2cccc3cccc(c23)C1=O,1,52.0,screen_109
+110,RB106,O=C(NCC(=O)N1C(C(=O)O)CC[C@@H]1c1ccccc1)C(S)Cc1ccccc1,1,52.0,screen_110
+111,Calanolide A,CCCc1cc(=O)oc2c3c(c4c(c12)OC(C)(C)C=C4)O[C@H](C)[C@@H](C)[C@@H]3O,1,51.5,screen_111
+112,Benazepril,CCOC(=O)C(CCc1ccccc1)NC1CCc2ccccc2N(CC(=O)O)C1=O,1,51.300003,screen_112
+113,Beraprost,CC#CCC(C)C(O)/C=C/C1C(O)CC2Oc3c(CCCC(=O)O)cccc3C21,1,51.2,screen_113
+114,Methylumbelliferyl sialic acid,CC(=O)N[C@H]1[C@H]([C@H](O)[C@H](O)CO)O[C@@](Oc2ccc3c(C)cc(=O)oc3c2)(C(=O)O)C[C@@H]1O,1,51.1,screen_114
+115,Ajulemic acid,CCCCCCC(C)(C)c1cc(O)c2c(c1)OC(C)(C)[C@@H]1CC=C(C(=O)O)C[C@@H]21,1,51.1,screen_115
+116,N-({6-[(4-CYANO-2-FLUOROBENZYL)OXY]NAPHTHALEN-2-YL}SULFONYL)-D-GLUTAMIC ACID,N#Cc1ccc(COc2ccc3cc(S(=O)(=O)NC(CCC(=O)O)C(=O)O)ccc3c2)c(F)c1,1,50.5,screen_116
+117,Lifitegrast,CS(=O)(=O)c1cccc(CC(NC(=O)c2c(Cl)cc3c(c2Cl)CCN(C(=O)c2ccc4ccoc4c2)C3)C(=O)O)c1,1,50.5,screen_117
+118,Lapaquistat,COc1cccc([C@H]2OC(CC(=O)N3CCC(CC(=O)O)CC3)C(=O)N(CC(C)(C)CO)c3ccc(Cl)cc32)c1OC,1,50.5,screen_118
+119,"METHYL N-({(2S,3S)-3-[(PROPYLAMINO)CARBONYL]OXIRAN-2-YL}CARBONYL)-L-ISOLEUCYL-L-PROLINATE",CCCNC(=O)C1OC1C(=O)NC(C(=O)N1CCCC1C(=O)OC)[C@@H](C)CC,1,50.5,screen_119
+120,DRF-1042,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)C(OCCO)c2cc3ccccc3nc2-1,1,50.4,screen_120
+121,Benazeprilat,O=C(O)CN1C(=O)C(NC(CCc2ccccc2)C(=O)O)CCc2ccccc21,1,50.4,screen_121
+122,Enalapril,CCOC(=O)C(CCc1ccccc1)NC(C)C(=O)N1CCCC1C(=O)O,1,49.6,screen_122
+123,ORG-25935,COc1ccc2c(c1)CC[C@H](CN(C)CC(=O)O)[C@@H]2c1ccccc1,1,49.5,screen_123
+124,Rocuronium,C=CC[N+]1([C@H]2C[C@H]3[C@@H]4CC[C@H]5C[C@H](O)[C@@H](N6CCOCC6)C[C@]5(C)[C@H]4CC[C@]3(C)[C@H]2OC(C)=O)CCCC1,1,49.5,screen_124
+125,Daglutril,CCOC(=O)C(CCc1ccccc1)CC1(C(=O)NC2CCc3ccccc3N(CC(=O)O)C2=O)CCCC1,1,49.5,screen_125
+126,Marbofloxacin,CN1CCN(c2c(F)cc3c(=O)c(C(=O)O)cn4c3c2OCN4C)CC1,1,49.3,screen_126
+127,9-(6-deoxy-alpha-L-talofuranosyl)-6-methylpurine,Cc1ncnc2c1ncn2[C@@H]1O[C@H]([C@H](C)O)[C@@H](O)[C@H]1O,1,49.1,screen_127
