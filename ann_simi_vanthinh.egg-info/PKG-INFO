@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: ann-simi-vanthinh
+Version: 2023.12.21
+Provides-Extra: gpu
+License-File: LICENSE
