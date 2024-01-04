@@ -1,8 +1,0 @@
-LICENSE
-README.md
-setup.py
-ann_simi_vanthinh.egg-info/PKG-INFO
-ann_simi_vanthinh.egg-info/SOURCES.txt
-ann_simi_vanthinh.egg-info/dependency_links.txt
-ann_simi_vanthinh.egg-info/requires.txt
-ann_simi_vanthinh.egg-info/top_level.txt
