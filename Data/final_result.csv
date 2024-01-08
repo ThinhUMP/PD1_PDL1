@@ -1,0 +1,6 @@
+ID,Name,StandardSmiles_x,Proba,gnina_CNN_best,tanimoto_avalon
+screen_22,Fradafiban,N=C(N)c1ccc(-c2ccc(OC[C@@H]3CC(CC(=O)O)C(=O)N3)cc2)cc1,69.700005,0.89,0.3414634146341463
+screen_51,Zomepirac,Cc1cc(CC(=O)O)n(C)c1C(=O)c1ccc(Cl)cc1,65.0,0.84,0.3353474320241691
+screen_37,GW-559090,Cc1ccccc1OCC(=O)NC(CC(C)C)C(=O)NC(Cc1ccc(OC(=O)N2CCC(C(N)=O)CC2)cc1)C(=O)O,67.299995,0.82,0.3806228373702422
+screen_11,(3S)-1-(4-acetylphenyl)-5-oxopyrrolidine-3-carboxylic acid,CC(=O)c1ccc(N2CC(C(=O)O)CC2=O)cc1,70.5,0.79,0.3531598513011152
+screen_42,"(2R,4S)-2-[(1R)-1-{[(2R)-2-Amino-2-(4-hydroxyphenyl)acetyl]amino}-2-oxoethyl]-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid",CC1(C)S[C@H](C(C=O)NC(=O)C(N)c2ccc(O)cc2)NC1C(=O)O,66.1,0.76,0.3295774647887324
