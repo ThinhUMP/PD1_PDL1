@@ -11,6 +11,14 @@ Immune checkpoint inhibitors are popular cancer treatment researchs over the yea
 
 **KEYWORDS**: PD-L1 inhibitors, molecular similarity, GNINA, artificial neural network, virtual screening.
 
+# Installation
+
+This project used a `setup.py` script for installation. Here are the steps to install it:
+
+1. Clone the repository: git clone https://github.com/ThinhUMP/PD1_PDL1.git
+2. Navigate into the cloned project directory
+3. Install the project using `setup.py`: python setup.py install
+
 # Contributors
 - [Van-Thinh To](https://thinhump.github.io/)
 - [Phuoc-Chung Nguyen Van](https://www.facebook.com/chung.nguyenvanphuoc.9)
