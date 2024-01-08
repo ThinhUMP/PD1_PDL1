@@ -3,3 +3,4 @@ __pycache__/
 .pth
 *.pth
 ann_simi_vanthinh.egg-info/
+build/
