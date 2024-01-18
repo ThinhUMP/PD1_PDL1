@@ -1,0 +1,14 @@
+cff-version: 1.19.24
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "To"
+  given-names: "Van-Thinh"
+  orcid: "https://orcid.org/0000-0002-7640-0807"
+- family-names: "Phan"
+  given-names: "Tieu-Long"
+  orcid: "https://orcid.org/0000-0002-3532-2064"
+title: "Innovative Virtual Screening of PD-L1 Inhibitors: The Synergy of Molecular Similarity, Neural Networks, and GNINA Docking"
+version: 1.19.24
+doi: 10.26434/chemrxiv-2024-zf1k8
+date-released: 09 January 2024
+url: "https://github.com/ThinhUMP/PD1_PDL1"
