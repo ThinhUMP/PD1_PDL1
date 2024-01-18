@@ -1,6 +1,6 @@
 # PDL1
 
-# **Application of Molecular Similarity, Neural Networks and GNINA molecular docking for PD-L1 inhibitors Virtual Screening**
+# **Innovative Virtual Screening of PD-L1 Inhibitors: The Synergy of Molecular Similarity, Neural Networks, and GNINA Docking**
 
 ![The workflow of the study](https://github.com/ThinhUMP/PD1_PDL1/blob/main/Image/Result/Artboard%201.png)
 
@@ -9,7 +9,7 @@ Immune checkpoint inhibitors are popular cancer treatment researchs over the yea
 
 ![The results of virtual screening process](https://github.com/ThinhUMP/PD1_PDL1/blob/main/Image/Result/Virtual%20screening%20results.png)
 
-**KEYWORDS**: PD-L1 inhibitors, molecular similarity, GNINA, artificial neural network, virtual screening.
+**KEYWORDS**: Drug discovery, GNINA, molecular similarity, PD-L1 inhibitors, virtual screening.
 
 # Installation
 
@@ -22,6 +22,5 @@ This project used a `setup.py` script for installation. Here are the steps to in
 # Contributors
 - [Van-Thinh To](https://thinhump.github.io/)
 - [Phuoc-Chung Nguyen Van](https://www.facebook.com/chung.nguyenvanphuoc.9)
-- [Thanh-An Pham](https://thanh-an-pham.github.io/)
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
-- [Ngoc-Tuyen Truong](https://scholar.google.com/citations?hl=vi&user=qx3eMsIAAAAJ) - [Corresponding author](mailto:truongtuyen@ump.edu.vn)
+- [Tuyen Ngoc Truong](https://scholar.google.com/citations?hl=vi&user=qx3eMsIAAAAJ) - [Corresponding author](mailto:truongtuyen@ump.edu.vn)
